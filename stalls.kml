@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Stalls</name>
+    <Style id="icon-1577-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Ah Tee Ko Ko Mee</name>
+      <description><![CDATA[Address: <br>#01-100 Gourmet Street, Blk 27 Kelantan Court, S200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.857632,1.306498,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>85 乡村古早蚝煎 (85 Village Gu Zao Fried Oyster)</name>
+      <description><![CDATA[Address:<br>#01-05, 85 Fengshan Centre, Blk 85 Bedok North St 4, S460085<br><br>Opening Hours:<br>Daily 11.30am-11pm. ]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.938751,1.331981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>915 虾面 (915 Prawn Noodle)</name>
+      <description><![CDATA[Address:<br>827 Tampines Street 81, S520827]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.933901,1.349652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ah Meng Kueh</name>
+      <description><![CDATA[Address:<br>#02-45 Hong Lim Market & Food Centre, 531A Upper Cross St, S051531<br><br>Opening Hours:<br>Tues-Sat, 8.30am-6.30pm, Sun 8.30am-4pm.]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.845851,1.285321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaya Kaya</name>
+      <description><![CDATA[Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St, S051531<br><br>Opening Hours:<br>Daily 8am-5pm except Sat, 8am-5.30pm]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.8456676,1.2854336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Famous Sungei Road Trishaw Laksa</name>
+      <description>Address: Hong Lim Food Centre 531A Upper Cross Street #2-66 </description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.845851,1.285321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
