@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Stalls</name>
+    <name>Stalls without Delivery</name>
     <Style id="icon-1577-E65100-normal">
       <IconStyle>
         <color>ff0051e6</color>
@@ -93,6 +93,58 @@
       <Point>
         <coordinates>
           103.845851,1.285321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feng Ji Char Kway Teow
+</name>
+      <description><![CDATA[Address:<br>Beauty World Centre, Upper Bukit Timah Rd, #04-45 Blk 144 588177<br><br>Opening Hours:<br>12 to 7<br><br>Remarks:<br>"One of the best kway tiao I've tasted in Singapore"]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.776131,1.34234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Xin Chu Seafood
+</name>
+      <description><![CDATA[Address:<br>﻿ Telok Blangah Rise Market & Food Centre, Blk 36 Telok Blangah Rise #01-49 090036<br><br>Opening Hours:<br>11:30 - 21:00]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.821985,1.272617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yong Sheng Cooked Food</name>
+      <description><![CDATA[Address:<br>#01-320 Tekka Market, S210665<br><br>Opening Hours:<br>Wed-Fri, morning after lunch]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.850551,1.306197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Xiang Ji Gu Zao Wei Claypot Delight</name>
+      <description><![CDATA[Address:<br>69 Geylang Bahru Food Centre #01-59 S330069<br><br>Opening Hours:<br>Tues-Sun 11am till 8pm]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.870115,1.321461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lian Xiang Shu Shi (Kway Teow / Hokkien Mee)</name>
+      <description><![CDATA[Address:<br>4 Woodlands Street 12, #01-61 Marsiling Mall S738620]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.779704,1.43438,0
         </coordinates>
       </Point>
     </Placemark>
