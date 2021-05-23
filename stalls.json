@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857632,
+          1.306498,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ah Tee Ko Ko Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address: <br>#01-100 Gourmet Street, Blk 27 Kelantan Court, S200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938751,
+          1.331981,
+          0
+        ]
+      },
+      "properties": {
+        "name": "85 乡村古早蚝煎 (85 Village Gu Zao Fried Oyster)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-05, 85 Fengshan Centre, Blk 85 Bedok North St 4, S460085<br><br>Opening Hours:<br>Daily 11.30am-11pm. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933901,
+          1.349652,
+          0
+        ]
+      },
+      "properties": {
+        "name": "915 虾面 (915 Prawn Noodle)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>827 Tampines Street 81, S520827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ah Meng Kueh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-45 Hong Lim Market & Food Centre, 531A Upper Cross St, S051531<br><br>Opening Hours:<br>Tues-Sat, 8.30am-6.30pm, Sun 8.30am-4pm."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8456676,
+          1.2854336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kaya Kaya",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St, S051531<br><br>Opening Hours:<br>Daily 8am-5pm except Sat, 8am-5.30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Famous Sungei Road Trishaw Laksa",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address: Hong Lim Food Centre 531A Upper Cross Street #2-66 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776131,
+          1.34234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Feng Ji Char Kway Teow\n",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Beauty World Centre, Upper Bukit Timah Rd, #04-45 Blk 144 588177<br><br>Opening Hours:<br>12 to 7<br><br>Remarks:<br>\"One of the best kway tiao I've tasted in Singapore\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.821985,
+          1.272617,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xin Chu Seafood\n",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>﻿ Telok Blangah Rise Market & Food Centre, Blk 36 Telok Blangah Rise #01-49 090036<br><br>Opening Hours:<br>11:30 - 21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850551,
+          1.306197,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yong Sheng Cooked Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-320 Tekka Market, S210665<br><br>Opening Hours:<br>Wed-Fri, morning after lunch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870115,
+          1.321461,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xiang Ji Gu Zao Wei Claypot Delight",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>69 Geylang Bahru Food Centre #01-59 S330069<br><br>Opening Hours:<br>Tues-Sun 11am till 8pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.779704,
+          1.43438,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lian Xiang Shu Shi (Kway Teow / Hokkien Mee)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>4 Woodlands Street 12, #01-61 Marsiling Mall S738620"
+      }
+    }
+  ]
+}
