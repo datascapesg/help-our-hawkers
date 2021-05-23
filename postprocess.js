@@ -1,5 +1,8 @@
-import * as toGeoJSON from 'https://dev.jspm.io/togeojson'
+import * as toGeoJSON from 'https://cdnjs.cloudflare.com/ajax/libs/togeojson/0.16.0/togeojson.js'
 import xmldom from 'https://dev.jspm.io/xmldom'
+
+// Provide a require shim for togeojson
+window.require = () => xmldom
 
 const stalls = Deno.readTextFileSync(Deno.args[0])
 
