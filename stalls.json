@@ -231,6 +231,27 @@
         },
         "description": "Address:<br>4 Woodlands Street 12, #01-61 Marsiling Mall S738620"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899432,
+          1.316459,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Geylang Serai Nasi Padang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>60, Lorong 101 Changi Singapore, Singapore 419712"
+      }
     }
   ]
 }

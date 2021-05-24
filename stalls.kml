@@ -148,5 +148,15 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Geylang Serai Nasi Padang</name>
+      <description><![CDATA[Address:<br>60, Lorong 101 Changi Singapore, Singapore 419712]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.899432,1.316459,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
