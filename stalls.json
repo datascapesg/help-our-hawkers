@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.857632,
-          1.306498,
+          103.857816,
+          1.306714,
           0
         ]
       },
@@ -19,7 +19,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address: <br>#01-100 Gourmet Street, Blk 27 Kelantan Court, S200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm"
+        "description": "Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court,  200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -27,20 +27,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.938751,
-          1.331981,
+          103.938879,
+          1.331811,
           0
         ]
       },
       "properties": {
-        "name": "85 乡村古早蚝煎 (85 Village Gu Zao Fried Oyster)",
+        "name": "85 乡村古早蚝煎",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#01-05, 85 Fengshan Centre, Blk 85 Bedok North St 4, S460085<br><br>Opening Hours:<br>Daily 11.30am-11pm. "
+        "description": "Address:<br>#01-05, 85 Fengshan Centre, Blk 85 Bedok North St 4,  460085<br><br>Opening Hours:<br>daily 11.30am-11pm. <br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -48,20 +48,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.933901,
-          1.349652,
+          103.93375,
+          1.349703,
           0
         ]
       },
       "properties": {
-        "name": "915 虾面 (915 Prawn Noodle)",
+        "name": "915 虾面",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>827 Tampines Street 81, S520827"
+        "description": "Address:<br>827 Tampines Street 81, . 520827<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -69,8 +69,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.845851,
-          1.285321,
+          103.84579,
+          1.28515,
           0
         ]
       },
@@ -82,7 +82,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#02-45 Hong Lim Market & Food Centre, 531A Upper Cross St, S051531<br><br>Opening Hours:<br>Tues-Sat, 8.30am-6.30pm, Sun 8.30am-4pm."
+        "description": "Address:<br>#02-45 Hong Lim Market & Food Centre, 531A Upper Cross St 51531<br><br>Opening Hours:<br>Tues-Sat, 8.30am-6.30pm, Sun 8.30am-4pm.<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -90,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8456676,
-          1.2854336,
+          103.84579,
+          1.28515,
           0
         ]
       },
@@ -103,7 +103,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St, S051531<br><br>Opening Hours:<br>Daily 8am-5pm except Sat, 8am-5.30pm"
+        "description": "Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St 51531<br><br>Opening Hours:<br>daily 8am-5pm except Sat, 8am-5.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -111,20 +111,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.845851,
-          1.285321,
+          103.887025,
+          1.353842,
           0
         ]
       },
       "properties": {
-        "name": "Famous Sungei Road Trishaw Laksa",
+        "name": "Kampong Western Food",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address: Hong Lim Food Centre 531A Upper Cross Street #2-66 "
+        "description": "Address:<br>coffee shop at Block 121 Hougang Avenue 1. <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -132,20 +132,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.776131,
-          1.34234,
+          103.818714,
+          1.277266,
           0
         ]
       },
       "properties": {
-        "name": "Feng Ji Char Kway Teow\n",
+        "name": "Handmade Teochew Kueh",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Beauty World Centre, Upper Bukit Timah Rd, #04-45 Blk 144 588177<br><br>Opening Hours:<br>12 to 7<br><br>Remarks:<br>\"One of the best kway tiao I've tasted in Singapore\""
+        "description": "Address:<br>Telok Blangah Block 11 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Netizen took video of elderly lady making the Peng Kueh by hand<br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -153,20 +153,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.821985,
-          1.272617,
+          103.844756,
+          1.337796,
           0
         ]
       },
       "properties": {
-        "name": "Xin Chu Seafood\n",
+        "name": "Bak Chor Mee",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>﻿ Telok Blangah Rise Market & Food Centre, Blk 36 Telok Blangah Rise #01-49 090036<br><br>Opening Hours:<br>11:30 - 21:00"
+        "description": "Address:<br>127 Toa Payoh Lorong 1, #02-03. <br><br>Opening Hours:<br>0700 to 1400 hr<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -174,8 +174,2969 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.850551,
-          1.306197,
+          103.827519,
+          1.288721,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Heng Heng Cooked Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Beo Crescent Market <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Lady selling ban mian lost her stall. The auntie selling chai tow kway next door offered to let ban mian lady share her stall<br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.813761,
+          1.284311,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hokkien Bak Kut Teh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 163 Bukit Merah Central #02-42 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817914,
+          1.399465,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fa Zhan Fishball noodles and Laksa",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>928 Upper Thomson Road <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863926,
+          1.303333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kheng Fatt Hainanese Beef Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Golden Mile Food centre #01-89 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764094,
+          1.303535,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Prawn Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>721 Clementi West Street 2 coffee shop <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764319,
+          1.30374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ming Kee Porridge",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>726 West coast food centre  <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860669,
+          1.301532,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seow Choon Hua (Fuzhou Cuisine)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>33 Sultan Gate <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.918058,
+          1.394227,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Miami Bistro",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>50 Punggol East #01-K34 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>73 Year old man<br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870173,
+          1.32144,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xiang Ji Gu Zao Wei Claypot Delights",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>69 Geylang Bahru food centre #01-59 <br><br>Opening Hours:<br>1100 to 2200 hr. Closed on Mondays<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764266,
+          1.303785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hup Seng Heng vegetarian food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>726 Clementi West Street 2, #01-195 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.865377,
+          1.376287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wang Rong",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>38 Ang Mo Kio industrial park 2 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883087,
+          1.315182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "一味香wonton noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>467 Geylang Lor 25A <br><br>Opening Hours:<br>0600 to 1500 hours. Closed on Tuesday<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886667,
+          1.320556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ng Soon Kee Fish and duck porridge",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>117 Aljunied Avenue 2, #01-11 <br><br>Opening Hours:<br>Monday to Saturday, 0800 to 1500 hr<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Elderly Couple<br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861077,
+          1.334907,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yuan Jia",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>1002 Toa Payoh Industrial Park  <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899965,
+          1.314496,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasi Padang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>60, Lorong 101 Changi Singapore 419712<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>chaiporneng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776342,
+          1.342311,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Feng Ji Char Kway Teow",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Beauty World Centre, Upper Bukit Timah Rd, #04-45 Blk 144 588177<br><br>Opening Hours:<br>12 to 7<br><br>Shop Recommendations:<br>One of the best kway tiao I’ve tasted in Singapore<br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82193,
+          1.272463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xin Chu Seafood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>﻿ Telok Blangah Rise Market & Food Centre, Blk 36 Telok Blangah Rise #01-49 90036<br><br>Opening Hours:<br>11:30 - 21:00<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.939563,
+          1.325096,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bedok Prawn Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>BLK 208B New Upper Changi Rd #01-15 462208<br><br>Opening Hours:<br>0800 - 2200hrs<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Gayle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854575,
+          1.372773,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Everyday Tea Stall 天天茶室",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>AMK Ave 10, Cheng San Food Centre, Everyday Tea Stall, 天天茶室 #01-128 560527<br><br>Opening Hours:<br>Open 5.30am - 1030am Tues - Thu, Sat & Sun until 11.30am. Rest days Mon & Fri.<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.758795,
+          1.337844,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ZhangJi Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>25 Bukit Batok Crescent #01-01 The Elitist 658066<br><br>Opening Hours:<br>Mon to Say 8am - 7pm, closed Sun & PH<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831272,
+          1.287441,
+          0
+        ]
+      },
+      "properties": {
+        "name": "River Seafood Garden",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 4 Bukit Ho Swee #01-150 162004<br><br>Opening Hours:<br>Mon - Sun (1030am to 730pm)<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849839,
+          1.3339,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shi Zhen Yu Tang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>177 Toa Payoh Central 310177<br><br>Opening Hours:<br>Mon to Sun except Tues. 10.30 to 3pm, 4.30pm to 10pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818508,
+          1.266818,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ding's hainanese chicken rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-32 Seah Im Rd, Block 2 ‘099114<br><br>Opening Hours:<br>From 8am<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>MichelleY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856749,
+          1.307354,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Northern Thai Tom Yum",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>166 Jln Besar #01-25 208877<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "33 Bean and Juices",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Amoy Street Food Centre #01-33 69111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ah Seng (Hai Nam) Coffee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Amoy Street Food Centre #02-95 69111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906949,
+          1.30282,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Somerset Wanton Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>81 Marine Parade Central, #01-654, Singapore  440081<br><br>Opening Hours:<br>8am to 2PM Daily - Tuesday Off<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Eddie Ng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818672,
+          1.277431,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Uncle Lim Traditional Pancakes",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>11 Telok Blangah Crescent, #01-120 90011<br><br>Opening Hours:<br>Open about 6am - 1pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827519,
+          1.288721,
+          0
+        ]
+      },
+      "properties": {
+        "name": "阿妹手工面 Ah Mei Handmade Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Stall 01-71 38A Beo Crescent Wet Market & Food Centre  169982<br><br>Opening Hours:<br>5.30am - 3.30pm, Mondays-Sundays (Daily) <br><br>Shop Recommendations:<br>Handmade noodles 幼面 <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.813332,
+          1.32653,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adam BBQ",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-18 Adam Road Food Centre 289876<br><br>Opening Hours:<br>- <br><br>Shop Recommendations:<br>Sambal Stingray<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.737801,
+          1.343706,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lao Fu Zhi Cooked Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 254 Jurong East St 24 #01-21. Yuhua market 600254<br><br>Opening Hours:<br>7am. Closed on Tue and Wed and Chinese calendar 1st and 15th. <br><br>Shop Recommendations:<br>Lor Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93375,
+          1.349703,
+          0
+        ]
+      },
+      "properties": {
+        "name": "915 虾面",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>827 Tampines Street 81 S520827<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Prawn Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846128,
+          1.340449,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Asia Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>116 Toa Payoh Lorong 2 #01-04 310116<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Chicken Wing<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885065,
+          1.326632,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tian Seng Fried Prawn Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>79 Circuit Rd, #01-10 370079<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fried Hokkien Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871846,
+          1.314918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xin Kee Hainanese Chicken Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>17 Upper Boon Keng Rd, Upper Boon Keng Market hawker center 380017<br><br>Opening Hours:<br>Closed on Tues<br><br>Shop Recommendations:<br>Steamed Chicken Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890022,
+          1.354022,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Punggol Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>105 Hougang Ave 1, #02-24 530105<br><br>Opening Hours:<br>8:00am - 3:00pm (Mon & Fri off)<br><br>Shop Recommendations:<br>Bak Chor Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886143,
+          1.359055,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tian Huat",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-07 Blk 209 Kovan Market & Food Centre. 530209<br><br>Opening Hours:<br>7am onwards<br><br>Shop Recommendations:<br>Lor Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818672,
+          1.277431,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Handmade Teochew Kuey",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>11 Telok Blangah Crescent 90011<br><br>Opening Hours:<br>Morning until 8 p.m.?<br><br>Shop Recommendations:<br>Ku cai kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834453,
+          1.353659,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fa Zhan Fish Ball Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>246B Upper Thomson Road 574370<br><br>Opening Hours:<br>- <br><br>Shop Recommendations:<br>Fried Carrot Cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854348,
+          1.34025,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Da Lao Fried White Kway Teow",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-23, Blk 210 Lor 8 Toa Payoh 310210<br><br>Opening Hours:<br>- <br><br>Shop Recommendations:<br>Fried oyster eggs<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.713067,
+          1.345743,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hai Chua Minced Meat Fishball Noodles 海泉鱼圆肉脞面",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Boon Lay Market and Food Village, 221A Boon Lay Place #01-110 641221<br><br>Opening Hours:<br>Breakfast  0530hrs to 1230hrs (estimated) Dinner 1700hrs to 2100hrs (estimated) *OFF EVERY WEDNESDAY (unless falls on PH, stall will open and rest another day)*<br><br>Shop Recommendations:<br>Fishball Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860669,
+          1.301532,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seow Choon Hua Restaurant",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>33 Sultan Gate 198481<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Red fermented mee swa<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833529,
+          1.284866,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Traditional Porridge",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>57 Eng Hoon Street 160057<br><br>Opening Hours:<br>730am-10am<br><br>Shop Recommendations:<br>Pork porridge <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.925461,
+          1.331301,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bedok 539 Kway Chap",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>539 Bedok North St 3 #01-593 (G Lucky Coffeeshop)  460539<br><br>Opening Hours:<br>0900-1930<br><br>Shop Recommendations:<br>Braised Duck Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764266,
+          1.303785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hup Seng Heng Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>726 Clementi West Street 2, #01-195 120726<br><br>Opening Hours:<br>Tuesday to Sunday: 11am to 10pm, Closed on Monday<br><br>Shop Recommendations:<br>Sliced \"Fish\" Bee Hoon Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780374,
+          1.433522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lian Xiang Shu Shi",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>4 Woodlands Street 12, #01-61 Marsiling Mall 738620<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887261,
+          1.32135,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ng Soon Kee Fish and Duck Porridge",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 117 Aljunied Ave 2 #01-11 380117<br><br>Opening Hours:<br>From 11am<br><br>Shop Recommendations:<br>Sliced Fish Soup/ porridge<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9352,
+          1.328179,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New Generation Fried Hokkien Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 136 Bedok North Ave 3 460136<br><br>Opening Hours:<br>11.30am-8pm<br><br>Shop Recommendations:<br>Fried Oyster<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838401,
+          1.418142,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ho Jiak Rojak",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 630 Yishun St 61 760630<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Rojak<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Feng Ji Fried Kway Teow",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br> #04-45 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Wednesday to Sunday, 1130 am to 7pm<br><br>Shop Recommendations:<br>Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83883,
+          1.374184,
+          0
+        ]
+      },
+      "properties": {
+        "name": "自己来香菇肉脞面 Zi Ji Lai Mushroom Meat Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Mayflower Food Centre, Blk 162 #01-07 Ang Mo Kio Avenue 4. 560162<br><br>Opening Hours:<br>6am to 1pm<br><br>Shop Recommendations:<br>Bak Chor Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.862271,
+          1.302296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New Hong Kong Street Chun Kee Restaurant",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>371 Beach Road #02-02 City Gate  199597<br><br>Opening Hours:<br>11am - 9pm<br><br>Shop Recommendations:<br>BBQ Sting Ray<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871378,
+          1.327034,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Korean Cuisine",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>10 Lor Bakar Batu, Singapore 348744 348744<br><br>Opening Hours:<br>Mon to Fri 11am to 6:30pm Sat 11am to 4pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839515,
+          1.300419,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Signs A Taste Of Vietnam Pho",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Orchard Gateway B2-15, 277 Orchard Rd 238858<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Sliced Beef Ribeye Pho<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744394,
+          1.37744,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xin Wei Mei Fishball Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>253 Choa Chu Kang Avenue 1 680253<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Fishball noodle mee kia<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818508,
+          1.266818,
+          0
+        ]
+      },
+      "properties": {
+        "name": "#01-32 Ding’s Hainanese Chicken Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-32 Seah Im Rd, Block 2 99114<br><br>Opening Hours:<br>0800 - 1500 during this phase. 0800 - 1900 after phase.<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84579,
+          1.28515,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ho Kee seafood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-21 Hong Lim. 531A Upper Cross Street 51531<br><br>Opening Hours:<br>Lunch dinner<br><br>Shop Recommendations:<br>Tzi Char <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859752,
+          1.30025,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Price Coffee House",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>249 Beach Rd, #01-249 189757<br><br>Opening Hours:<br>11am–9:30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ren Yi Kitchen",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-46 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Spinach Soup Rice/ Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Claypot Herbal Bak Kut Teh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-58 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Claypot Herbal Bak Kut Teh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Handmade Yong Tau Foo",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-59 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Yong Tau Foo Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beauty World Niang Re Gao",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-54 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Old School Biscuit<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887077,
+          1.32787,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hup Hup Mee Siam",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>80 Circuit Road #02-14 370080<br><br>Opening Hours:<br>6am-2/2:30pm<br><br>Shop Recommendations:<br>Hup Hup Mee Siam<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yi Kang Fish Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-53 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Tuesday, 10am to 8pm<br><br>Shop Recommendations:<br>Fried Fish Beehoon Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ye Ri Xiang Xiao Chi",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-19 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday, 10am to 3pm<br><br>Shop Recommendations:<br>Fried Carrot Cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jia Jia Shu Shi",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-21 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday, 10am to 4pm<br><br>Shop Recommendations:<br>Hokkien Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hong Wen Mutton Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-20 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday, 11am to 4pm (730pm on weekend)<br><br>Shop Recommendations:<br>Mutton Stomach Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Happiness Hainanese Chicken Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-38 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Tuesday, 10am to 3pm<br><br>Shop Recommendations:<br>Steamed Chicken Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jin Li Satay Bee Hoon",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-40 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Tuesday & Wednesday, 11am to 3pm<br><br>Shop Recommendations:<br>Satay Bee Hoon<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Top1 Home Made Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-44 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Wednesday, 11am to 5pm<br><br>Shop Recommendations:<br>Sliced Fish Home Made Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Top1 Mini Wok",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-47 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Friday, 11am to 7pm<br><br>Shop Recommendations:<br>Seafood Beancurd with Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sheng Li Nasi Lemak",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-48 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Tuesday, 730am to 4pm<br><br>Shop Recommendations:<br>Nasi Lemak<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.925738,
+          1.312852,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Soy eu tua coffeeshop",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>15 Upper E Coast Rd, Singapore 455207 455207<br><br>Opening Hours:<br>7am to 8pm<br><br>Shop Recommendations:<br>Prawn noodle, lor mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Khun-Yai Thai Food (Bangkok)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-66 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Monday, 1130am to 2pm and 5pm to 7pm<br><br>Shop Recommendations:<br>Fried Minced Hot Basil <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "28 Mixed Veg Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-65 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Sunday, 1030am to 3pm<br><br>Shop Recommendations:<br>Sweet and soup Pork<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dhaba 1376 North Indian cuisine",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Monday afternoon, 11am to 10pm<br><br>Shop Recommendations:<br>Mixed Kebab Platter<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.865377,
+          1.376287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wang Rong",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>38 Ang Moh Kio Industrial Park 2  569511<br><br>Opening Hours:<br>10am - 7pm<br><br>Shop Recommendations:<br>Carrot cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guan Yin Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Everyday except Sunday, 11pm to 2pm<br><br>Shop Recommendations:<br>Mixed Vegetable Gravy Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rojak Popiah and Cockle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Store 56, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>11-6pm <br><br>Shop Recommendations:<br>*Listed in 2018 Michelin Bib Gourmand<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829008,
+          1.372362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Noshkata",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>590 upper Thomas road 01-22 574419<br><br>Opening Hours:<br>11-7pm<br><br>Shop Recommendations:<br>Army stew<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "29 Porridge and Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-43 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>7am to 6pm<br><br>Shop Recommendations:<br>Pork Porridge<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eat May Know",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01-32 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Rojak<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825869,
+          1.279902,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hong Yong Teochew Handmade Fishball Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 112 Jln Bukit Merah Food Centre #01-09  160112<br><br>Opening Hours:<br>4am plus till 10am or till sold out<br><br>Shop Recommendations:<br>https://www.misstamchiak.com/hong-yong-chao-zhou-yu-yuan-guo-tiao-mian/<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zhen Ji Mushroom Minced Meat Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01-21 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Mushroom Minced Meat Noodle<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zhong Ji Wanton Mee 忠记云吞面",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01-25 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Wanton Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Min Hiang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-60 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>Till late afternoon<br><br>Shop Recommendations:<br>Soya Bean Milk <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fatina's Family Food Corner",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01- 23 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>- <br><br>Shop Recommendations:<br>Nasi Lemak Ayam<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Warong Mak Limah and Family",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01-84 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Nasi Lemak <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817007,
+          1.283754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hokkien Bak Kut Teh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-42 Blk 163 Bukit Merah Central 150163<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Bak Kut Teh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870173,
+          1.32144,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lew Song Kim",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-53 Geylang Bahru Market and Food Centre, 69 Geylang Bahru 330069<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Nyonya Mee Siam <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.872566,
+          1.354196,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ricky Satay",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-15 Blk 261 Serangoon Central Drive, Man Kim Coffeeshop 550261<br><br>Opening Hours:<br>5pm to 1045pm, Tuesday off<br><br>Shop Recommendations:<br>Pork/ Chicken/ Mutton Satay <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843092,
+          1.282586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pang's Satay",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-213 Chinatown Complex, 335 Smith Road  50335<br><br>Opening Hours:<br>Mon-Fri 5to9pm.  Sat/Sun/PH 3.30to9pm.  Closed on Wed (except PH)<br><br>Shop Recommendations:<br>Satay <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906949,
+          1.30282,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Somerset Wantan Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-654, Hua Hua Eating House, Marine Parade Central Blk 81  440081<br><br>Opening Hours:<br>8am to 2pm (Tuesday Off)<br><br>Shop Recommendations:<br>Wantan Noodle<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885396,
+          1.323446,
+          0
+        ]
+      },
+      "properties": {
+        "name": "顺顺来叻沙",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-133, 89 Circuit Rd MARKET & HAWKER CENTRE 370089<br><br>Opening Hours:<br>6am to 11am<br><br>Shop Recommendations:<br>Laksa<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818714,
+          1.277266,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Handmade Teochew Kuey",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>11 Telok Blangah, Telok Blangah Crescent Market 90011<br><br>Opening Hours:<br>7.30am onwards<br><br>Shop Recommendations:<br>Soon Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854192,
+          1.340234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wang Mei (Chin Ji) Soya Bean",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Soya Bean Milk<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854192,
+          1.340234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Li Huat Hot and Cold Cheng Tng",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854192,
+          1.340234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guan Kee Kway Chap",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-24 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>Tuesday/Wednesday/Saturday/Sunday: 11am – 8pm Closed on Monday/Thursday/Friday<br><br>Shop Recommendations:<br>Kway Chap <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.896059,
+          1.319352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eunos Kway Chap Pig Organ's Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>30 Eunos Road 5 ( Tai Peng canteen) 400030<br><br>Opening Hours:<br>7am-2pm or until sold out. (Monday to Saturday) <br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845764,
+          1.340477,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Asia Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 116 Toa Payoh Lorong 2 (Coffee shop just above Braddell MRT) 310116<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Chicken Cutlet <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857033,
+          1.33559,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hai Nan King Zhou Beef Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-06 Blk 22 Toa Payoh Lor 7,  Kim Keat Palm Market & Food Center  310022<br><br>Opening Hours:<br>8:30AM-5PM (till sold out), closed on Mondays<br><br>Shop Recommendations:<br>Beef Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843124,
+          1.28254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lin Da Qiang (林大强)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>335 Smith St, #02-072 Complex Food Centre 50335<br><br>Opening Hours:<br>10am onwards<br><br>Shop Recommendations:<br>Cantonese Stir Fry <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788308,
+          1.310971,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ghim Moh H.K Pasteries",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020<br><br>Opening Hours:<br>Tue-sun 7am-7pm<br><br>Shop Recommendations:<br>Curry Puff<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843275,
+          1.282086,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tian Yuen (天愿) Hainanese Chicken Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-162, Chinatown Silk House, Smith St 50335<br><br>Opening Hours:<br>11.30am till chicken is sold finished - off days depends <br><br>Shop Recommendations:<br>Steamed Chicken Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.690005,
+          1.325028,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pasir Panjang Minced Meat Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>2 Third Lok Yang Road 627997<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Minced Meat Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hong Hong laksa / Pok ribs prawn noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Bendemeer hawker and Food Center, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>From 6am to food sold finish<br><br>Shop Recommendations:<br>Laksa<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839303,
+          1.31191,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kwang Huat Prawn Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Store 15, Newton Food Centre, 500 Clemenceau Avenue North  229495<br><br>Opening Hours:<br>Daily: 11:30 - 00:00<br><br>Shop Recommendations:<br>Hokkien Fried Prawn Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930149,
+          1.325971,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ci Feng Bak Kut Teh and Ban Mian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>食为天 Coffee Shop, Blk 204 Bedok North St 1 460204<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Bak Kut Teh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842629,
+          1.371178,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mei Xiang (美香) Popiah",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 133 Ang Mo Kio Ave 3 560133<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Popiah <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kovan Chwee Kueh 口味水粿",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Bendemeer Food Center #01-64 29 Bendemeer Rd 330029<br><br>Opening Hours:<br>6am onwards<br><br>Shop Recommendations:<br>Chwee Kueh <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.923502,
+          1.323935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lynn's Place Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>26A Chai Chee Rd 461026<br><br>Opening Hours:<br>11am-9pm<br><br>Shop Recommendations:<br>Fish and Chips<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895889,
+          1.368094,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hock Kee Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 327, Hougang Ave 5 530327<br><br>Opening Hours:<br>12 - 930pm<br><br>Shop Recommendations:<br>Spring Chicken <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818664,
+          1.266818,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lee Lai ( Hong Kong) Roast Meat",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Seah Im Food Centre, #01-20 99114<br><br>Opening Hours:<br>Mon – Sat ( 11am-6pm)<br><br>Shop Recommendations:<br>Roast Pork<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814086,
+          1.324088,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Selamat Datang Warong Pak Sapari",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>2 Adam Road 289876<br><br>Opening Hours:<br>7:45am-9pm(Hours vary based on availability)<br><br>Shop Recommendations:<br>Mee Soto <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805634,
+          1.316262,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shun Fatt Roasted Delight",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-86, Empress Road Hawker Center (Farrer Road)  260007<br><br>Opening Hours:<br>7am and closes at 9pm<br><br>Shop Recommendations:<br>Dumpling Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.853618,
+          1.300054,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rong Yi Pau",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>269B Queens Street, 3838 Eating Place 182269<br><br>Opening Hours:<br>7am onwards<br><br>Shop Recommendations:<br>Char Siew Pau<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854438,
+          1.300903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ser Kee Restaurant (壮记菜馆）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>270 Queen St, #01-43  180270<br><br>Opening Hours:<br>7am - 8pm<br><br>Shop Recommendations:<br>Braised Duck <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ri Xin Snack Delights",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Store 55, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ang Ku Kueh <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hum Jin Pang 中国街咸煎饼",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>11am-8pm <br><br>Shop Recommendations:<br>Ham Jin Pang <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hainanese Curry Rice (中国街咖喱饭）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-68 Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Hainanese Curry Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Traditional Delight (古早美味）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ondeh Ondeh <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mei Si Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br># 01-01, Bendemeer Market & Food Centre 330029<br><br>Opening Hours:<br>6am -1pm, Tuesdays to Sundays<br><br>Shop Recommendations:<br>Mushroom Pig Trotter Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863926,
+          1.303333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liang Seah Street Prawn Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Golden Mile Food Centre, #B1-54 199583<br><br>Opening Hours:<br>8:15 to 20:45<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791252,
+          1.275969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Choa Chu Kang BBQ Chicken Wings",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Store 23, 121 Pasir Panjang Rd, Pasir Panjang Food center 118543<br><br>Opening Hours:<br>Wednesday - Sunday , 4:30pm - 11pm<br><br>Shop Recommendations:<br>BBQ Chicken Wings<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.866513,
+          1.376775,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wang Rong",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>38 Ang Mo Kio Industrial Park (Coffee Shop) 569511<br><br>Opening Hours:<br>10am to 7pm<br><br>Shop Recommendations:<br>Carrot cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chung Ping Chicken Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-58 Blk 29 Bendemeer Road, Bendemeer Market and Food Centre 330029<br><br>Opening Hours:<br>10am - 7pm<br><br>Shop Recommendations:<br>Steamed Chicken Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Granny Pancake",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Red Bean Ming Jiang Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856572,
+          1.368036,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hong Homemade Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br> #01-12, 453A Ang Mo Kio Avenue 10, Chong Boon Food Centre 561453<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Homemade Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854458,
+          1.372806,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Everyday Tea Stall 《天天茶室》",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Stall #01-128, Ang Mo Kio Ave 10, Cheng San Food Centre 560527<br><br>Opening Hours:<br>Open 5.30am - 1030am Tues - Thu, Sat & Sun until 11.30am. Rest days Mon & Fri. No delivery, only takeaway at stall.<br><br>Shop Recommendations:<br>Kopi C Siew Dai<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817007,
+          1.283754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hokkien Bak Kut Teh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Stall #02-36, 163 Bukit Merah Central 150163<br><br>Opening Hours:<br>Current covid time: 10am - 3/4pm. Sunday closed. *Non covid hrs: 10am-8pm, sat 10am-4pm, sunday closed<br><br>Shop Recommendations:<br>Hokkien bak kut teh. Reason - good decent stall, ingredients always taste good fresh make and not stingy, reasonably good portion for the price. Alot of bak ku teh charge $5/6 or higher with pathetic miserable pcs of ingredient and stingy when ask for soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88585,
+          1.308232,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lau Pa Sat cooked food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01-151, 51 Old Airport Rd 390051<br><br>Opening Hours:<br>12-9.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817791,
+          1.399723,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fa Zhan Fishball Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>930 Upper Thomson Road 787122<br><br>Opening Hours:<br>630am to 230pm<br><br>Shop Recommendations:<br>Fishball noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929323,
+          1.326485,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fa 323 fried kuay teow carrot cake",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>418 Bedok North st 1 460418<br><br>Opening Hours:<br>Unsure but has morning market<br><br>Shop Recommendations:<br>Carrot cake <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817406,
+          1.283454,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hokkien Bak Kut Teh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 163 Bukit Merah Central #02-36 150163<br><br>Opening Hours:<br>11am-5pm closed on Tuesday<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818664,
+          1.266818,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fried Kuay Teaw Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-26, 2 Seah Im Rd, Seah Im Food Centre 99114<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Fried Kway Teow Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938879,
+          1.331811,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zai Fa Fishball Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-35, 85 Bedok North Street 4, 85 Fengshan Centre 凤山中心 460085<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Fishball Noodles (with pork lard)<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844118,
+          1.429557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jie Ji Mian Shi (杰纪面食）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-141，Blk 343 Yishun Ave11 760343<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Lor Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Soon Huat Satay Bee Hoon",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-47, 6 Jalan Bukit Merah, ABC Brickworks Market 150006<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Satay <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827519,
+          1.288721,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ah Mei Ban Mian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-72, 38A Beo Cres, Beo Crescent Market 169982<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ban Mian<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933425,
+          1.349834,
+          0
+        ]
+      },
+      "properties": {
+        "name": "827 fish soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 827 coffee shop Tampines st 81 520827<br><br>Opening Hours:<br>10am to 8pm<br><br>Shop Recommendations:<br>Fish soup w rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843142,
+          1.276694,
+          0
+        ]
+      },
+      "properties": {
+        "name": "威威菜头粿 WEI WEI Carrot Cake",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-52, 6 Tanjong Pagar Plaza 81006<br><br>Opening Hours:<br>6.45am - 2pm<br><br>Shop Recommendations:<br>White Carrot Cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850654,
+          1.306251,
           0
         ]
       },
@@ -187,7 +3148,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#01-320 Tekka Market, S210665<br><br>Opening Hours:<br>Wed-Fri, morning after lunch"
+        "description": "Address:<br>Tekka Market 665 Buffalo Road #01-320 210665<br><br>Opening Hours:<br>Wed - Fri  9am - 2pm<br><br>Shop Recommendations:<br>Assam Curry Fish<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
@@ -195,20 +3156,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.870115,
-          1.321461,
+          103.817007,
+          1.283754,
           0
         ]
       },
       "properties": {
-        "name": "Xiang Ji Gu Zao Wei Claypot Delight",
+        "name": "Guan Huat Yong Tau Foo",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>69 Geylang Bahru Food Centre #01-59 S330069<br><br>Opening Hours:<br>Tues-Sun 11am till 8pm"
+        "description": "Address:<br>163 Bukit Merah central #02-31 S(150163) 150163<br><br>Opening Hours:<br>11am to 7pm<br><br>Shop Recommendations:<br>Laksa Yong Tau Foo <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
@@ -216,20 +3177,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.779704,
-          1.43438,
+          103.844723,
+          1.338036,
           0
         ]
       },
       "properties": {
-        "name": "Lian Xiang Shu Shi (Kway Teow / Hokkien Mee)",
+        "name": "Shi Zhen Yu Tang (时珍鱼汤)",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>4 Woodlands Street 12, #01-61 Marsiling Mall S738620"
+        "description": "Address:<br>#02-08, Blk 127 Lorong 1 Toa Payoh 310127<br><br>Opening Hours:<br>10:30AM–3PM, 4:30–10PM, closed on Tuesdays every fortnight<br><br>Shop Recommendations:<br>Steamed Grouper Fish<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
@@ -237,20 +3198,419 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.899432,
-          1.316459,
+          103.839243,
+          1.357211,
           0
         ]
       },
       "properties": {
-        "name": "Geylang Serai Nasi Padang",
+        "name": "Sin Kian Heng Minced Meat Noodle 新建興肉脞面",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>60, Lorong 101 Changi Singapore, Singapore 419712"
+        "description": "Address:<br>#01-05, Blk 22 Sin Ming Road, Gourmet Street Coffeeshop 570022<br><br>Opening Hours:<br>8am - 3pm<br><br>Shop Recommendations:<br>Minced Meat Noodle<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883087,
+          1.315182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yi Wei Xiang (一味香）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>467 Geylang Lorong 25A 388230<br><br>Opening Hours:<br>6am-3pm Close on every Tuesday <br><br>Shop Recommendations:<br>Wonton Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764445,
+          1.314002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasi Padang Selera Kampong",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>442 clementi ave 3 120442<br><br>Opening Hours:<br>10am - 8pm<br><br>Shop Recommendations:<br>Nasi padang<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832319,
+          1.285975,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liang Liang Garden (凉凉园饮水室）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898<br><br>Opening Hours:<br>Daily 11am-9pm<br><br>Shop Recommendations:<br>Chng Teng with Peach Gum<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98795,
+          1.389756,
+          0
+        ]
+      },
+      "properties": {
+        "name": "You Yuan Cook Food (友源熟食)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>01-38, Changi Village Hawker Centre, 2 Changi Village Rd 500002<br><br>Opening Hours:<br>Tuesdays to Sundays 12pm-9pm<br><br>Shop Recommendations:<br>Fish Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818714,
+          1.277266,
+          0
+        ]
+      },
+      "properties": {
+        "name": "THE JUICEMAN",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>B1-79, Telok Blangah Crescent Block 11 Market and Food Centre 90011<br><br>Opening Hours:<br>Monday to Friday (11am-7pm), Sunday (11am-5pm)<br><br>Shop Recommendations:<br>Fruit Juice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Y.R.A Rasool Fatimah",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006  150006<br><br>Opening Hours:<br>Daily (except Thursdays) 10am-7pm<br><br>Shop Recommendations:<br>Prata <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shun Fa Teochew Satay Beehoon (顺发潮州沙爹米粉）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-47, ABC Market, 6 Jalan Bukit Merah 150006<br><br>Opening Hours:<br>Tuesday, Wednesday, Friday - Sunday 2pm-8pm<br><br>Shop Recommendations:<br>Satay Beehoon<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ABC Satay Chicken Wing",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-107, ABC Market, 6 Jalan Bukit Merah 150006<br><br>Opening Hours:<br>Thursday-Sunday 4pm-9pm<br><br>Shop Recommendations:<br>Chicken Wing<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805795,
+          1.316456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pastry for Life",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br> #01-78, Empress Road Hawker Center, 7 Empress Rd 260007<br><br>Opening Hours:<br>7am - approx 4pm<br><br>Shop Recommendations:<br>Baos <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860123,
+          1.336771,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seng Lee Economic Curry Rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>9 Toa Payoh Industrial Park Canteen  319061<br><br>Opening Hours:<br>7am - 3pm and off on Sundays & Public Holidays<br><br>Shop Recommendations:<br>Curry Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89342,
+          1.362313,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fafa Hainan Chicken Rice (发发海南鸡饭）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 7 Hougang Ave 3  530007<br><br>Opening Hours:<br>8am till 4pm or sold out (Closed on alternative sunday)<br><br>Shop Recommendations:<br>Hainan Chicken Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883668,
+          1.302192,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tanjong Rhu Pau",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>7 Jalan Batu, #01-113 431007<br><br>Opening Hours:<br>12pm - 6pm<br><br>Shop Recommendations:<br>Char Siu Pau<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883923,
+          1.302428,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mei Hua Garden Fish Ball Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>4A Jalan Batu 432004<br><br>Opening Hours:<br>8am to 1pm<br><br>Shop Recommendations:<br>Fishball Noodles<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843124,
+          1.28254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woo Ji Cooked Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>02-056, Chinatown Hawker Center, 46 Smith St 58956<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Laksa <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Healthy Vegetarian (健康素食）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Tom Yum fried rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832914,
+          1.286425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "River Garden Seafood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 4, bukit ho swee, #01-150 (behind boon tiong road) 162004<br><br>Opening Hours:<br>11:00 to 19:45<br><br>Shop Recommendations:<br>Economic Mixed Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85022,
+          1.316195,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tong siew fried rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>83 Pek Kio Market <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fried rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84746,
+          1.424371,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hing Rojak",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Bll 418 Yishun Ave 11 Coffeeshop <br><br>Opening Hours:<br>Monday, Thursday, Friday<br><br>Shop Recommendations:<br>Rojak <br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.862271,
+          1.302296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chun Kee Seafood White Bee Hoon",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>371 Beach Rd City Gate #02-02 199597<br><br>Opening Hours:<br>10.30am - 10pm<br><br>Shop Recommendations:<br>Prawn roll/ Crispy bean-curb<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     }
   ]
