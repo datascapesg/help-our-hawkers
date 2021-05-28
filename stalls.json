@@ -19,7 +19,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court,  200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
+        "description": "Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court,  200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br>Teochew Fishball Noodle<br><br>Other Details:<br>Sim Ah Tee, 73, is a hawker for over 50 years Being unable to read or write, Ah Tee was at a disadvantage when the Covid-19 Circuit Breaker started last year. While eateries and hawkers scrambled to offer food delivery, Ah Tee could not keep up with the new technology. “At the age of 70 plus, he’s not agile enough to multitask anymore. He’s still using the old Nokia handphone,” his son Calvin Sim, 49, tells 8days.sg. It doesn’t help that Ah Tee (pictured above) also faces competition from the bigger, more well-known Berseh Food Centre nearby. Despite the slow business, he has continued to open his stall as usual. “He’s a committed person. He’s making a loss every day, but insisted on carrying on till now despite using his own savings [to sustain]. As I’m working, I can’t manage his calls for him,” says Calvin, who tried to help his dad drum up business by posting about the stall on Facebook foodie groups like Can Eat! Hawker Food.<br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -40,7 +40,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#01-05, 85 Fengshan Centre, Blk 85 Bedok North St 4,  460085<br><br>Opening Hours:<br>daily 11.30am-11pm. <br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
+        "description": "Address:<br>#01-05, 85 Fengshan Centre, Blk 85 Bedok North St 4,  460085<br><br>Opening Hours:<br>daily 11.30am-11pm. <br><br>Shop Recommendations:<br>Carrot cake<br><br>Other Details:<br>Like Ah Tee, hawker Goh Peng Huan, 61, struggles with dismal numbers. Together with his partner Anne Tan, 59, he runs the 85 乡村古早蚝煎 stall at Fengshan Centre in Bedok selling fried oyster omelette, carrot cake, bak chor mee and handmade ngoh hiang till 11pm daily.  From February to June last year, they had zero income as their hawker centre was undergoing renovations, which were delayed by the pandemic. When Phase 2 (HA) kicked in on May 14, 2021, there was immediately a “drastic drop” in business. Speaking to 8days.sg, Peng Huan’s daughter Desrina Goh, 39, says: “There was a 60 per cent drop in customers. Today was the worst yet, not even 30 per cent of the usual number of customers.” Delivery is also out of the question for Peng Huan. “My dad is illiterate, so it’s very difficult for him to work with a digital delivery platform. WhatsApp orders are not possible as well, because he can’t read,” Desrina frets. <br><br>Contributor:<br>8 Days"
       }
     },
     {
@@ -187,7 +187,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Beo Crescent Market <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Lady selling ban mian lost her stall. The auntie selling chai tow kway next door offered to let ban mian lady share her stall<br><br>Contributor:<br>Mei Leng Choy"
+        "description": "Address:<br>Beo Crescent Market <br><br>Opening Hours:<br>Mon - Fri: 07:30 - 12:45 (Closed: Sat & Sun)<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Lady selling ban mian lost her stall. The auntie selling chai tow kway next door offered to let ban mian lady share her stall<br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -334,7 +334,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>50 Punggol East #01-K34 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>73 Year old man<br><br>Contributor:<br>Mei Leng Choy"
+        "description": "Address:<br>50 Punggol East #01-K34 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>73 Year old man handling stall alone<br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -965,27 +965,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>11 Telok Blangah Crescent 90011<br><br>Opening Hours:<br>Morning until 8 p.m.?<br><br>Shop Recommendations:<br>Ku cai kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.834453,
-          1.353659,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Fa Zhan Fish Ball Noodles",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>246B Upper Thomson Road 574370<br><br>Opening Hours:<br>- <br><br>Shop Recommendations:<br>Fried Carrot Cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
@@ -3611,6 +3590,69 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>371 Beach Rd City Gate #02-02 199597<br><br>Opening Hours:<br>10.30am - 10pm<br><br>Shop Recommendations:<br>Prawn roll/ Crispy bean-curb<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831977,
+          1.436997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Huat Kee Kway Chap",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 171 Yishun Ave 7 760171<br><br>Opening Hours:<br>6.30am-2pm daily, except on Wednesdays<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Elderly hawker, opted for no delivery to keep prices low.<br><br>Contributor:<br>Yee Ching"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850654,
+          1.306251,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ying Ying Japan Korea Cuisine",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Tekka Centre #01-331 210665<br><br>Opening Hours:<br>10am-7pm daily, closed on Mondays<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>wheretodabao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8857,
+          1.308053,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mei Lock Soursop Juice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>51 Old Airport Rd, #01-82 390051<br><br>Opening Hours:<br>Wed, Fri-Sun 9am-9pm, Mon, Thurs 9am-3pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>wheretodabao"
       }
     }
   ]
