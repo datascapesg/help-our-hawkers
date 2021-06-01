@@ -1776,5 +1776,75 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Bali Nice</name>
+      <description><![CDATA[Address:<br>777 Eating House, 630 Yishun Street 61  760630<br><br>Opening Hours:<br>daily 5pm-12am. Closed on Tues unless public holiday<br><br>Shop Recommendations:<br>Satay<br><br>Other Details:<br><br><br>Contributor:<br>Rachel Salvatore]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.837505,1.419052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yong Tau Foo (酿豆腐)</name>
+      <description><![CDATA[Address:<br>Blk 89 Circuit Road, #01-95 370089<br><br>Opening Hours:<br>daily 6am-2pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Helping a friend who is badly affected by the Phase 2 Heightened Alert. They are neither on delivery platforms nor knows about Hawkers united until recently. This unassuming couple are up 3am every day, preparing fresh Yong Tau Foo for sale. They serve yummy versions such as the Dry (sweet sauce), Soupy and Laksa. Look at the variety and you know it is a hit with the elderly – who loves items such as brinjal, lady-finger, yam, pork belly, intestines and so forth. Their Laksa is very very old-school-authentic, too! Serene insisted to serve value for money Yong Tau Foo in the Macpherson community for the past 7 years. She refused to raise price even as supplies do get more expensive over the years. Always courteous, Steven serves his wok-hei Char Kway Teow at the back of the stall as supplement as the elderly loves it. The one and only Yong Tau Foo stall in this market. Pls support if you are in the area! P/S: Serene’s parents used to own this famous Yong Tau Foo stall in Kallang Airport for the past 30 years – 40 years and they decided to retire and pass down the family recipe!<br><br>Contributor:<br>Stanley Tay]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.88534,1.323888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teochew Braised Duck Rice and Noodle</name>
+      <description><![CDATA[Address:<br>De Tian Coffee House Lokyang Centeen, 2 Third Lok Yang Rd  627997<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Braised Duck Set<br><br>Other Details:<br>Business has been greatly affected as the stall is located in the industrial area and most factories are operating at reduced capacity during Phase 2 HA<br><br>Contributor:<br>Simon Ng]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.689786,1.325674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoe Kee Noodle House</name>
+      <description><![CDATA[Address:<br>De Tian Coffee House Lokyang Centeen, 2 Third Lok Yang Rd  627997<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Wanton Noodle<br><br>Other Details:<br>Business has been greatly affected as the stall is located in the industrial area and most factories are operating at reduced capacity during Phase 2 HA<br><br>Contributor:<br>Simon Ng]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.689786,1.325674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meng Heng Vegetarian Food</name>
+      <description><![CDATA[Address:<br>#01-81 Circuit Road Food Centre 370089<br><br>Opening Hours:<br>Tues & Sat 11am-10pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple and is not listed on any delivery platform<br><br>Contributor:<br>Benjamin Ouyang]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.88534,1.323888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>85 Ngor Hiang Hei Biar</name>
+      <description><![CDATA[Address:<br>#01-14, ﻿Bedok 85 Market, Blk 85 Bedok North St 4  460085<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple who are not tech-savy. The stall is also not listed on any delivery platform<br><br>Contributor:<br>FeiFei Peh]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.938708,1.33271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rojak (shares signboard with Tian Tian Nasi Lemak)</name>
+      <description><![CDATA[Address:<br>2 Bukit Panjang Ring Rd, #01-19 679947<br><br>Opening Hours:<br>daily 6am-2pm<br><br>Shop Recommendations:<br>Rojak<br><br>Other Details:<br>Uncle from this store sells the best rojak I have eaten from around SG and around the Bukit Panjang Area with super big portion that can easily cover 1 meal for me. Ever since Phase 2 Heighten Alert (HA) started, uncle and aunty have been telling me that their business is bad with much leftover daily. They even told me so many left over， 心痛 （heart pain).<br><br>Contributor:<br>Aaron Tan]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          103.772473,1.377683,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
