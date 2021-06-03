@@ -712,7 +712,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Amoy Street Food Centre #02-95 69111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:"
+        "description": "Address:<br>Amoy Street Food Centre #02-95 69111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>This is one coffee stall I used to frequent on weekends and they enjoyed brisk business from CBD crowd or weekend cyclist in the past.  But due to phase 2, their business is so bad. You might wonder, how bad can it be? I went at 11am to order 4 French toast, 2 Kaya toast,5 packets of kopi and teh and 2 soft boiled eggs for about $15. They told me I’m the 2nd or 3rd customer since 6am and others only bought one or two cups of kopi. Which means they only earned probably about $20 since 6am������ Their pricing is already relatively lower than other coffee stalls so it doesn’t make sense for them to be on any delivery platform.  Please please don’t let our local coffee heritage die. That one cup of $8 latte you save today can be used here to save a local business. If you happen to be at the vicinty, please patronise this mother and son shop.<br><br>Contributor:<br>Cheryl Yap"
       }
     },
     {
@@ -3841,7 +3841,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Bedok Interchange Hawker Centre, 207 New Upper Changi Rd 460207<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an 80+ year old uncle and aunty who are not tech savy<br><br>Contributor:<br>FeiFei Peh"
+        "description": "Address:<br>Bedok Interchange Hawker Centre, 207 New Upper Changi Rd 460207<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>\"Went to Bedok interchange to Ta Pao just now, intentionally looked for stall with lesser crowd or no crowd.  Saw this uncle (age 80+)  and aunty, were standing in front of their stall. They don’t have delivery platform and not tech savvy. Pls support if you go bedok interchange for lunch , dinner etc.\"<br><br>Contributor:<br>FeiFei Peh"
       }
     },
     {
@@ -3954,13 +3954,307 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.847986,
+          1.363774,
+          0
+        ]
+      },
+      "properties": {
+        "name": "源味沙煲小食",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-03, Blk 341 Ang Mo Kio Ave 1 560341<br><br>Opening Hours:<br>daily 10.30am-8.30pm, closed on thurs<br><br>Shop Recommendations:<br>Claypot dishes<br><br>Other Details:<br>Business has been quiet and the stall is not on any delivery platforms as both the stall owner and his cook struggle with technology and language<br><br>Contributor:<br>Casmine Yeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.951472,
+          1.373578,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yummy Kitchen",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>2nd floor, Pasir Ris Central Hawker Centre, 110 Pasir Ris Central 519641<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is not listed on any delivery platform as it is run by an elderly couple<br><br>Contributor:<br>Chriz Yek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744004,
+          1.347292,
+          0
+        ]
+      },
+      "properties": {
+        "name": "150 Traditional Fishball Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 150 Bukit Batok St 11 Cheong Wai Coffee & Tea Kopitiam 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dot Sugar",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Maxwell Food Centre, #01-61 69184<br><br>Opening Hours:<br>Mon – Sat, 11.30a.m to 4p.m (shortened opening hour)<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Please support this pair of friendly oppa bosses who are selling bubble tea, dessert and coffee. Since the start of Phase 2 (Heightened Alert), the bosses shared that their business has dropped by 60 to 70% as the CBD area has turned into a ghost town since everyone started working from home again. The amount that they are earning these days is barely enough to cover half of the stall rent. They also shared that delivery platforms don’t help, as they charge fees that are up to 5 times the price of the drinks and desserts.<br><br>Contributor:<br>Jasmine Chua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88383,
+          1.335368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KA Cafe",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>KA Centre, 150 Kampong Ampat #02-01 368324<br><br>Opening Hours:<br>6.30am-3.30pm (subject to changes in line with the current situation)<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.<br><br>Contributor:<br>EY Elyse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88383,
+          1.335368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yong Tou Foo",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>KA Centre, 150 Kampong Ampat #02-01 368324<br><br>Opening Hours:<br>6.30am-3.30pm (subject to changes in line with the current situation)<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.<br><br>Contributor:<br>EY Elyse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88383,
+          1.335368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KA Muslim Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>KA Centre, 150 Kampong Ampat #02-01 368324<br><br>Opening Hours:<br>6.30am-3.30pm (subject to changes in line with the current situation)<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.<br><br>Contributor:<br>EY Elyse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88383,
+          1.335368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hai Kee Sauce Chicken Rice/ Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>KA Centre, 150 Kampong Ampat #02-01 368324<br><br>Opening Hours:<br>6.30am-3.30pm (subject to changes in line with the current situation)<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.<br><br>Contributor:<br>EY Elyse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764557,
+          1.313413,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liang Chuan Fishball Minced Meat Noodle (#01-37)",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Clementi 448 Market & Food Centre  <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fishball Mee<br><br>Other Details:<br>A humble stall serving up the most delicious fishball or mushroom minced meat noodles from just $3 in the heart of Clementi. The mushroom and meatballs are fresh and juicy, and go well with the noodles which sit in a bit of gravy – just the way I feel it should be. Stall is owned by a couple who’ve been running this stall for decades now. Had a chat with the owners recently and they mentioned that business is awfully bad during this period, particularly dinner time. Sadly, they’re also not on any food delivery platforms. Hence, I told them I’d do my best to help spread the word on social media. A very tasty meal at an affordable price. Order a bigger portion if you prefer.<br><br>Contributor:<br>Selwyn Koh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819171,
+          1.266634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fried Kuay Teaw Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Seah Im Food Centre #01-26 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Kuay Teaw<br><br>Other Details:<br>Elderly couple who doesn't know how to use delivery app or other platforms. do visit them and render your support! They work until very late just to sell enough plates of food.<br><br>Contributor:<br>Shuu Shuu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.724197,
+          1.348357,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Otak Otak (Rojak) Stall",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Chang Cheng Coffee Shop at 498 Jurong West Street 41 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Elderly Uncle selling Otak Otak from 6am to night to survive<br><br>Contributor:<br>Simon Ng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762634,
+          1.313793,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Authentic mushroom minced meat fishball noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 431 Clementi Avenue 3 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Bak Chor Mee<br><br>Other Details:<br>I am a regular at this stall at Block 431 Clementi Avenue 3 selling minced meat fishball noodles (bak chor mee) and also laksa.  I went to da bao lunch just now and the elderly uncle and auntie who run the stall said business has been quiet since the new dine-in restrictions kicked in. They have recently joined Grab Food - “108 Minced Meat Fishball Noodles” but no orders so far �� Their bak chor mee and laksa are both good - please support them if you can! (FUN FACT: Uncle and Auntie used to be avid ballroom dancers and once made the news in a feature on talented hawkers ��������)<br><br>Contributor:<br>Pauline Gan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86393,
+          1.303091,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fresh Fish Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>505 Beach Rd, #B1-41, Singapore 199583 <br><br>Opening Hours:<br>Open daily from 9am to 6pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Last week I did my 1st live in Golden Mile Hawker Center with my Dylan Tan bro. While chatting with this fish soup uncle and look around his stall. I saw all his fish are so fresh and he work everyday. Even these bad days for him, he is still operating just wanna serve his best food to all. Uncle know about Hawkers United - Dabao 2020 but he doesn't know how to post, ask if I can help him to post. Of course I'm most willing to help uncle.  You can call uncle at 90062894 to order, uncle can bring it to the roadside for you as we understand there's always Q at car park entrance. Uncle will onboard gradfood soon too. <br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88753,
+          1.353414,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roasted Delights",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>118 Hougang Ave 1 530118<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br>Please support this pair of brothers who operate a roast meat and kway chap stall in the kopitiam located at 118 Hougang Ave 1, Singapore 530118.  Their roasted meats are tasty and sio bak is delightfully crispy. I have been a long time patron of this stall and found their kway chap to be well prepared with generous portions. The brothers are quite senior and does not have any online ordering. They are completely reliant on take away orders. Unfortunately, as with all hawkers, they are struggling and shared that they are currently operating at a loss. Every packet counts and your gesture goes a long way. So if you are in the area, please visit this stall. Thank you.<br><br>Contributor:<br>Tay Hak Peng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.803757,
           1.368014,
           0
         ]
       },
       "properties": {
-        "name": "Waffleboy",
+        "name": "Thiru",
         "styleUrl": "#icon-1596-BDBDBD-nodesc",
         "styleHash": "-6eee6370",
         "styleMapHash": {
@@ -4101,6 +4395,26 @@
       },
       "properties": {
         "name": "MichelleY",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cheryl Yap",
         "styleUrl": "#icon-1596-BDBDBD-nodesc",
         "styleHash": "-6eee6370",
         "styleMapHash": {
@@ -4381,6 +4695,166 @@
       },
       "properties": {
         "name": "Tay Hak Peng",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Casmine Yeo",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chriz Yek",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Neegie Corrine Ng",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jasmine Chua",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EY Elyse",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Selwyn Koh",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shuu Shuu",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pauline Gan",
         "styleUrl": "#icon-1596-BDBDBD-nodesc",
         "styleHash": "-6eee6370",
         "styleMapHash": {
