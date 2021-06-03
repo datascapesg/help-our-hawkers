@@ -25,10 +25,13 @@ jobs:
       - name: Fetch stalls as GeoJSON
         uses: wei/curl@v1
         with:
-          args: https://datascapesg-scrapers.netlify.app/.netlify/functions/togeojson?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fkml%3Fmid%3D1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF%26lid%3D_7OATDusvS4%26forcekml%3D1 > stalls.json
+          args: https://datascapesg-scrapers.netlify.app/.netlify/functions/togeojson?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fkml%3Fmid%3D1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF%26forcekml%3D1 > raw-map.json
       # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
-      - name: Fetch stalls as KML
+      - name: Fetch entire map as KML
         uses: githubocto/flat@v2
         with:
-          http_url: https://www.google.com/maps/d/kml?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&lid=_7OATDusvS4&forcekml=1
-          downloaded_filename: stalls.kml
+          http_url: https://www.google.com/maps/d/kml?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&forcekml=1
+          downloaded_filename: raw-map.kml
+          postprocess: postprocess.js
+        env:
+          POSTPROCESS_FILENAME: stalls.json
