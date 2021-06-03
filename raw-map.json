@@ -3948,6 +3948,446 @@
         },
         "description": "Address:<br>118 Hougang Ave 1 530118<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly pair of brothers who are fully relying on takeaway orders at the moment. They have shared that they are struggling and are currently operating at a loss.<br><br>Contributor:<br>Tay Hak Peng"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Waffleboy",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "yellowbean9",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "8 Days",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mei Leng Choy",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "き リーサン",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "chaiporneng",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gayle Lim",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MichelleY",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eddie Ng",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "OldieGoodieHawker",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yee Ching",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "wheretodabao",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rachel Salvatore",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stanley Tay",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Simon Ng",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Benjamin Ouyang",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FeiFei Peh",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aaron Tan",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cil Wong",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yvonne Lim",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adriane Lee",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tay Hak Peng",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
     }
   ]
 }
