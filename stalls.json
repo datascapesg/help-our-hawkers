@@ -4347,6 +4347,111 @@
         },
         "description": "Address:<br>69 geylang bahru, #01-65 330069<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Wanton/dumpling/curry noodles<br><br>Other Details:<br><br><br>Contributor:"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930534,
+          1.328566,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fishball noodles  and prawn noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>nan 460416<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fishball noodles and prawn noodles<br><br>Other Details:<br>Drastic drop in revenues. Difficult to survive.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860563,
+          1.299718,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mini Snack Bar",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br> 7500A Beach Rd, #B1-317 Singapore 199591  <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Mixed Rice, Coffee/Tea, <br><br>Other Details:<br>Stall near the carpark entrance/exit. Their food is nice. Selling a variety of food. Old Aunty is very nice and friendly. Customers are mainly from the building. Since Covid-19 started.  I think their business got worse as more employees are working from home.  Do patronize if you are in the nearby area. <br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88493,
+          1.325608,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lau Zong Kee Dry Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>﻿ Circuit Road Hawker Centre, Blk 79/79A Circuit Road #01-69, S371079, (Macpherson) <br><br>Opening Hours:<br>18:00 – 2:30<br><br>Shop Recommendations:<br>Wanton Mee<br><br>Other Details:<br>Im sending this on behalf of my dad. He's 70 years old this year and still trying his best to keep his hawker stall as he is in this line for more than 30 years. I hope that citizens will come and support him when they are nearby the area!<br><br>Contributor:<br>Heng Family"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ABC DEJI Fish Head Bee Hoon",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-48 ABC Brickworks 6 Jalan Bukit Merah, Singapore 150006 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fish soup beehoon / rice<br><br>Other Details:<br>We were buying from him and asked if covid affected his business he said it hit him quite badly as there would usually be a long queue during dinner times. He's very friendly too!<br><br>Contributor:<br>oneprawn and dibbo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843275,
+          1.282086,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SohGood Bak Chang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>nan 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Bak Chang<br><br>Other Details:<br>Selling just bak chang at the stall. Opened in the last year<br><br>Contributor:<br>JL"
+      }
     }
   ]
 }
