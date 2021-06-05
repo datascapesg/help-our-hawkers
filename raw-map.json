@@ -4458,6 +4458,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.863926,
+          1.303333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coffee #01-108",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>505 Beach Road, Golden Mile Food Centre, #01-108, Singapore 199583<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional Coffee, tea and toast <br><br>Other Details:<br>Drink stall gotten in July 2020. Barely few months into business. The whole hawker Center was closed for renovation. Business resume sometime in March 2021. Due to heighten, business was affected. Please help to support if you are around golden mile food center. she serve cheap and nice coffee and tea.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845827,
+          1.285395,
+          0
+        ]
+      },
+      "properties": {
+        "name": "养生汤 - Traditional Herbal Claypot Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>531A Upper Cross Street #01-52 Hong Lim Complex 051531<br><br>Opening Hours:<br>10am – 3pm<br><br>Shop Recommendations:<br>Herbal claypot soups<br><br>Other Details:<br>Uncle Chua believes in there’s no replacement for cooking herbal soups in a claypot over a charcoal fire, and he’s one of the few hawkers who still does diligently everyday. He starts preparations at 5am to make sure the herbs and ingredients have enough time on the stove, bringing a nostalgic, home-cooked quality to the nourishing soups. Though he gets less customers these days, he still puts his heart into cooking and making sure the flavours are still the same.<br><br>Contributor:<br>Edmund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883883,
+          1.302171,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meng Fruits",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 4A Jalan Batu Market & Hawker Centre #01-32  432004<br><br>Opening Hours:<br>Fruits<br><br>Shop Recommendations:<br><br><br>Other Details:<br>I decided to venture into Jln Batu Hawker Centre. As I was walking around, I noticed this lone figure sitting quietly staring at his mobile phone inside his stall. In my 5 minutes of observation, I noticed maybe 15 folks walked past his stall. Not a single one of them approach his stall. I decided to walk up to his stall.  When Uncle saw me approaching him, he eagerly stand up and asked what I would like to have. I can sense his urgency but when he said, I am his 1st customer of the day. My heart sank deeply at that moment.  The time then was 1145am, politely I asked if his sales takings were affected by the recent prohibition of dining in. He gave out a loud sigh.. I can sense his helplessness then and there. Jokingly he said \"人算不如天算\" (unpredictable situation). \"Its a very tough situation\". He relies on regulars and walk in customers. Now that it is the by default mode to WFH, his regulars don't come that frequently anymore. And walk in customers who can't dine in, are not buying drinks from him that much. Also, Jln Batu Hawker Centre can be a bit ulu to some.  Regardless of the situation, Uncle still maintain his positive outlook. With a sense of pride, he strongly recommended to me his 100% handmade agar agar jelly dessert. He said his agar agar is probably the cheapest or if not, one of the cheapest that one can ever locate in Singapore. At 0.50cents a piece of the agar agar jelly, they come in various flavours. Coffee, Yam, Rainbow, plain and few others - really Can Eat for me. This is the best part - Uncle refused to increase his price over the years. He said his customers included mostly senior citizens and those who are staying around the area are in 1, 2 and 3 rooms flat. Affordability is an issue to some of the folks there. Uncle said he could not bear to increase his pricing and would rather earn lesser or none at times. Even when he is struggling to stay afloat, he still has a compassion heart for others. For this, he has my utmost respect. What surprises me was that Uncle is also selling his agar agar jelly in a big square plastic container box at only $4 - see picture. I got 3 boxes of Yam agar agar jelly without hesitation. Uncle was very appreciative and hope that I will come back soon to try his yakult fruit juices. He is also selling slice cut fruits too.  Folks, this is one genuine Hawker whose business is greatly affected by the present situation. He has a big heart and filled with compassion. He deserve all your support, so please go down to support him and share this post for greater awareness. Whether its a slice of cut fruit or a piece of agar agar jelly at 0.50 cents or a cup of fruit juice, it matters alot to him. <br><br>Contributor:<br>Louis Tan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.803757,
           1.368014,
           0
@@ -5205,6 +5268,46 @@
       },
       "properties": {
         "name": "JL",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Edmund",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ubtokenceo",
         "styleUrl": "#icon-1596-BDBDBD-nodesc",
         "styleHash": "-6eee6370",
         "styleMapHash": {
