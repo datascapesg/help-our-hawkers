@@ -78,7 +78,7 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Stalls without Delivery</name>
+      <name>Stalls without Delivery.kml</name>
       <Placemark>
         <name>Ah Tee Ko Ko Mee</name>
         <description><![CDATA[Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court, 200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br>Teochew Fishball Noodle<br><br>Other Details:<br>Sim Ah Tee, 73, is a hawker for over 50 years Being unable to read or write, Ah Tee was at a disadvantage when the Covid-19 Circuit Breaker started last year. While eateries and hawkers scrambled to offer food delivery, Ah Tee could not keep up with the new technology. “At the age of 70 plus, he’s not agile enough to multitask anymore. He’s still using the old Nokia handphone,” his son Calvin Sim, 49, tells 8days.sg. It doesn’t help that Ah Tee (pictured above) also faces competition from the bigger, more well-known Berseh Food Centre nearby. Despite the slow business, he has continued to open his stall as usual. “He’s a committed person. He’s making a loss every day, but insisted on carrying on till now despite using his own savings [to sustain]. As I’m working, I can’t manage his calls for him,” says Calvin, who tried to help his dad drum up business by posting about the stall on Facebook foodie groups like Can Eat! Hawker Food.<br><br>Contributor:<br>8 Days]]></description>
@@ -2111,7 +2111,7 @@
       </Placemark>
       <Placemark>
         <name>Mai Ji Xiao Pai Dang</name>
-        <description><![CDATA[Address:<br>8A Admiralty Street, Food xchange building <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Sweet and Sour Fish<br><br>Other Details:<br>They are not on any delivery platforms, owned by two uncles. I hardly see any crowd and they are always the only stall left opened in the evening.  Their fried rice and sweet & sour fish are one of the nicest I’ve ever had! If u happened to be around this area, pls drop by and try it out. <br><br>Contributor:<br>Chairmaine Chan]]></description>
+        <description><![CDATA[Address:<br>8A Admiralty Street, Food xchange building <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Sweet and Sour Fish<br><br>Other Details:<br>They are not on any delivery platforms, owned by two uncles. I hardly see any crowd and they are always the only stall left opened in the evening.  Their fried rice and sweet & sour fish are one of the nicest I’ve ever had! If u happened to be around this area, pls drop by and try it out.<br><br>Contributor:<br>Chairmaine Chan]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2121,7 +2121,7 @@
       </Placemark>
       <Placemark>
         <name>Soya Bean Drink #01-114</name>
-        <description><![CDATA[Address:<br>Old Airport Road Food Centre (#01-114). <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Please support this elderly uncle who is operating this drink store. Bought the soya milk and its good ����Not related to him but just hoping to help him a little as he mentioned that current business has been very poor..if you are dropping by old airport road hawker do get a drink along with your food to support and help them tide over this period ❤  #supportlocal <br><br>Contributor:<br>Caryn SF]]></description>
+        <description><![CDATA[Address:<br>Old Airport Road Food Centre (#01-114). <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Please support this elderly uncle who is operating this drink store. Bought the soya milk and its good ����Not related to him but just hoping to help him a little as he mentioned that current business has been very poor..if you are dropping by old airport road hawker do get a drink along with your food to support and help them tide over this period ❤  #supportlocal<br><br>Contributor:<br>Caryn SF]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2161,7 +2161,7 @@
       </Placemark>
       <Placemark>
         <name>Mini Snack Bar</name>
-        <description><![CDATA[Address:<br> 7500A Beach Rd, #B1-317 Singapore 199591  <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Mixed Rice, Coffee/Tea, <br><br>Other Details:<br>Stall near the carpark entrance/exit. Their food is nice. Selling a variety of food. Old Aunty is very nice and friendly. Customers are mainly from the building. Since Covid-19 started.  I think their business got worse as more employees are working from home.  Do patronize if you are in the nearby area. <br><br>Contributor:]]></description>
+        <description><![CDATA[Address:<br>7500A Beach Rd, #B1-317 Singapore 199591 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Mixed Rice, Coffee/Tea,<br><br>Other Details:<br>Stall near the carpark entrance/exit. Their food is nice. Selling a variety of food. Old Aunty is very nice and friendly. Customers are mainly from the building. Since Covid-19 started.  I think their business got worse as more employees are working from home.  Do patronize if you are in the nearby area.<br><br>Contributor:]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2201,7 +2201,7 @@
       </Placemark>
       <Placemark>
         <name>Coffee #01-108</name>
-        <description><![CDATA[Address:<br>505 Beach Road, Golden Mile Food Centre, #01-108, Singapore 199583<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional Coffee, tea and toast <br><br>Other Details:<br>Drink stall gotten in July 2020. Barely few months into business. The whole hawker Center was closed for renovation. Business resume sometime in March 2021. Due to heighten, business was affected. Please help to support if you are around golden mile food center. she serve cheap and nice coffee and tea.<br><br>Contributor:]]></description>
+        <description><![CDATA[Address:<br>505 Beach Road, Golden Mile Food Centre, #01-108, Singapore 199583<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional Coffee, tea and toast<br><br>Other Details:<br>Drink stall gotten in July 2020. Barely few months into business. The whole hawker Center was closed for renovation. Business resume sometime in March 2021. Due to heighten, business was affected. Please help to support if you are around golden mile food center. she serve cheap and nice coffee and tea.<br><br>Contributor:]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2220,8 +2220,48 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>潮州海鲜鱼片汤肉骨茶（Teochew Seafood/ Sliced Fish Soup and Bak Ku Teh)</name>
+        <description><![CDATA[Address:<br>SkyTech Food Court, 200 Bukit Batok Street 23, #09-18 659543<br><br>Opening Hours:<br>daily, 7am-2pm<br><br>Shop Recommendations:<br>Sliced Fish Soup<br><br>Other Details:<br>The stall is run by an older uncle who finds it challenging to provide delivery. Despite adding new dishes like Bak Ku Teh into his menu over the years, uncle kept his old signboard and made do by hand-writng "Bak Ku Teh" onto his signboard. This is a hidden food place that many who stay in Bukit Batok don't know about so do support the stall if you can!<br><br>Contributor:<br>Simon Ng]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.7542,1.342588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Mile Teochew Fishball Noodle</name>
+        <description><![CDATA[Address:<br>505 Beach Road, Golden Mile Food Centre #B1-47 199583<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Meepok Dry<br><br>Other Details:<br>This humble store specialises in traditional Teochew style fishball noodle and has been at Golden Mile for decades. I love that they serve a little of everything and offers food variety of ingredients including prawn, fish ball, pork ball, fish cake, sliced pork and even char siew which diffentiate themself from the typical fishball noodles. Texture of the meepok dry is good and the sauce is just nice and taste heavenly when mixed together. No alkaline taste and noodles remained springy even after dabao all the way to Pasir Ris. Do offer your support to this hawker which is currently not on any delivery platform nor social media. If you are looking for a good bowl of noodles, do give it a try. So satisfying!<br><br>Contributor:<br>Javier Lim (@chiaksimi on instagram)]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.863926,1.303333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鱼圆肉挫面 (Fishball and Minced Meat Noodle)</name>
+        <description><![CDATA[Address:<br>Dunman Food Centre, 271 Onan Rd 424768<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fishball and minced meat noodle<br><br>Other Details:<br>If you are around Dunman Food Centre, do try this elderly aunty’s fishball noodle and minced meat noodle. She’s in her 60s and has no online or social media platform. Her stall is at the basement along the same row as the popular wanton noodle and tau kwa pok stalls. The noodles are quite nice, and aunty is always generous with the ingredients and portions. She is a very pleasant elderly. She prepares her noodles with lots of care and love. She does not have speed so if you are ordering more portions do give her more time. Her portions are really value for money. Please try and purchase from her as she does not have many customers.<br><br>Contributor:<br>May Goh and Hock Kee Tan]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.901821,1.309429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朋友 Friend</name>
+        <description><![CDATA[Address:<br>59 New Upper Changi Rd, #01-1248, 59 Food Court 461059<br><br>Opening Hours:<br>daily 6am-7pm (may close slightly earlier depending on the day's situation)<br><br>Shop Recommendations:<br>Kolo Mee<br><br>Other Details:<br>Aunty told me that as compared to last year's CB, her business has been more badly affected this time round. Please Support her! Aunty works 12 hours a day, and only took 2 rest days a month before COVID. Please if you live nearby, do drop by and order some kolo mee. She fries her own pork lard and makes her own chilli. It’s super yummy! No delivery as it’s just her handling everything. The uncle in the same shop space sells very delicious hokkien mee too. Please support them!<br><br>Contributor:<br>Nic Han]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.940685,1.324047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Meng Fruits</name>
-        <description><![CDATA[Address:<br>Block 4A Jalan Batu Market & Hawker Centre #01-32  432004<br><br>Opening Hours:<br>Fruits<br><br>Shop Recommendations:<br><br><br>Other Details:<br>I decided to venture into Jln Batu Hawker Centre. As I was walking around, I noticed this lone figure sitting quietly staring at his mobile phone inside his stall. In my 5 minutes of observation, I noticed maybe 15 folks walked past his stall. Not a single one of them approach his stall. I decided to walk up to his stall.  When Uncle saw me approaching him, he eagerly stand up and asked what I would like to have. I can sense his urgency but when he said, I am his 1st customer of the day. My heart sank deeply at that moment.  The time then was 1145am, politely I asked if his sales takings were affected by the recent prohibition of dining in. He gave out a loud sigh.. I can sense his helplessness then and there. Jokingly he said "人算不如天算" (unpredictable situation). "Its a very tough situation". He relies on regulars and walk in customers. Now that it is the by default mode to WFH, his regulars don't come that frequently anymore. And walk in customers who can't dine in, are not buying drinks from him that much. Also, Jln Batu Hawker Centre can be a bit ulu to some.  Regardless of the situation, Uncle still maintain his positive outlook. With a sense of pride, he strongly recommended to me his 100% handmade agar agar jelly dessert. He said his agar agar is probably the cheapest or if not, one of the cheapest that one can ever locate in Singapore. At 0.50cents a piece of the agar agar jelly, they come in various flavours. Coffee, Yam, Rainbow, plain and few others - really Can Eat for me. This is the best part - Uncle refused to increase his price over the years. He said his customers included mostly senior citizens and those who are staying around the area are in 1, 2 and 3 rooms flat. Affordability is an issue to some of the folks there. Uncle said he could not bear to increase his pricing and would rather earn lesser or none at times. Even when he is struggling to stay afloat, he still has a compassion heart for others. For this, he has my utmost respect. What surprises me was that Uncle is also selling his agar agar jelly in a big square plastic container box at only $4 - see picture. I got 3 boxes of Yam agar agar jelly without hesitation. Uncle was very appreciative and hope that I will come back soon to try his yakult fruit juices. He is also selling slice cut fruits too.  Folks, this is one genuine Hawker whose business is greatly affected by the present situation. He has a big heart and filled with compassion. He deserve all your support, so please go down to support him and share this post for greater awareness. Whether its a slice of cut fruit or a piece of agar agar jelly at 0.50 cents or a cup of fruit juice, it matters alot to him. <br><br>Contributor:<br>Louis Tan]]></description>
+        <description><![CDATA[Address:<br>Block 4A Jalan Batu Market & Hawker Centre #01-32 432004<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>I decided to venture into Jln Batu Hawker Centre. As I was walking around, I noticed this lone figure sitting quietly staring at his mobile phone inside his stall. In my 5 minutes of observation, I noticed maybe 15 folks walked past his stall. Not a single one of them approach his stall. I decided to walk up to his stall.  When Uncle saw me approaching him, he eagerly stand up and asked what I would like to have. I can sense his urgency but when he said, I am his 1st customer of the day. My heart sank deeply at that moment.  The time then was 1145am, politely I asked if his sales takings were affected by the recent prohibition of dining in. He gave out a loud sigh.. I can sense his helplessness then and there. Jokingly he said "人算不如天算" (unpredictable situation). "Its a very tough situation". He relies on regulars and walk in customers. Now that it is the by default mode to WFH, his regulars don't come that frequently anymore. And walk in customers who can't dine in, are not buying drinks from him that much. Also, Jln Batu Hawker Centre can be a bit ulu to some.  Regardless of the situation, Uncle still maintain his positive outlook. With a sense of pride, he strongly recommended to me his 100% handmade agar agar jelly dessert. He said his agar agar is probably the cheapest or if not, one of the cheapest that one can ever locate in Singapore. At 0.50cents a piece of the agar agar jelly, they come in various flavours. Coffee, Yam, Rainbow, plain and few others - really Can Eat for me. This is the best part - Uncle refused to increase his price over the years. He said his customers included mostly senior citizens and those who are staying around the area are in 1, 2 and 3 rooms flat. Affordability is an issue to some of the folks there. Uncle said he could not bear to increase his pricing and would rather earn lesser or none at times. Even when he is struggling to stay afloat, he still has a compassion heart for others. For this, he has my utmost respect. What surprises me was that Uncle is also selling his agar agar jelly in a big square plastic container box at only $4 - see picture. I got 3 boxes of Yam agar agar jelly without hesitation. Uncle was very appreciative and hope that I will come back soon to try his yakult fruit juices. He is also selling slice cut fruits too.  Folks, this is one genuine Hawker whose business is greatly affected by the present situation. He has a big heart and filled with compassion. He deserve all your support, so please go down to support him and share this post for greater awareness. Whether its a slice of cut fruit or a piece of agar agar jelly at 0.50 cents or a cup of fruit juice, it matters alot to him.<br><br>Contributor:<br>Louis Tan]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2229,11 +2269,141 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>肥阿嬷迷你锅  (Fat Ah Ma Mini Pot)</name>
+        <description><![CDATA[Address:<br>Golden Mile Food centre 505 Beach Rd #01-89 199583<br><br>Opening Hours:<br>10:30am – 7:30pm<br><br>Shop Recommendations:<br>Sesame Oil Chicken<br><br>Other Details:<br>My original intent this evening was to sample a pasta meal from Chef Choo Signature (Stall B1-45) but I arrived too late, just as they were closing. As I walked around to look for an alternative option, Uncle & Auntie eating their dinner outside their quiet stall looked up expectantly at me. I took a quick glance and two items immediately caught my eye - 卤猪脚Braised Pig Trotters and 麻油鸡 Sesame Oil Chicken.  Uncle happily obliged my sinful request for fattier parts of the pig trotters and also gave me a good-sized serving of chicken. Auntie tempted me with a spoonful of her special 家乡猪肚汤 Pig Stomach Soup which was peppery, the way I like it. I will definitely return to try that and also the 肉骨茶 Bak Kut Teh / Pork Rib Soup & 干炒老鼠粉Stir Fried Mee Tai Mak �� As I was leaving, the couple expressed their heartfelt gratitude for my patronage. It wasn’t much but I guess it meant a lot to them ��<br><br>Contributor:<br>Marcus Khoo]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.863926,1.303333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Da Jia Shi</name>
+        <description><![CDATA[Address:<br>Chinatown Food Complex 335 Smith St, #02-147 <br><br>Opening Hours:<br>6am to 2pm<br><br>Shop Recommendations:<br>Cantonese style congee. several options available. deep friend intestines (signature item). fried beehoon/noodles<br><br>Other Details:<br>My grandma and recently, my mom too, has been running this Cantonese style congee stall in Chinatown Food Complex since 1960.  Since then, they have been relying on weekend regular customers and the lunch crowd from the CBD areas however with COVID-19 and especially the work from home arrangement coupled with the  no dining in restrictions, the business have been heavily impacted, like with most stalls there.   Given the location, there are not many residential places within the area unlike the heartlands hence delivery platforms aren't a viable alternative.  They are just a humble congee stall that just wants to provide comfort food for everyone and would be great to get some support during these tough times!<br><br>Contributor:<br>timotheosh]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843124,1.28254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yong Tau Foo, Laksa</name>
+        <description><![CDATA[Address:<br>Kallang Junction Food Centre 23 Kallang Ave, Singapore 339414<br><br>Opening Hours:<br>Monday - Fri, Lunch<br><br>Shop Recommendations:<br>Laska, Yong Tau Fu<br><br>Other Details:<br>Best laksa in SG run by elderly hawker. Even if you like laska, you will be converted<br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.865966,1.311601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Bugis Kway Chap</name>
+        <description><![CDATA[Address:<br>10 Sengkang Square (KPT) S544829 544829<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br>Aunty is not IT savvy and not tied up with any online food delivery app. She is very generous with portion. And taste good<br><br>Contributor:<br>Alex]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.893713,1.391387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hock Thye Noodle House</name>
+        <description><![CDATA[Address:<br>7 Crane Road, 429356 429356<br><br>Opening Hours:<br>7am-3pm?<br><br>Shop Recommendations:<br>Wanton Mee<br><br>Other Details:<br>Elderly Couple selling old school wantan mee without any digital platforms.They rely on locals and footfall. The shrimp wantons are amazing, charsiew is soft and the noodles are aldente. Wantan mee style different from Eng’s and it’s super old school style!<br><br>Contributor:<br>club87er]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.899457,1.31269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lynn’s place western food</name>
+        <description><![CDATA[Address:<br>26A Chai Chee Road Singapore 461026 461026<br><br>Opening Hours:<br>10am to 10pm (close on Saturday)<br><br>Shop Recommendations:<br>Western food<br><br>Other Details:<br>Not tech savvy.<br><br>Contributor:<br>Brandon]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.923502,1.323935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Bugis Kway Chap</name>
+        <description><![CDATA[Address:<br>10 Sengkang Square (KPT) 544829<br><br>Opening Hours:<br>Early morning till midnight<br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br>Aunty is not IT savvy and not tied up with any food delivery app. She is generous with portion and her Kway chap tastes good. Her business has gone down tremendously since   the covid restrictions. Please help support her<br><br>Contributor:<br>Alex]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.893713,1.391387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lucky Sugarcane Juice</name>
+        <description><![CDATA[Address:<br>#01-21 KAKI BUKIT 511 MARKET AND FOOD CENTRE, BLK 511 BEDOK NORTH STREET 3, 460511 460511<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>This is one of the last remaining original stalls since Bedok 511 Market was built. The uncle has been selling sugar cane juice for at least 35 years. While his sugarcane juice may be slightly more expensive than Coffee stall, his quality is much better. Do buy a pack from him if you are dabaoing nearby.<br><br>Contributor:<br>Anntonii Lim]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.930368,1.33316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hui Min Chinese Herbal Tea</name>
+        <description><![CDATA[Address:<br>#02-143 Chinatown Complex Food Centre Blk 335 Smith Street 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Herbal tea<br><br>Other Details:<br>This stall has been run entirely by one elderly hawker for years. Pls support his herbal teas, which are freshly brewed!<br><br>Contributor:<br>EL]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843124,1.28254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hua Ji Hong Kong Roasted Duck King</name>
+        <description><![CDATA[Address:<br>71 Ubi Cres, Singapore 408571 408571<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Roast Duck<br><br>Other Details:<br>Hawkers are IT illeratr<br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.898359,1.326891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>China Street Cooked Food</name>
+        <description><![CDATA[Address:<br>Maxwell Food Centre, 1 Kadayanallur St, Singapore 069184 69184<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Rickshaw noodles, mee sua, fried beehoon<br><br>Other Details:<br>The owner has been selling rickshaw noodles for over 70 years - very affordable and hearty breakfast fare<br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hock Thye Noodle House</name>
+        <description><![CDATA[Address:<br>7 Crane Road, 429356 429356<br><br>Opening Hours:<br>7am-3pm?<br><br>Shop Recommendations:<br>Wanton Mee<br><br>Other Details:<br>Elderly Couple selling old school wantan mee without any digital platforms.They rely on locals and footfall. The shrimp wantons are amazing, charsiew is soft and the noodles are aldente. Wantan mee style different from Eng’s and it’s super old school style!<br><br>Contributor:<br>club87er]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.899457,1.31269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimmy</name>
+        <description><![CDATA[Address:<br>Blk 208B New Upper Changi Road, #01-47, Singapore 462208 462208<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Char Kway Tiao, Fried Oyster, Fried Oyster Omelette, Fried Carrot Cake<br><br>Other Details:<br>Stall doesn’t not have delivery service. Senior citizens working as hawker. Doesn’t know how to use IT.<br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.939526,1.325091,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
-      <name>Contributors</name>
+      <name>Contributors.kml</name>
       <Placemark>
-        <name>Waffleboy</name>
+        <name>Thiru</name>
         <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -2243,6 +2413,15 @@
       </Placemark>
       <Placemark>
         <name>yellowbean9</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ubtokenceo</name>
         <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -2584,7 +2763,88 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ubtokenceo</name>
+        <name>Javier Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>May Goh and Hock Kee Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nic Han</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcus Khoo</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>timotheosh</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alex</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>club87er</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brandon</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anntonii Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL</name>
         <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
         <Point>
           <coordinates>
