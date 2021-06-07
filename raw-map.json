@@ -4878,6 +4878,531 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.846562,
+          1.372185,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ban Chuan duck rice",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>724 Ang mo kio Ave 6 #01-19 560724<br><br>Opening Hours:<br>11:30-9pm, no fixed day offs<br><br>Shop Recommendations:<br>Kway chap and braised duck rice<br><br>Other Details:<br>Best duck rice and kway chap, due to covid, the market has lost a lot of regular crowds<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854422,
+          1.340264,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Da Lao Char Kway Teow",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Lorong 8 Toa Payoh Hawker Centre 310210 310210<br><br>Opening Hours:<br>5pm to 2am<br><br>Shop Recommendations:<br>Fried Carrot Cake, Oyster Omelette, Egg Omelette, Cockles Char kway teow<br><br>Other Details:<br>Non digital savvy and cant read english well<br><br>Contributor:<br>Teddy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.807901,
+          1.287259,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Leng Kee Fish Soup",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 6 Jalan Bukit Merah Singapore 150006 150006<br><br>Opening Hours:<br>11:30am–2pm, 5:30–8pm. Closed on Mon and Thu.<br><br>Shop Recommendations:<br>Sliced fish soup and Seafood soup<br><br>Other Details:<br>They are a new generation of Hawkers who provides quality Hawker food at affordable prices. $4 Fish soup would get you around 8-9 slices of freshly sliced fish, truly value for money.<br><br>Contributor:<br>J.K"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944592,
+          1.345456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ming Ji Shao La 明记烧腊",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>137 Tampines Street 11 #01-119 Singapore 521137 521137<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Roast meat<br><br>Other Details:<br>Elderly hawker<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905966,
+          1.33753,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zita Malay Muslim Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Kaki Bukit Recreation Centre, 7 Kaki Bukit Ave 3, 415814 415814<br><br>Opening Hours:<br>7am to 7pm<br><br>Shop Recommendations:<br>Malay Dishes- Mee Rebus, Mee Soto, Mee Siam, Lontong, Nasi Lemak, Nasi Padang, etc.<br><br>Other Details:<br>My parents has been in the wedding industry for 15 years to raise me and my sisters up and for survival as they have little to no academic qualification. Covid striked and their business went down till we are currently selling our house to payback huge loans on deferment. Hence, they decided to open a stall, as their forte is cooking. With the help of the owner of the eating house at Kaki Bukit Recreation Centre, they managed to. But they cant afford to hire another help, and are not IT savvy. My parents also do not believe in giving other monopolized platform a huge commission as they want to cater to below average/foreigners as well as others who enjoy good and affordable food during this Pandemic.<br><br>Contributor:<br>Sabeela B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904566,
+          1.320673,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seng Kee Roast Meat",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>blk 7 eunos crescent, S400007 400007<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Cantonese Roast Meats and Teochew Braised items<br><br>Other Details:<br>2 senior hawkers with no digital knowledge. Not on delivery platforms.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742889,
+          1.320415,
+          0
+        ]
+      },
+      "properties": {
+        "name": "T.K Kitchen - Paofan Paradise 泡饭天",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 37 Teban Garden #01-302/303 Singapore 600037 600037<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Zhi char/Paofan/Drinks<br><br>Other Details:<br>Family Business and is in the 2nd Generation. Sales drop badly and can't cover the operation cost<br><br>Contributor:<br>Darren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855758,
+          1.345271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fishball Noodles Stall",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>New Century Food House, 151 Bishan St 11, 570151 570151<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fishball noodles, bah chor mee<br><br>Other Details:<br>Auntie hawker not in delivery platform etc.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855758,
+          1.345271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Western Food Stall",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>New Century Food House, 151 Bishan St 11, 570151 570151<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Western food, fried rice<br><br>Other Details:<br>Elderly couple not on delivery platform<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855512,
+          1.34546,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wan Tan Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Naifu coffe house, 151 bishan st 11, 570151 570151<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Wantan mee, dumpling noodles<br><br>Other Details:<br>Not on delivery platform<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849508,
+          1.350557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cai Png stall",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Bishan bus interchange second floor <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Cai Png<br><br>Other Details:<br>Not on delivery<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.822269,
+          1.285473,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bukit Merah View Minced Meat Fishball Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>115 Bukit Merah View 01-45  151115<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Mee Pok, Laksa, Prawn Noodles, Bak Chor Mee<br><br>Other Details:<br>Old hawker not on any delivery platform yet. Fresh and good noodles!<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933342,
+          1.327129,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Joo Chiat Fishball Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>216 Bedok North St 1 460216<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>This stall and the other stalls in this market do not use delivery platforms.<br><br>Contributor:<br>Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849635,
+          1.338506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kuey Chap",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>93 Lor 4 Toa Payoh, #01-40, Singapore 310093<br><br>Opening Hours:<br>6pm-11pm<br><br>Shop Recommendations:<br>Kuey Chap<br><br>Other Details:<br>The owners does not wish to be onboarded on the delivery platform because they believe the taste is not the best representation after eating it. They aren't very tech savvy too.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854438,
+          1.300903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "9Flowers",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>270 Queen Street #01-27 180270<br><br>Opening Hours:<br>8am-12noon they might open longer if more people visit the area<br><br>Shop Recommendations:<br><br><br>Other Details:<br>The whole lane is actually filled with elderly hawkers. I talk to this nice old lady with cheap hair dye as she was the only store open on that day.She have lost her shop due to the lockdown and decided to tender for a hawker stall to sell her flowers instead.She ashame to share her past as i tried to pry and she refused to answer.She seem to very knowlagable with flowers and well spoken in dialect. This might be a hidden gem at albert center.The whole backlane is filled with shops without a name to a shop and only unit number.They closed around 12noon as i visited around 11 plus am on 6/6/2021 sunday. Their business has been affected as the waterloo temple has been closed for long period of time and less tourist have been visiting the area ever since covid.<br><br>Contributor:<br>Dupey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.914136,
+          1.333022,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bedok Reservoir Food Centre",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>630 Bedok Reservoir Road Singapore 470630<br><br>Opening Hours:<br>6:30am to 2pm<br><br>Shop Recommendations:<br>Variety<br><br>Other Details:<br>All stalls in this hawker center are manned by your typical elderly folks, meaning that all of them only have the community to rely on. This hawker center sells a variety of foods catering to all palates (including halal) that you'd typically find in a hawker center.<br><br>Contributor:<br>Fazari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.35542,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FPC Seafood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 267 Tampines St 21 #01-47 Singapore 520267<br><br>Opening Hours:<br>11am - 830pm<br><br>Shop Recommendations:<br>Zhi Char<br><br>Other Details:<br>It’s ran by an old couple who have been serving up really yummy zhi char dishes. Try their salted egg chicken!<br><br>Contributor:<br>Bnzt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.903025,
+          1.30846,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Da Dong Prawn Noodles 大東蝦麵",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>354 Joo Chiat Rd, Singapore  427600<br><br>Opening Hours:<br>Wednesdays to Mondays - 7:30am to 2:00pm. Closed on Tuesdays<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Son took over stall as father has been ill.<br><br>Contributor:<br>Calv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimama Nasi Panggang Stall Maxwell",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Maxwell Food Centre 1 Kadayanallur Street, #01-09 Singapore 69184<br><br>Opening Hours:<br>10am - 10pm<br><br>Shop Recommendations:<br>Nasi Panggang, Ayam Bakar, Ikan Bakar (grilled fish)<br><br>Other Details:<br>Auntie is not tech savvy so she is just passively waiting for business, but it has been very quiet because of WFH. I am not affiliated to this stall. I just randomly chose to tabao from her and realised it's SOOOO out-of-the-world delicious!!! Best nasi panggang in the whole of Singapore. And I am a nasi panggang fan. So just wanted to help give her a shoutout. My friend also set up an IG account for her to let more people know about such a good indonesian food stall is available. Be transported to Bali instantly.<br><br>Contributor:<br>Alimama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827528,
+          1.288766,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HAI CHEW FISH SOUP",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>38A Beo Cres, Singapore 169982<br><br>Opening Hours:<br>10AM-8PM<br><br>Shop Recommendations:<br>FISH SOUP<br><br>Other Details:<br>business affected by pandemic and lesser customers<br><br>Contributor:<br>Emily"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842682,
+          1.27552,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kim Kee Cooked Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 6, Tanjong Pagar Plaza, #02-27 81006<br><br>Opening Hours:<br>0930 to 1500<br><br>Shop Recommendations:<br>Heritage food : curry chicken, Bak Ku Teh but stand out is Vinegar Pig’s Trotter and Red Braised Chicken<br><br>Other Details:<br>Almost quit as old lady owner is too old to manage. Change from Claypot rice to traditional meals like Vinegar Pig’s Trotter & Red Braised Chicken to try to appeal to those in search of some heritage food to get a taste. Totally relying on word of mouths and no capability to go online<br><br>Contributor:<br>James"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895208,
+          1.315277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "hajjah jamillah raj mohamed indian muslim food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>haig road block 14 #01-09 Singapore 430014 430014<br><br>Opening Hours:<br>11am - 9pm daily<br><br>Shop Recommendations:<br>Mee goreng, maggi goreng, soup tulang<br><br>Other Details:<br>Uncle rahman has been running the stall for 40 over years. He has little to no knowledge on digitalization and has relied on customers to help him grow his digital presence.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89699,
+          1.374824,
+          0
+        ]
+      },
+      "properties": {
+        "name": "401 KPT Kopitiam Wanton Mee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 401 Hougang Ave 10 530401<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Run by uncle aunties who do not use delivery platforms<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89699,
+          1.374824,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sheng He Fishball Minced Meat Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 401 Hougang Ave 10 530401<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>The hawker uncle is a nice guy<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9881,
+          1.389619,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Happy Coffee Stall",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>2 Changi Village Road Singapore 500002<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Can Drinks, Coffee, Tea<br><br>Other Details:<br>Elderly Hawker<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.803757,
           1.368014,
           0
@@ -5865,6 +6390,246 @@
       },
       "properties": {
         "name": "EL",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Teddy",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "J.K",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sabeela B",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Darren",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Clare",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dupey",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fazari",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bnzt",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Calv",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimama",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emily",
+        "styleUrl": "#icon-1596-BDBDBD-nodesc",
+        "styleHash": "-6eee6370",
+        "styleMapHash": {
+          "normal": "#icon-1596-BDBDBD-nodesc-normal",
+          "highlight": "#icon-1596-BDBDBD-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803757,
+          1.368014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James",
         "styleUrl": "#icon-1596-BDBDBD-nodesc",
         "styleHash": "-6eee6370",
         "styleMapHash": {
