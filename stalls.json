@@ -4009,7 +4009,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Block 150 Bukit Batok St 11 Cheong Wai Coffee & Tea Kopitiam 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng"
+        "description": "Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng"
       }
     },
     {
@@ -4534,7 +4534,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>505 Beach Road, Golden Mile Food Centre #B1-47 199583<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Meepok Dry<br><br>Other Details:<br>This humble store specialises in traditional Teochew style fishball noodle and has been at Golden Mile for decades. I love that they serve a little of everything and offers food variety of ingredients including prawn, fish ball, pork ball, fish cake, sliced pork and even char siew which diffentiate themself from the typical fishball noodles. Texture of the meepok dry is good and the sauce is just nice and taste heavenly when mixed together. No alkaline taste and noodles remained springy even after dabao all the way to Pasir Ris. Do offer your support to this hawker which is currently not on any delivery platform nor social media. If you are looking for a good bowl of noodles, do give it a try. So satisfying!<br><br>Contributor:<br>Javier Lim (@chiaksimi on instagram)"
+        "description": "Address:<br>505 Beach Road, Golden Mile Food Centre #B1-47 199583<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Meepok Dry<br><br>Other Details:<br>This humble store specialises in traditional Teochew style fishball noodle and has been at Golden Mile for decades. I love that they serve a little of everything and offers food variety of ingredients including prawn, fish ball, pork ball, fish cake, sliced pork and even char siew which diffentiate themself from the typical fishball noodles. Texture of the meepok dry is good and the sauce is just nice and taste heavenly when mixed together. No alkaline taste and noodles remained springy even after dabao all the way to Pasir Ris. Do offer your support to this hawker which is currently not on any delivery platform nor social media. If you are looking for a good bowl of noodles, do give it a try. So satisfying!<br><br>Contributor:<br>Javier Lim"
       }
     },
     {
@@ -5396,6 +5396,195 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>2 Changi Village Road Singapore 500002<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Can Drinks, Coffee, Tea<br><br>Other Details:<br>Elderly Hawker<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852004,
+          1.334547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "萬利興 Wan Li Xin Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>74 Toa Payoh Lor 4 #01-02 310074<br><br>Opening Hours:<br>6.30am to 1.30pm<br><br>Shop Recommendations:<br>Noodles<br><br>Other Details:<br>Elderly hawker in their 70s. No delivery. Only accepts cash. Very affordable and delicious. Kindly help the old couple as business is terrible lately. At 1pm they still had a lot of noodles left unsold, especially on rainy days.  https://www.misstamchiak.com/wan-li-xing-wanton-mee/<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88155,
+          1.313079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tasty Delights 美味四炒",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Victoria Food Court, 433 Geylang Road 389397<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Carrot cake, Hokkien mee, char kway teow, Orh luak<br><br>Other Details:<br>Two elderly uncles run the stall and are not on any online or delivery platforms. Stall was very quiet on a weekday afternoon. Also only accept cash payment. I love their black carrot cake!<br><br>Contributor:<br>Annabel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.941119,
+          1.324376,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shuang Sheng Fishball Minced Meat Noodle",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 58 New Upper Changi Road #01-170 Spore 461058<br><br>Opening Hours:<br>7.30am - 8pm (close on Tuesday)<br><br>Shop Recommendations:<br>Fishball minced meat noodle<br><br>Other Details:<br>Elderly stall, operate long hours as customer reduce by 50%<br><br>Contributor:<br>CroL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870813,
+          1.353987,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sanho Foods",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>253 Serangoon Central Dr, 550253 550253<br><br>Opening Hours:<br>4.30am to 5.30pm<br><br>Shop Recommendations:<br>yam cake, chee cheong fan, economic bee hoon, kopi, tea and more<br><br>Other Details:<br>Stall has been there over 10 years, serving mostly elderly customers.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fried Kuay Teow",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Amoy Food Centre 7 Maxwell Road #01-01 069111 069111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fried Kuay Teow<br><br>Other Details:<br>Elderly uncle runs this stall alone and he seems be having difficulty walking. Stall Location is in the heart of CBD hence relying on working lunch crowd which is sorely absent now. Business isn’t as bustling as other stalls during the times when I’m there.<br><br>Contributor:<br>Kit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855004,
+          1.323077,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Matasoh Self-Made Fishballs, Meatballs and Minced Meat Noodles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>90 Whampoa Drive, #01-54 320090<br><br>Opening Hours:<br>9am - 9pm<br><br>Shop Recommendations:<br>Fishball noodles<br><br>Other Details:<br>Uncle makes fishballs as early as 4am but business affected during the night.<br><br>Contributor:<br>Bryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.758198,
+          1.33342,
+          0
+        ]
+      },
+      "properties": {
+        "name": "32 Roasted Delights",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>32 Old Toh Tuck Road s597658 597658<br><br>Opening Hours:<br>9am to 6pm<br><br>Shop Recommendations:<br>Dang gui duck, wanton noodles, roasted delights<br><br>Other Details:<br>Started the stall 3 weeks before HA. Due to the location of the stall is within industrial area, many of the employees are working from home and nearby housing estate is quite far away, the orders of the food are greatly affected. More than 60% drop. Even with the grabfood service putting in place, there is no order so far.<br><br>Contributor:<br>Jeremy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.804518,
+          1.28634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beans Fragrance",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Coffee, tea, almond beancurd, dessert<br><br>Other Details:<br>This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76734,
+          1.379506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "163 Ikan Bakar BBQ",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 163A Gangsa Road #01-01 Singapore  671163<br><br>Opening Hours:<br>5.30pm to 10.30pm daily, closed on Wednesday<br><br>Shop Recommendations:<br>Sambal BBQ Seafood<br><br>Other Details:<br>My parents are in their mid sixties and they are not IT savvy. This pandemic is causing them to suffer a loss in their business and furthermore,  they are not engaging any delivery companies (Grab, Foodpanda etc.).<br><br>Contributor:"
       }
     }
   ]
