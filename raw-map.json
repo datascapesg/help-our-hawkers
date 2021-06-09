@@ -258,27 +258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.860669,
-          1.301532,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Seow Choon Hua (Fuzhou Cuisine)",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>33 Sultan Gate <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.918058,
           1.394227,
           0
@@ -335,27 +314,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>726 Clementi West Street 2, #01-195 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>fried Hokkien noodles, char kway teow and carrot cake<br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.865377,
-          1.376287,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Wang Rong",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>38 Ang Mo Kio industrial park 2 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -1469,27 +1427,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>#04-65 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Sunday, 1030am to 3pm<br><br>Shop Recommendations:<br>Sweet and soup Pork<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.865377,
-          1.376287,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Wang Rong",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>38 Ang Moh Kio Industrial Park 2 569511<br><br>Opening Hours:<br>10am - 7pm<br><br>Shop Recommendations:<br>Carrot cake<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
@@ -3674,27 +3611,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>Kallang Junction Food Centre 23 Kallang Ave, Singapore 339414<br><br>Opening Hours:<br>Monday - Fri, Lunch<br><br>Shop Recommendations:<br>Laska, Yong Tau Fu<br><br>Other Details:<br>Best laksa in SG run by elderly hawker. Even if you like laska, you will be converted<br><br>Contributor:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.893713,
-          1.391387,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Old Bugis Kway Chap",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>10 Sengkang Square (KPT) S544829 544829<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br>Aunty is not IT savvy and not tied up with any online food delivery app. She is very generous with portion. And taste good<br><br>Contributor:<br>Alex"
       }
     },
     {
@@ -6054,153 +5970,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.887025,
-          1.353842,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Kampong Western Food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>coffee shop at Block 121 Hougang Avenue 1. <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.846128,
-          1.340449,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Asia Western Food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>116 Toa Payoh Lorong 2 #01-04 310116<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Chicken Wing<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.895889,
-          1.368094,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hock Kee Western Food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Block 327, Hougang Ave 5 530327<br><br>Opening Hours:<br>12 - 930pm<br><br>Shop Recommendations:<br>Spring Chicken<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.923502,
-          1.323935,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Lynn’s place western food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>26A Chai Chee Road Singapore 461026 461026<br><br>Opening Hours:<br>10am to 10pm (close on Saturday)<br><br>Shop Recommendations:<br>Western food<br><br>Other Details:<br>Not tech savvy.<br><br>Contributor:<br>Brandon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.855758,
-          1.345271,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Western Food Stall",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>New Century Food House, 151 Bishan St 11, 570151 570151<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Western food, fried rice<br><br>Other Details:<br>Elderly couple not on delivery platform<br><br>Contributor:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.93874,
-          1.331994,
-          0
-        ]
-      },
-      "properties": {
-        "name": "NFC Western",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>85 Fengshan Centre, Blk 85 Bedok North Street 4, #01-37 460085<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hi... Need help here... This stall is not on any delivery platforms as it is run by an old couple who are in their 70s. They were sitting outside their stall as they did not have any customers. <br><br>Contributor:<br>FeiFei Peh"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.85514,
-          1.373783,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Halim Western Food Delights",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Blk 532 Ang Mo Kio Ave 10 560532<br><br>Opening Hours:<br>11am - 10pn<br><br>Shop Recommendations:<br>Coffeeshop western<br><br>Other Details:<br>Elderly couple have been selling quality western food for at least 8 years or more over here.  Coffeeshop is relatively empty when I visited twice to buy from them and they are not on any delivery platforms.  Lady boss mentioned this time the impact on their business is harder as compared to last year CB.  Their food portion are value for money and quality are average standards. Don't compare it with modern western stalls.<br><br>Contributor:<br>Redhood"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.854192,
           1.340234,
           0
@@ -6383,6 +6152,153 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Coffee, tea, almond beancurd, dessert<br><br>Other Details:<br>This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887025,
+          1.353842,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kampong Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>coffee shop at Block 121 Hougang Avenue 1. <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846128,
+          1.340449,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Asia Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>116 Toa Payoh Lorong 2 #01-04 310116<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Chicken Wing<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895889,
+          1.368094,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hock Kee Western Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Block 327, Hougang Ave 5 530327<br><br>Opening Hours:<br>12 - 930pm<br><br>Shop Recommendations:<br>Spring Chicken<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.923502,
+          1.323935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lynn’s place western food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>26A Chai Chee Road Singapore 461026<br><br>Opening Hours:<br>10am to 10pm (close on Saturday)<br><br>Shop Recommendations:<br>Western food<br><br>Other Details:<br>Not tech savvy.<br><br>Contributor:<br>Brandon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855758,
+          1.345271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Western Food Stall",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>New Century Food House, 151 Bishan St 11, 570151 570151<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Western food, fried rice<br><br>Other Details:<br>Elderly couple not on delivery platform<br><br>Contributor:"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93874,
+          1.331994,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NFC Western",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>85 Fengshan Centre, Blk 85 Bedok North Street 4, #01-37 460085<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hi... Need help here... This stall is not on any delivery platforms as it is run by an old couple who are in their 70s. They were sitting outside their stall as they did not have any customers. <br><br>Contributor:<br>FeiFei Peh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85514,
+          1.373783,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halim Western Food Delights",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 532 Ang Mo Kio Ave 10 560532<br><br>Opening Hours:<br>11am - 10pn<br><br>Shop Recommendations:<br>Coffeeshop western<br><br>Other Details:<br>Elderly couple have been selling quality western food for at least 8 years or more over here.  Coffeeshop is relatively empty when I visited twice to buy from them and they are not on any delivery platforms.  Lady boss mentioned this time the impact on their business is harder as compared to last year CB.  Their food portion are value for money and quality are average standards. Don't compare it with modern western stalls.<br><br>Contributor:<br>Redhood"
       }
     },
     {
