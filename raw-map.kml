@@ -1450,16 +1450,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Nan Heng Hainanese Boneless Chicken Rice</name>
-        <description><![CDATA[Address:<br>Bukit Merah Central, #02-28 163 150163<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple who are aware of online platforms but are unable to utilise them as they are not tech savy<br><br>Contributor:<br>Yvonne Lim]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.813864,1.28469,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Seng Kee Roasted Meat Duck Rice</name>
         <description><![CDATA[Address:<br>Blk 7 Eunos Crescent  400007<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by 2 elderly uncles who make their own roasted and braised items. Business has been slow for them since the start of the Phase 2 HA restrictions<br><br>Contributor:<br>Adriane Lee]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -1856,16 +1846,6 @@
         <Point>
           <coordinates>
             103.944592,1.345456,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Seng Kee Roast Meat</name>
-        <description><![CDATA[Address:<br>blk 7 eunos crescent, S400007 400007<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Cantonese Roast Meats and Teochew Braised items<br><br>Other Details:<br>2 senior hawkers with no digital knowledge. Not on delivery platforms.<br><br>Contributor:]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.904566,1.320673,0
           </coordinates>
         </Point>
       </Placemark>

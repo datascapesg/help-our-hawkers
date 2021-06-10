@@ -2883,27 +2883,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.813864,
-          1.28469,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nan Heng Hainanese Boneless Chicken Rice",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Bukit Merah Central, #02-28 163 150163<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple who are aware of online platforms but are unable to utilise them as they are not tech savy<br><br>Contributor:<br>Yvonne Lim"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.904566,
           1.320673,
           0
@@ -3737,27 +3716,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>137 Tampines Street 11 #01-119 Singapore 521137 521137<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Roast meat<br><br>Other Details:<br>Elderly hawker<br><br>Contributor:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.904566,
-          1.320673,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Seng Kee Roast Meat",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>blk 7 eunos crescent, S400007 400007<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Cantonese Roast Meats and Teochew Braised items<br><br>Other Details:<br>2 senior hawkers with no digital knowledge. Not on delivery platforms.<br><br>Contributor:"
       }
     },
     {
