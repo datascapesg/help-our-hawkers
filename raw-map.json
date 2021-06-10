@@ -69,27 +69,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.818714,
-          1.277266,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Handmade Teochew Kueh",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Telok Blangah Block 11 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Netizen took video of elderly lady making the Peng Kueh by hand<br><br>Contributor:<br>Mei Leng Choy"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.844756,
           1.337796,
           0
@@ -671,27 +650,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>#01-07 Blk 209 Kovan Market & Food Centre. 530209<br><br>Opening Hours:<br>7am onwards<br><br>Shop Recommendations:<br>Lor Mee<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.818672,
-          1.277431,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Handmade Teochew Kuey",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>11 Telok Blangah Crescent 90011<br><br>Opening Hours:<br>Morning until 8 p.m.?<br><br>Shop Recommendations:<br>Ku cai kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {

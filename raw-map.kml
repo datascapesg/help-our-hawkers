@@ -110,16 +110,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Handmade Teochew Kueh</name>
-        <description><![CDATA[Address:<br>Telok Blangah Block 11 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Netizen took video of elderly lady making the Peng Kueh by hand<br><br>Contributor:<br>Mei Leng Choy]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.818714,1.277266,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Bak Chor Mee</name>
         <description><![CDATA[Address:<br>127 Toa Payoh Lorong 1, #02-03. <br><br>Opening Hours:<br>0700 to 1400 hr<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -396,16 +386,6 @@
         <Point>
           <coordinates>
             103.886143,1.359055,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Handmade Teochew Kuey</name>
-        <description><![CDATA[Address:<br>11 Telok Blangah Crescent 90011<br><br>Opening Hours:<br>Morning until 8 p.m.?<br><br>Shop Recommendations:<br>Ku cai kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.818672,1.277431,0
           </coordinates>
         </Point>
       </Placemark>
