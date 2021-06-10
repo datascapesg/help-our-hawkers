@@ -78,7 +78,7 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Chinese Stalls (257).kml</name>
+      <name>Chinese Stalls (243).kml</name>
       <Placemark>
         <name>Ah Tee Ko Ko Mee</name>
         <description><![CDATA[Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court, 200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br>Teochew Fishball Noodle<br><br>Other Details:<br>Sim Ah Tee, 73, is a hawker for over 50 years Being unable to read or write, Ah Tee was at a disadvantage when the Covid-19 Circuit Breaker started last year. While eateries and hawkers scrambled to offer food delivery, Ah Tee could not keep up with the new technology. “At the age of 70 plus, he’s not agile enough to multitask anymore. He’s still using the old Nokia handphone,” his son Calvin Sim, 49, tells 8days.sg. It doesn’t help that Ah Tee (pictured above) also faces competition from the bigger, more well-known Berseh Food Centre nearby. Despite the slow business, he has continued to open his stall as usual. “He’s a committed person. He’s making a loss every day, but insisted on carrying on till now despite using his own savings [to sustain]. As I’m working, I can’t manage his calls for him,” says Calvin, who tried to help his dad drum up business by posting about the stall on Facebook foodie groups like Can Eat! Hawker Food.<br><br>Contributor:<br>8 Days]]></description>
@@ -440,16 +440,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hup Seng Heng Vegetarian</name>
-        <description><![CDATA[Address:<br>726 Clementi West Street 2, #01-195 120726<br><br>Opening Hours:<br>Tuesday to Sunday: 11am to 10pm, Closed on Monday<br><br>Shop Recommendations:<br>Sliced "Fish" Bee Hoon Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.764266,1.303785,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Lian Xiang Shu Shi</name>
         <description><![CDATA[Address:<br>4 Woodlands Street 12, #01-61 Marsiling Mall 738620<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -692,16 +682,6 @@
       <Placemark>
         <name>28 Mixed Veg Rice</name>
         <description><![CDATA[Address:<br>#04-65 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Sunday, 1030am to 3pm<br><br>Shop Recommendations:<br>Sweet and soup Pork<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.776135,1.342435,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Guan Yin Vegetarian</name>
-        <description><![CDATA[Address:<br>#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Everyday except Sunday, 11pm to 2pm<br><br>Shop Recommendations:<br>Mixed Vegetable Gravy Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -1300,16 +1280,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Healthy Vegetarian (健康素食）</name>
-        <description><![CDATA[Address:<br>#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Tom Yum fried rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.846701,1.279401,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>River Garden Seafood</name>
         <description><![CDATA[Address:<br>Blk 4, bukit ho swee, #01-150 (behind boon tiong road) 162004<br><br>Opening Hours:<br>11:00 to 19:45<br><br>Shop Recommendations:<br>Economic Mixed Rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -1730,22 +1700,22 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Old Bugis Kway Chap</name>
+        <description><![CDATA[Address:<br>10 Sengkang Square (KPT) S544829 544829<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br>Aunty is not IT savvy and not tied up with any online food delivery app. She is very generous with portion. And taste good<br><br>Contributor:<br>Alex]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.893713,1.391387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Hock Thye Noodle House</name>
         <description><![CDATA[Address:<br>7 Crane Road, 429356 429356<br><br>Opening Hours:<br>7am-3pm?<br><br>Shop Recommendations:<br>Wanton Mee<br><br>Other Details:<br>Elderly Couple selling old school wantan mee without any digital platforms.They rely on locals and footfall. The shrimp wantons are amazing, charsiew is soft and the noodles are aldente. Wantan mee style different from Eng’s and it’s super old school style!<br><br>Contributor:<br>club87er]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
             103.899457,1.31269,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Old Bugis Kway Chap</name>
-        <description><![CDATA[Address:<br>10 Sengkang Square (KPT) 544829<br><br>Opening Hours:<br>Early morning till midnight<br><br>Shop Recommendations:<br>Kway Chap<br><br>Other Details:<br>Aunty is not IT savvy and not tied up with any food delivery app. She is generous with portion and her Kway chap tastes good. Her business has gone down tremendously since   the covid restrictions. Please help support her<br><br>Contributor:<br>Alex]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.893713,1.391387,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2380,6 +2350,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Chwee Kueh</name>
+        <description><![CDATA[Address:<br>#02-67 Taman Jurong Market & Food Centre, 3 Yung Sheng Rd 618499<br><br>Opening Hours:<br>6am - 1.30pm daily <br><br>Shop Recommendations:<br><br><br>Other Details:<br>https://www.8days.sg/eatanddrink/81-year-old-hawker-sells-chwee-kueh-at-taman-jurong-from-6am-13843494<br><br>Contributor:<br>Jennie]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.721562,1.334683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>NEWTON BIG PRAWN NOODLES (Branch)</name>
         <description><![CDATA[Address:<br>Soon Soon Lai Eating House, 32 Defu Lane 10  539213<br><br>Opening Hours:<br>Monday to Saturday: 0730 - 1600 , alternated Sunday: 0730 - noon<br><br>Shop Recommendations:<br>Prawn noodle with pork ribs <br><br>Other Details:<br>Soon Soon Lai Eating House is located in a industrial area, their main customer are the workers who works in the companies in the industrial area. Due to the pandemic situation most people have been working from home. The stall owner does not uses delivery platform and thus, their business have been seriously affected. <br><br>Contributor:<br>ES]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -2531,7 +2511,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Drinks Stalls (19).kml</name>
+      <name>Drinks Stalls (18).kml</name>
       <Placemark>
         <name>Everyday Tea Stall 天天茶室</name>
         <description><![CDATA[Address:<br>AMK Ave 10, Cheng San Food Centre, Everyday Tea Stall, 天天茶室 #01-128 560527<br><br>Opening Hours:<br>Open 5.30am - 1030am Tues - Thu, Sat & Sun until 11.30am. Rest days Mon & Fri.<br><br>Shop Recommendations:<br>Coffee & Tea<br><br>Other Details:<br>Stall has been operating since the 1979s. 50 years of fragrant hand-brewed traditional coffee and tea from $0.80/cup – The owner insists on keeping prices low (they were planning to +$0.10/cup in June but Covid hit and he decided not to) due to the owner’s belief that “[they] have seen 3 generation of customers from grandfathers to their grandchildren, and keeping prices low is a way of repaying the favour to our loyal customers. As long as they like the coffee, [he will] continue to brew it”. True to his words, the price of their drinks have only risen by $0.20 over the past 12 years.<br><br>Contributor:<br>Gayle Lim]]></description>
@@ -2837,7 +2817,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Desserts Stalls (9).kml</name>
+      <name>Desserts Stalls (8).kml</name>
       <Placemark>
         <name>Li Huat Hot and Cold Cheng Tng</name>
         <description><![CDATA[Address:<br>#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
@@ -2953,7 +2933,7 @@
       </Placemark>
       <Placemark>
         <name>Lynn’s place western food</name>
-        <description><![CDATA[Address:<br>26A Chai Chee Road Singapore 461026<br><br>Opening Hours:<br>10am to 10pm (close on Saturday)<br><br>Shop Recommendations:<br>Western food<br><br>Other Details:<br>Not tech savvy.<br><br>Contributor:<br>Brandon]]></description>
+        <description><![CDATA[Address:<br>26A Chai Chee Road Singapore 461026 461026<br><br>Opening Hours:<br>10am to 10pm (close on Saturday)<br><br>Shop Recommendations:<br>Western food<br><br>Other Details:<br>Not tech savvy.<br><br>Contributor:<br>Brandon]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2993,84 +2973,74 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Snacks Stalls (8).kml</name>
+      <name>Vegetarian Stalls (7).kml</name>
       <Placemark>
-        <name>Kaya Kaya</name>
-        <description><![CDATA[Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St 51531<br><br>Opening Hours:<br>daily 8am-5pm except Sat, 8am-5.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days]]></description>
+        <name>Hup Seng Heng Vegetarian</name>
+        <description><![CDATA[Address:<br>726 Clementi West Street 2, #01-195 120726<br><br>Opening Hours:<br>Tuesday to Sunday: 11am to 10pm, Closed on Monday<br><br>Shop Recommendations:<br>Sliced "Fish" Bee Hoon Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.84579,1.28515,0
+            103.764266,1.303785,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Uncle Lim Traditional Pancakes</name>
-        <description><![CDATA[Address:<br>11 Telok Blangah Crescent, #01-120 90011<br><br>Opening Hours:<br>Open about 6am - 1pm<br><br>Shop Recommendations:<br>Traditional Pancakes<br><br>Other Details:<br><br><br>Contributor:]]></description>
+        <name>Guan Yin Vegetarian</name>
+        <description><![CDATA[Address:<br>#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Everyday except Sunday, 11pm to 2pm<br><br>Shop Recommendations:<br>Mixed Vegetable Gravy Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.818672,1.277431,0
+            103.776135,1.342435,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Tanjong Rhu Pau</name>
-        <description><![CDATA[Address:<br>7 Jalan Batu, #01-113 431007<br><br>Opening Hours:<br>12pm - 6pm<br><br>Shop Recommendations:<br>Char Siu Pau<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
+        <name>Healthy Vegetarian (健康素食）</name>
+        <description><![CDATA[Address:<br>#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Tom Yum fried rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.883668,1.302192,0
+            103.846701,1.279401,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pan Ji Cooked Food</name>
-        <description><![CDATA[Address:<br>Blk 333 Smith Street #02-078 50333<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Honeycomb Snack<br><br>Other Details:<br>Uncle does really good old school honeycomb snacks. Business has been poor also due to the stall being tucked away at an inconspicuous part of Chinatown food complex green zone!<br><br>Contributor:<br>Cil Wong]]></description>
+        <name>Meng Heng Vegetarian Food</name>
+        <description><![CDATA[Address:<br>#01-81 Circuit Road Food Centre 370089<br><br>Opening Hours:<br>Tues & Sat 11am-10pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple and is not listed on any delivery platform<br><br>Contributor:<br>Benjamin Ouyang]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.844856,1.281942,0
+            103.88534,1.323888,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Yom Yom Popiah and Rojak</name>
-        <description><![CDATA[Address:<br>335 Smith St, #02-98, Singapore 650335 650335<br><br>Opening Hours:<br>10am-6pm<br><br>Shop Recommendations:<br>Rojak, Popiah<br><br>Other Details:<br>Elderly Hawker<br><br>Contributor:]]></description>
+        <name>Xiang Ji Miao Chu</name>
+        <description><![CDATA[Address:<br>17 Old Airport Rd, Kallang Estate Market Singapore 397972 397972<br><br>Opening Hours:<br>5 30am - 11am<br><br>Shop Recommendations:<br>Vegetarian Food<br><br>Other Details:<br>Elderly hawker<br><br>Contributor:]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.843092,1.282586,0
+            103.884137,1.307432,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Golden Snacks</name>
-        <description><![CDATA[Address:<br>Tampines Round Market and Food Centre Blk 137 Tampines St 11 #01-01 Singapore 522137<br><br>Opening Hours:<br>Closed on Mondays. 5.30am to 1.30pm<br><br>Shop Recommendations:<br>Youtiao, Butterfly<br><br>Other Details:<br>The stall sells awesome fried goreng pisang and they do not know how to utilize delivery services.<br><br>Contributor:]]></description>
+        <name>Shu Vegetarian</name>
+        <description><![CDATA[Address:<br>Unit 01-16, Market Street, 5 Cross St, Interim Food Centre 048418<br><br>Opening Hours:<br>0730-1430 M-F<br><br>Shop Recommendations:<br>Vegetarian food<br><br>Other Details:<br>Stall owner is not techie. Doesnt know how to promote stalls and cannot delivery fee on online platform<br><br>Contributor:]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.944678,1.345857,0
+            103.848525,1.282047,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Ri Xin Snack Delights</name>
-        <description><![CDATA[Address:<br>1 Kadayanallur Street, Maxwell Food Centre #01-55 (S069184) 69184<br><br>Opening Hours:<br>Late afternoon?<br><br>Shop Recommendations:<br>Ang Ku Kueh, Huat Kueh<br><br>Other Details:<br>Old school Ang Ku Kueh and snacks lovingly made by cute elderly uncle! Business fell drastically after Covid hit as most office workers started to WFH. Uncle is always there till late because his kuehs are always left unsold even till late evening.<br><br>Contributor:<br>B tham]]></description>
+        <name>Foy Yin Vegetarian Food</name>
+        <description><![CDATA[Address:<br>Blk 628 Ang Mo Kio Avenue 4 Unit 01-70, Singapore 560628 560628<br><br>Opening Hours:<br>Tues - Sun, 6:30 am - 9:00 pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Have been in business for 30+ years. Stall was quiet on a weekday evening, and uncle + auntie are not very tech savvy (tried to hop on foodpanda but they are still struggling with it). If you're around this area and craving for a vegetarian meal, please visit this stall (highly reco their bee hoon and hor fun!). <br><br>Contributor:]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.844767,1.280336,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>MEE CHIANG KUEH</name>
-        <description><![CDATA[Address:<br>761 YISHUN STREET 72 760761<br><br>Opening Hours:<br>7am - 230pm<br><br>Shop Recommendations:<br>peanut mee chiang kueh<br><br>Other Details:<br>Old auntie uncle couple selling $1.10 cheap and delicious mee chiang kueh, not tech savvy<br><br>Contributor:<br>YishunMcgriddles]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.833264,1.425126,0
+            103.840737,1.380976,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3114,49 +3084,6 @@
         <Point>
           <coordinates>
             103.856853,1.307238,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>Vegetarian Stalls (4).kml</name>
-      <Placemark>
-        <name>Meng Heng Vegetarian Food</name>
-        <description><![CDATA[Address:<br>#01-81 Circuit Road Food Centre 370089<br><br>Opening Hours:<br>Tues & Sat 11am-10pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple and is not listed on any delivery platform<br><br>Contributor:<br>Benjamin Ouyang]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.88534,1.323888,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Xiang Ji Miao Chu</name>
-        <description><![CDATA[Address:<br>17 Old Airport Rd, Kallang Estate Market Singapore 397972 397972<br><br>Opening Hours:<br>5 30am - 11am<br><br>Shop Recommendations:<br>Vegetarian Food<br><br>Other Details:<br>Elderly hawker<br><br>Contributor:]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.884137,1.307432,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Shu Vegetarian</name>
-        <description><![CDATA[Address:<br>Unit 01-16, Market Street, 5 Cross St, Interim Food Centre 048418<br><br>Opening Hours:<br>0730-1430 M-F<br><br>Shop Recommendations:<br>Vegetarian food<br><br>Other Details:<br>Stall owner is not techie. Doesnt know how to promote stalls and cannot delivery fee on online platform<br><br>Contributor:]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.848525,1.282047,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Foy Yin Vegetarian Food</name>
-        <description><![CDATA[Address:<br>Blk 628 Ang Mo Kio Avenue 4 Unit 01-70, Singapore 560628 560628<br><br>Opening Hours:<br>Tues - Sun, 6:30 am - 9:00 pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Have been in business for 30+ years. Stall was quiet on a weekday evening, and uncle + auntie are not very tech savvy (tried to hop on foodpanda but they are still struggling with it). If you're around this area and craving for a vegetarian meal, please visit this stall (highly reco their bee hoon and hor fun!). <br><br>Contributor:]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.840737,1.380976,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3244,12 +3171,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Chwee Kueh</name>
-        <description><![CDATA[Address:<br>#02-67 Taman Jurong Market & Food Centre, 3 Yung Sheng Rd 618499<br><br>Opening Hours:<br>6am - 1.30pm daily <br><br>Shop Recommendations:<br><br><br>Other Details:<br>https://www.8days.sg/eatanddrink/81-year-old-hawker-sells-chwee-kueh-at-taman-jurong-from-6am-13843494<br><br>Contributor:<br>Jennie]]></description>
+        <name>Adam Seafood BBQ</name>
+        <description><![CDATA[Address:<br>2 Adam Rd, Singapore 289876 289876<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Seafood BBQ<br><br>Other Details:<br>Stall is run by illiterate owners who serve super good BBQ<br><br>Contributor:]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.721562,1.334683,0
+            103.814086,1.324088,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3270,6 +3197,89 @@
         <Point>
           <coordinates>
             103.886992,1.320614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Snacks Stalls (8).kml</name>
+      <Placemark>
+        <name>Kaya Kaya</name>
+        <description><![CDATA[Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St 51531<br><br>Opening Hours:<br>daily 8am-5pm except Sat, 8am-5.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.84579,1.28515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uncle Lim Traditional Pancakes</name>
+        <description><![CDATA[Address:<br>11 Telok Blangah Crescent, #01-120 90011<br><br>Opening Hours:<br>Open about 6am - 1pm<br><br>Shop Recommendations:<br>Traditional Pancakes<br><br>Other Details:<br><br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.818672,1.277431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanjong Rhu Pau</name>
+        <description><![CDATA[Address:<br>7 Jalan Batu, #01-113 431007<br><br>Opening Hours:<br>12pm - 6pm<br><br>Shop Recommendations:<br>Char Siu Pau<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.883668,1.302192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pan Ji Cooked Food</name>
+        <description><![CDATA[Address:<br>Blk 333 Smith Street #02-078 50333<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Honeycomb Snack<br><br>Other Details:<br>Uncle does really good old school honeycomb snacks. Business has been poor also due to the stall being tucked away at an inconspicuous part of Chinatown food complex green zone!<br><br>Contributor:<br>Cil Wong]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844856,1.281942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yom Yom Popiah and Rojak</name>
+        <description><![CDATA[Address:<br>335 Smith St, #02-98, Singapore 650335 650335<br><br>Opening Hours:<br>10am-6pm<br><br>Shop Recommendations:<br>Rojak, Popiah<br><br>Other Details:<br>Elderly Hawker<br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843092,1.282586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Snacks</name>
+        <description><![CDATA[Address:<br>Tampines Round Market and Food Centre Blk 137 Tampines St 11 #01-01 Singapore 522137<br><br>Opening Hours:<br>Closed on Mondays. 5.30am to 1.30pm<br><br>Shop Recommendations:<br>Youtiao, Butterfly<br><br>Other Details:<br>The stall sells awesome fried goreng pisang and they do not know how to utilize delivery services.<br><br>Contributor:]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.944678,1.345857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ri Xin Snack Delights</name>
+        <description><![CDATA[Address:<br>1 Kadayanallur Street, Maxwell Food Centre #01-55 (S069184) 69184<br><br>Opening Hours:<br>Late afternoon?<br><br>Shop Recommendations:<br>Ang Ku Kueh, Huat Kueh<br><br>Other Details:<br>Old school Ang Ku Kueh and snacks lovingly made by cute elderly uncle! Business fell drastically after Covid hit as most office workers started to WFH. Uncle is always there till late because his kuehs are always left unsold even till late evening.<br><br>Contributor:<br>B tham]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEE CHIANG KUEH</name>
+        <description><![CDATA[Address:<br>761 YISHUN STREET 72 760761<br><br>Opening Hours:<br>7am - 230pm<br><br>Shop Recommendations:<br>peanut mee chiang kueh<br><br>Other Details:<br>Old auntie uncle couple selling $1.10 cheap and delicious mee chiang kueh, not tech savvy<br><br>Contributor:<br>YishunMcgriddles]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.833264,1.425126,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3475,7 +3485,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Yvonne Lim</name>
+        <name>Adriane Lee</name>
         <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -3484,7 +3494,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Adriane Lee</name>
+        <name>Yvonne Lim</name>
         <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
         <Point>
           <coordinates>
