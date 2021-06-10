@@ -100,16 +100,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>915 虾面</name>
-        <description><![CDATA[Address:<br>827 Tampines Street 81, . 520827<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.93375,1.349703,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Ah Meng Kueh</name>
         <description><![CDATA[Address:<br>#02-45 Hong Lim Market & Food Centre, 531A Upper Cross St 51531<br><br>Opening Hours:<br>Tues-Sat, 8.30am-6.30pm, Sun 8.30am-4pm.<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -216,16 +206,6 @@
         <Point>
           <coordinates>
             103.870173,1.32144,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hup Seng Heng vegetarian food</name>
-        <description><![CDATA[Address:<br>726 Clementi West Street 2, #01-195 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>fried Hokkien noodles, char kway teow and carrot cake<br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.764266,1.303785,0
           </coordinates>
         </Point>
       </Placemark>
@@ -500,16 +480,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Ng Soon Kee Fish and Duck Porridge</name>
-        <description><![CDATA[Address:<br>Blk 117 Aljunied Ave 2 #01-11 380117<br><br>Opening Hours:<br>From 11am<br><br>Shop Recommendations:<br>Sliced Fish Soup/ porridge<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.887261,1.32135,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>New Generation Fried Hokkien Mee</name>
         <description><![CDATA[Address:<br>Blk 136 Bedok North Ave 3 460136<br><br>Opening Hours:<br>11.30am-8pm<br><br>Shop Recommendations:<br>Fried Oyster<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -526,16 +496,6 @@
         <Point>
           <coordinates>
             103.838401,1.418142,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Feng Ji Fried Kway Teow</name>
-        <description><![CDATA[Address:<br>#04-45 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Wednesday to Sunday, 1130 am to 7pm<br><br>Shop Recommendations:<br>Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.776135,1.342435,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2663,16 +2623,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Everyday Tea Stall 《天天茶室》</name>
-        <description><![CDATA[Address:<br>Stall #01-128, Ang Mo Kio Ave 10, Cheng San Food Centre 560527<br><br>Opening Hours:<br>Open 5.30am - 1030am Tues - Thu, Sat & Sun until 11.30am. Rest days Mon & Fri. No delivery, only takeaway at stall.<br><br>Shop Recommendations:<br>Kopi C Siew Dai<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.854458,1.372806,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>THE JUICEMAN</name>
         <description><![CDATA[Address:<br>B1-79, Telok Blangah Crescent Block 11 Market and Food Centre 90011<br><br>Opening Hours:<br>Monday to Friday (11am-7pm), Sunday (11am-5pm)<br><br>Shop Recommendations:<br>Fruit Juice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
@@ -2945,16 +2895,6 @@
         <Point>
           <coordinates>
             103.788308,1.310971,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ri Xin Snack Delights</name>
-        <description><![CDATA[Address:<br>Store 55, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ang Ku Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.844767,1.280336,0
           </coordinates>
         </Point>
       </Placemark>

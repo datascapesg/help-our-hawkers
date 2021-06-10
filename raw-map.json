@@ -48,27 +48,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.93375,
-          1.349703,
-          0
-        ]
-      },
-      "properties": {
-        "name": "915 虾面",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>827 Tampines Street 81, . 520827<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.84579,
           1.28515,
           0
@@ -293,27 +272,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>69 Geylang Bahru food centre #01-59 <br><br>Opening Hours:<br>1100 to 2200 hr. Closed on Mondays<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.764266,
-          1.303785,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hup Seng Heng vegetarian food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>726 Clementi West Street 2, #01-195 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>fried Hokkien noodles, char kway teow and carrot cake<br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy"
       }
     },
     {
@@ -888,27 +846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.887261,
-          1.32135,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Ng Soon Kee Fish and Duck Porridge",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Blk 117 Aljunied Ave 2 #01-11 380117<br><br>Opening Hours:<br>From 11am<br><br>Shop Recommendations:<br>Sliced Fish Soup/ porridge<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.9352,
           1.328179,
           0
@@ -944,27 +881,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>Blk 630 Yishun St 61 760630<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Rojak<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.776135,
-          1.342435,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Feng Ji Fried Kway Teow",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#04-45 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Wednesday to Sunday, 1130 am to 7pm<br><br>Shop Recommendations:<br>Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
@@ -5424,27 +5340,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.854458,
-          1.372806,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Everyday Tea Stall 《天天茶室》",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Stall #01-128, Ang Mo Kio Ave 10, Cheng San Food Centre 560527<br><br>Opening Hours:<br>Open 5.30am - 1030am Tues - Thu, Sat & Sun until 11.30am. Rest days Mon & Fri. No delivery, only takeaway at stall.<br><br>Shop Recommendations:<br>Kopi C Siew Dai<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.818714,
           1.277266,
           0
@@ -6005,27 +5900,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020<br><br>Opening Hours:<br>Tue-sun 7am-7pm<br><br>Shop Recommendations:<br>Curry Puff<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.844767,
-          1.280336,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Ri Xin Snack Delights",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Store 55, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ang Ku Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
       }
     },
     {
