@@ -510,27 +510,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.813332,
-          1.32653,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Adam BBQ",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#01-18 Adam Road Food Centre 289876<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Sambal Stingray<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.737801,
           1.343706,
           0
