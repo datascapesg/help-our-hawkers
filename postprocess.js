@@ -13,8 +13,8 @@ const FIELD_NAMES = {
 const annotate = (data) => {
   const features = data.features.map((f) => {
     // Make a deep copy of feature and properties
-    const feature = { ...f, properties: { ...f.properties } }
-    const fields = feature.properties.description
+    const feature = { ...f, properties: { name: f.properties.name } }
+    const fields = f.properties.description
       .split('<br>')
       .filter(Boolean)
 
@@ -27,6 +27,10 @@ const annotate = (data) => {
           : null
     }
     
+    feature.properties = {
+      ...feature.properties,
+      ...f.properties,
+    }
     return feature
   })
   return { ...data, features }
