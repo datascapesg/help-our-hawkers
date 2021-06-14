@@ -3568,8 +3568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.744004,
-          1.347292,
+          103.743212,
+          1.349191,
           0
         ]
       },
@@ -3577,16 +3577,16 @@
         "name": "150 Traditional Fishball Noodle",
         "address": "Block 150 Bukit Batok Street 11 650150",
         "hours": null,
-        "recommendations": null,
+        "recommendations": "Authentic traditional noodle. Their meat is marinated which is v unusual because most of the bak Chor noodle stalls don’t marinate their meat. ",
         "details": "The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.",
-        "contributor": "Neegie Corrine Ng",
+        "contributor": "Neegie Corrine Ng and Annie Koh",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghZ3Bq<br>Twitter: https://j.mp/3vqQFEk"
+        "description": "Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Authentic traditional noodle. Their meat is marinated which is v unusual because most of the bak Chor noodle stalls don’t marinate their meat. <br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng and Annie Koh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghZ3Bq<br>Twitter: https://j.mp/3vqQFEk"
       }
     },
     {
@@ -4237,32 +4237,6 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>7 Crane Road, 429356 429356<br><br>Opening Hours:<br>7am-3pm?<br><br>Shop Recommendations:<br>Wanton Mee<br><br>Other Details:<br>Elderly Couple selling old school wantan mee without any digital platforms.They rely on locals and footfall. The shrimp wantons are amazing, charsiew is soft and the noodles are aldente. Wantan mee style different from Eng’s and it’s super old school style!<br><br>Contributor:<br>club87er<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2Ts1gkK<br>Twitter: https://j.mp/35guIwV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.898359,
-          1.326891,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hua Ji Hong Kong Roasted Duck King",
-        "address": "71 Ubi Cres, Singapore 408571 408571",
-        "hours": null,
-        "recommendations": "Roast Duck",
-        "details": "Hawkers are IT illeratr",
-        "contributor": "Take a photo when you visit this stall and share your support!:",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>71 Ubi Cres, Singapore 408571 408571<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Roast Duck<br><br>Other Details:<br>Hawkers are IT illeratr<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vhAlp7<br>Twitter: https://j.mp/35gcNqb"
       }
     },
     {
@@ -6558,8 +6532,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.792835,
-          1.30973,
+          103.792829,
+          1.308245,
           0
         ]
       },
@@ -8389,144 +8363,14 @@
         "hours": null,
         "recommendations": "Traditional ice dessert",
         "details": "Uncle looks very old already, operating alone.",
-        "contributor": "Kelyn & Ah Long",
+        "contributor": "Kelyn and Ah Long",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional ice dessert<br><br>Other Details:<br>Uncle looks very old already, operating alone.<br><br>Contributor:<br>Kelyn & Ah Long<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35efSqI<br>Twitter: https://j.mp/3vfdk6p"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.776135,
-          1.342435,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Dhaba 1376 North Indian cuisine",
-        "address": "#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
-        "hours": "Open everyday except Monday afternoon, 11am to 10pm",
-        "recommendations": "Mixed Kebab Platter",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Monday afternoon, 11am to 10pm<br><br>Shop Recommendations:<br>Mixed Kebab Platter<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3glr7nO<br>Twitter: https://j.mp/3wmZ3Wr"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.808155,
-          1.286905,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Y.R.A Rasool Fatimah",
-        "address": "#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006",
-        "hours": "Daily (except Thursdays) 10am-7pm",
-        "recommendations": "Prata",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006<br><br>Opening Hours:<br>Daily (except Thursdays) 10am-7pm<br><br>Shop Recommendations:<br>Prata<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2RU1elw<br>Twitter: https://j.mp/3pLJtRS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.935557,
-          1.320547,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Moli Food Stall",
-        "address": "16 Bedok South Road, #01-18 Singapore 460016",
-        "hours": null,
-        "recommendations": "Vadai",
-        "details": "Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.",
-        "contributor": "Louis Tan",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>16 Bedok South Road, #01-18 Singapore 460016<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Vadai<br><br>Other Details:<br>Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.<br><br>Contributor:<br>Louis Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghaCsC<br>Twitter: https://j.mp/2RRonVJ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.856853,
-          1.307238,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Jalan Besar Mutton Soup",
-        "address": "166 Jalan berseh #02-57 Singapore 208877",
-        "hours": "11-7.30pm",
-        "recommendations": "Mutton soup",
-        "details": "Owned by a elderly couple who are not tech savvy.",
-        "contributor": "Take a photo when you visit this stall and share your support!:",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>166 Jalan berseh #02-57 Singapore 208877<br><br>Opening Hours:<br>11-7.30pm<br><br>Shop Recommendations:<br>Mutton soup<br><br>Other Details:<br>Owned by a elderly couple who are not tech savvy.<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TtsW8R<br>Twitter: https://j.mp/3pPpUbk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.941135,
-          1.324168,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Welcome Muslim Food Stall",
-        "address": "Blk 58 New Upper Changi Road. The Marketplace @ 58 461058",
-        "hours": "Closed on Fridays",
-        "recommendations": "Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng",
-        "details": "Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment",
-        "contributor": "Adi",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Blk 58 New Upper Changi Road. The Marketplace @ 58 461058<br><br>Opening Hours:<br>Closed on Fridays<br><br>Shop Recommendations:<br>Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng<br><br>Other Details:<br>Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment<br><br>Contributor:<br>Adi<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vqRvAY<br>Twitter: https://j.mp/35igk7w"
+        "description": "Address:<br>#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional ice dessert<br><br>Other Details:<br>Uncle looks very old already, operating alone.<br><br>Contributor:<br>Kelyn and Ah Long<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35efSqI<br>Twitter: https://j.mp/3vfdk6p"
       }
     },
     {
@@ -8969,6 +8813,136 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>Blk 17 Upper Boon Keng Road (Hawker Centre) #01-40  380017<br><br>Opening Hours:<br>12.00pm to 7.30pm (closed on Wed & Thur, alternate Tue off preparing stocks)<br><br>Shop Recommendations:<br>Most of his dishes are unique, eg. Cajun Paprika  Chicken w Pasta/Rice or Fries comes w 2 types of sauce (ie. Black Pepper or Mushroom Cream - self invented) / Chicken Culets /Baked Fish etc<br><br>Other Details:<br>Stall owner is young but not highly educated, and know not much of IT savvy, Grab/Panda platform not in his list as the charges is too high, the food profit is not high as he uses the herbs which is not cheap too, he's good at cooking, the menu of the Western Foods came up by himself & he is very particular on freshness of the food. Customers do comment on the goodness of food and have shared that it can be compared to Hotel standard. His customers are mostly the residents nearby & Factories staff and some through recommendation from their friends who had tasted his food. Due to last year Covid19 and recently Heightened Alert, business being affected. I chanced upon this site which helps Hawkers being affected by the Covid19 & Heightened Alert, thinking this might help him People can get some nice foods from this Hawker Centre too. Therefore, do give them some support too. Thank you & Stay Safe & Stay Healthy!<br><br>Contributor:<br>Iris Lim<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wg5Lxv<br>Twitter: https://j.mp/3pNdPn3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dhaba 1376 North Indian cuisine",
+        "address": "#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
+        "hours": "Open everyday except Monday afternoon, 11am to 10pm",
+        "recommendations": "Mixed Kebab Platter",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Monday afternoon, 11am to 10pm<br><br>Shop Recommendations:<br>Mixed Kebab Platter<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3glr7nO<br>Twitter: https://j.mp/3wmZ3Wr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Y.R.A Rasool Fatimah",
+        "address": "#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006",
+        "hours": "Daily (except Thursdays) 10am-7pm",
+        "recommendations": "Prata",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006<br><br>Opening Hours:<br>Daily (except Thursdays) 10am-7pm<br><br>Shop Recommendations:<br>Prata<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2RU1elw<br>Twitter: https://j.mp/3pLJtRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935557,
+          1.320547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Moli Food Stall",
+        "address": "16 Bedok South Road, #01-18 Singapore 460016",
+        "hours": null,
+        "recommendations": "Vadai",
+        "details": "Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.",
+        "contributor": "Louis Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>16 Bedok South Road, #01-18 Singapore 460016<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Vadai<br><br>Other Details:<br>Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.<br><br>Contributor:<br>Louis Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghaCsC<br>Twitter: https://j.mp/2RRonVJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856853,
+          1.307238,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jalan Besar Mutton Soup",
+        "address": "166 Jalan berseh #02-57 Singapore 208877",
+        "hours": "11-7.30pm",
+        "recommendations": "Mutton soup",
+        "details": "Owned by a elderly couple who are not tech savvy.",
+        "contributor": "Take a photo when you visit this stall and share your support!:",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>166 Jalan berseh #02-57 Singapore 208877<br><br>Opening Hours:<br>11-7.30pm<br><br>Shop Recommendations:<br>Mutton soup<br><br>Other Details:<br>Owned by a elderly couple who are not tech savvy.<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TtsW8R<br>Twitter: https://j.mp/3pPpUbk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.941135,
+          1.324168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Welcome Muslim Food Stall",
+        "address": "Blk 58 New Upper Changi Road. The Marketplace @ 58 461058",
+        "hours": "Closed on Fridays",
+        "recommendations": "Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng",
+        "details": "Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment",
+        "contributor": "Adi",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 58 New Upper Changi Road. The Marketplace @ 58 461058<br><br>Opening Hours:<br>Closed on Fridays<br><br>Shop Recommendations:<br>Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng<br><br>Other Details:<br>Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment<br><br>Contributor:<br>Adi<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vqRvAY<br>Twitter: https://j.mp/35igk7w"
       }
     }
   ]
