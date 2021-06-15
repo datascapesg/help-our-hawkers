@@ -22,7 +22,9 @@ const annotate = (data) => {
       const fieldNameIndex = fields.indexOf(fieldName)
       const fieldValue = fields[fieldNameIndex + 1]
       feature.properties[propertyName] = 
-        fieldValue && !Object.values(FIELD_NAMES).includes(fieldValue)
+        fieldValue &&
+        !Object.values(FIELD_NAMES).includes(fieldValue) &&
+        !fieldValue.endsWith(':')
           ? fieldValue
           : null
     }
