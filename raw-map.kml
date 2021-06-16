@@ -37,48 +37,8 @@
         <styleUrl>#icon-1577-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1596-BDBDBD-nodesc-normal">
-      <IconStyle>
-        <color>ffbdbdbd</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1596-BDBDBD-nodesc-highlight">
-      <IconStyle>
-        <color>ffbdbdbd</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1596-BDBDBD-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1596-BDBDBD-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1596-BDBDBD-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Folder>
-      <name>Chinese Stalls (260).kml</name>
+      <name>Chinese Stalls (276).kml</name>
       <Placemark>
         <name>Ah Tee Ko Ko Mee</name>
         <description><![CDATA[Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court, 200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br>Teochew Fishball Noodle<br><br>Other Details:<br>Sim Ah Tee, 73, is a hawker for over 50 years Being unable to read or write, Ah Tee was at a disadvantage when the Covid-19 Circuit Breaker started last year. While eateries and hawkers scrambled to offer food delivery, Ah Tee could not keep up with the new technology. “At the age of 70 plus, he’s not agile enough to multitask anymore. He’s still using the old Nokia handphone,” his son Calvin Sim, 49, tells 8days.sg. It doesn’t help that Ah Tee (pictured above) also faces competition from the bigger, more well-known Berseh Food Centre nearby. Despite the slow business, he has continued to open his stall as usual. “He’s a committed person. He’s making a loss every day, but insisted on carrying on till now despite using his own savings [to sustain]. As I’m working, I can’t manage his calls for him,” says Calvin, who tried to help his dad drum up business by posting about the stall on Facebook foodie groups like Can Eat! Hawker Food.<br><br>Contributor:<br>8 Days<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vk7TTs<br>Twitter: https://j.mp/2Tn84Aq]]></description>
@@ -486,16 +446,6 @@
         <Point>
           <coordinates>
             103.744394,1.37744,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>#01-32 Ding’s Hainanese Chicken Rice</name>
-        <description><![CDATA[Address:<br>#01-32 Seah Im Rd, Block 2 99114<br><br>Opening Hours:<br>0800 - 1500 during this phase. 0800 - 1900 after phase.<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pNcqNj<br>Twitter: https://j.mp/3wlveWm]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.818508,1.266818,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2679,9 +2629,179 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>RI Eng Noodle House 日恩面家</name>
+        <description><![CDATA[Address:<br>498 Jurong West St 41, Chang Cheng Coffeeshop  640498<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Bak Chor Mee<br><br>Other Details:<br>One of the better BCM with No Queue. No Social Media, No Delivery, Not even on Google Map. Please do support when if the queue at the next stall are so long. Their BCM is really damn good!<br><br>Contributor:<br>Simon Ng<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vvsLY2<br>Twitter: https://j.mp/3grU9lz]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.724178,1.348364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lun Kee Fried Carrot Cake</name>
+        <description><![CDATA[Address:<br>335 Smith St, #02-55 50335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Green zone of Chinatown complex... help help... nice couple... started their biz more than a month, didn't expect HA to happen..<br><br>Contributor:<br>Connie Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pWEpKj<br>Twitter: https://j.mp/35pjaaQ]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843092,1.282586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Teochew Kway Chap, Pig's Trotter Rice]]></name>
+        <description><![CDATA[Address:<br>1 Jln Kukoh, Jalan Kukoh Food Center 161001<br><br>Opening Hours:<br>Opening hours 10AM to 7PM. Close on Sunday. <br><br>Shop Recommendations:<br><br><br>Other Details:<br>Located at Jalan Kukoh Food Centre, this kway chup has also suffered huge reduction in income. Besides kway chup, there are also hor fun, fried rice, hokkien mee, etc. Uncle is very friendly and chatty so do pay him a visit.  Note that Jalan Kukoh Food Centre rely mainly on customers from outside the neighbourhood, so its especially hard during these period. Hope we can go that extra mile.<br><br>Contributor:<br>Miguel Ng<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35ljeZb<br>Twitter: https://j.mp/3vrCkY7]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.839885,1.288254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mei Ji Xiao Pai Dang</name>
+        <description><![CDATA[Address:<br>10 Admiralty Street North link Building #01-74 757695<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hi guys! This zichar stall is located at a very ulu industrial area, 8A Admiralty Street, Food xchange building. Near 财神庙, opposite of Sembawang camp!  They are not on any delivery platforms, owned by two uncles. I hardly see any crowd and they are always the only stall left opened in the evening.  Their fried rice and sweet & sour fish are one of the nicest I’ve ever had! If u happened to be around this area, pls drop by and try it out.  Thank you <br><br>Contributor:<br>Charmaine Chan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TwEzMC<br>Twitter: https://j.mp/3vs4HFA]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.812532,1.462444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>51 Old Airport Road Char Kway Teow</name>
+        <description><![CDATA[Address:<br>51 Old Airport Rd, Old Airport Road Food Centre  390051<br><br>Opening Hours:<br>Opening hours: 10am - 9pm Closing days: He said depends, mostly Tues or Wednesday<br><br>Shop Recommendations:<br>Old school style, do ask for less sweetness and buay Pai taste<br><br>Other Details:<br>Old Airport Road. I am just a customer. Do patronise uncle's stall. There are 3 elderly who are helping one another.  He was feeling under the weather as there are snaking queues everywhere. When I decided to purchase, you can see the happiness and gratefulness in his eyes. Shortly after that, a customer decided to buy as there is a customer who is queuing. "Uncle, I help you broadcast in Facebook." "I am illiterate and don't know anything about social media." There is sadness and helplessness  in his eyes.<br><br>Contributor:<br>Zhuang Xuefang<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35lGTsb<br>Twitter: https://j.mp/3gpAkev]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.885844,1.30824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A1 Handmade Ban Mian</name>
+        <description><![CDATA[Address:<br>82 MacPherson Ln, Eng Wah Coffeeshop 360082<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hello Everyone! It’s been quite a while since I last posted here, but dining in is still further pushed back to 21st of June, which is affecting all of the F&B businesses. I am posting on behalf of this uncle’s humble stall. His business have been even more heavily affected due to all of these measures that are in place ever since the start of circuit breaker. He is not tech-savvy, thus I wish to reach out to the community to support his business.<br><br>Contributor:<br>Nigel Yap<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wwGy1V<br>Twitter: https://j.mp/2TvNnCg]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.885855,1.332332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Xi Hainanese Chicken Rice</name>
+        <description><![CDATA[Address:<br>#01-53 BENDEMEER MARKET AND FOOD CENTRE, 29 Bendemeer Rd 330029<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Introducing a good chicken rice stall in north east region- san xi hainese chicken rice. Both poach and roast chicken are equally good ; tender and full flavour. The rice are hand fried with all classic Hainanese conditment before cooking and their chilli sauce is bomb and hot like hell and tangy. The chicken organs like liver and innards are fresh and doesn’t have the foul smell. They sell roast pork too which I have yet to try. You can pack soup away for extra cost of 30cts for takeaways but before covid is free to take and is kinda of soup ur mom will make comprise of chicken feet’s and stuff.  Stall has no delivery mode and they opened early from 9am onwards till finished every day.  Do visit them when you are in boon Keng  I been eating them consecutively for more than 10 times and meat is consistent. They don’t have delivery mode and pay them a visit instead on the spot to support them. I will said this is a hidden gem while they have their own fan base as well.<br><br>Contributor:<br>Don Leow<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pTb4Ra<br>Twitter: https://j.mp/35oIxJW]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.862992,1.319276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porridge (粥)</name>
+        <description><![CDATA[Address:<br>117 Aljunied Ave 2, #01-26 380117<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>A gem hidden in a less popular neighbourhood of Singapore, Geylang East Food Centre. I chanced upon it last Wednesday when I was there dabao-ing for the family.  Saw an old uncle (stall owner) sitting in his stall waiting for customers. Obviously, his stall didn’t catch the attention of many patrons. But I decided to jump in to try. Weather was afterall hot and I don’t have much appetite to eat something that it’s too heavy. Looking at the long list in the menu, I ordered a prawn cheong fan @ $2.50 with 6 prawns in it and a bowl of cuttlefish and pork porridge for $2.50. I watched every skilful step he took to make that one roll of cheong fan for me. From laying the flour mixture and steaming it to adding the ingredients, all made with love. Items are mostly priced $2.50/$3.  Was surprised how soft the chee cheong fan was (just like those that I tried at Chinese restaurants) and it went perfectly well with the savoury hk style black sauce. Congee was smooth with abundant slices of pork and cuttlefish.  I know I will go back to that stall again. And here I am, at Geylang East Food Centre (Stall # 01-26) to dabao lunch for the family. This time round I remembered to whip out my camera to take some insta-worthy photos and share it with you all.  Enjoy all!<br><br>Contributor:<br>Elena Lau<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pXqoML<br>Twitter: https://j.mp/3wnEFVf]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.886992,1.320614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yong Huat Cooked Food Stall</name>
+        <description><![CDATA[Address:<br>210 Lor 8 Toa Payoh #01-66, Toa Payoh Lor 8 Market 310210<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Shui Kueh<br><br>Other Details:<br>Shui kueh is 砵仔糕 in Cantonese, recalled seeing vendors steaming the kueh in mini clay bowls when growing up in Chinatown. Have been buying from this shui kueh uncle for more than 20 years.  He used to be very chatty and loved to joke when his partner was around.  Haven't seen the elderly lady for some years and uncle seems to be more quiet.   Missed the time when he jokingly teased me on my 书包 (a backpack I used to carry).  What I really love about his stall, 1) he makes the shui kueh himself,  2) he is still steaming the kueh in old school metal container,  not disposable plastic. Usually,  there is a reasonable Q to keep him busy.  Recent weeks, noticed that he is less busy.  Maybe shui kueh is not a main course... sadden to see him sitting quietly by his stall.  Whenever I see that, just want to keep him busy, to motivate him.  When patronizing the hawker center,  hope you can get some snacks from him.  <br><br>Contributor:<br>Mii PT Lor<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2SEBdXz<br>Twitter: https://j.mp/3gsNLKO]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.854192,1.340234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Famous Beo Crescent Hokkien Sotong Mee</name>
+        <description><![CDATA[Address:<br>127 Bukit Merah Lane 1, #01-230 150127<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Today I finally managed to re-live my Poly days craving of the famous Beo Crescent wok hei FHM that has since moved to Alexandra Village, Blk 127 Bukit Merah Lane 1 coffeeshop! Hope this post can help the stall to rally some support as there was no long queue and business seems quiet at 130pm on a weekday.<br><br>Contributor:<br>Tan Shu-Lin Aaron<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pY2aSr<br>Twitter: https://j.mp/2SuTYwO]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.803496,1.285536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jin Hai Cooked Food</name>
+        <description><![CDATA[Address:<br>7 Maxwell Road, 01-40 069111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Was at Amoy Street Food Centre to check out more food from our elderly hawkers. If you are around the area, do check them out.  #01-40 - Jin Hai Cooked Food. Uncle only offers 2 types of food: Hor Fun and Fried Rice. for $4, you get a pretty good plate of fried rice with wok hei and there are lup cheong, eggs and prawns. Definitely has that old school taste.<br><br>Contributor:<br>Pearlyn Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vmvUcI<br>Twitter: https://j.mp/3xC4ktJ]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.846701,1.279401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xiang Chang Coffee Shop</name>
+        <description><![CDATA[Address:<br>7 Maxwell Road, 01-51 069111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Was at Amoy Street Food Centre to check out more food from our elderly hawkers. If you are around the area, do check them out.  #01-51 - Just opposite Jin Hai Cooked Food is Xiang Chang Coffee Shop. It is run by an friendly elderly auntie. Her teh peng is not overly sweet and the milk doesn’t overpower the fragrant of the tea. Worth a try! <br><br>Contributor:<br>Pearlyn Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3cJPtoS<br>Twitter: https://j.mp/35n6vVF]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.846701,1.279401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tai Sun Coffee</name>
+        <description><![CDATA[Address:<br>7 Maxwell Road, 02-121 069111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Was at Amoy Street Food Centre to check out more food from our elderly hawkers. If you are around the area, do check them out.  #02-121 - Where can you find drinks under $1 in the CBD district? Come to Tai Sun Coffee. Their soya bean drink, barley and Chin Chow is 80cents for small (which is the normal size) and $1 for the big cup. Grab a drink and support uncle!<br><br>Contributor:<br>Pearlyn Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gDkHir<br>Twitter: https://j.mp/3xrHRiz]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.846701,1.279401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fishball Noodle</name>
+        <description><![CDATA[Address:<br>260 Ang Mo Kio Street 21, Canopy Coffee Club 560260<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Was wondering where is Blk 260 Ang Mo Kio as a member recommended spicy Hor fun. Went there at 11.10am, not opened yet for this Tze char stall. Other Stalls no body buying so change of mind bought one from fishball stall... Prawn noodles $5.00- nice and big prawns. Disadvantage for this Coffeeshop- too deep in from main road.  Those with transport maybe can help these stalls out.<br><br>Contributor:<br>Jcch Julie Cheong<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3iFDbSg<br>Twitter: https://j.mp/3d2eL1R]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.834578,1.368849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sin Heng Kee Hainanese Chicken Rice. Char Siew Roasted Meat and Roast Duck Rice</name>
+        <description><![CDATA[Address:<br>Jalan Bukit Merah ABC Brickworks, #01-34 150006<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Please help to support my parents' stall if you happen to be nearby. I went to find them yesterday and the whole hawker centre is so quiet. They have been coming home late which breaks my heart...<br><br>Contributor:<br>Venus Wang Xinyu<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3xsIDMw<br>Twitter: https://j.mp/2SFm6gv]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.808155,1.286905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ah Tai Hainanese Chicken Rice</name>
+        <description><![CDATA[Address:<br>1 Kadayanallur St, Maxwell Food Centre 069184<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hey guys! Let’s help this uncle out! I was chatting with him and he told me he used to be the chef at tian tian chicken rice before he decided to leave and open up his own stall a couple stalls down from tian tian only! while tian tian had a line his stall barely had anyone patronizing! let’s all support this uncle pls! He previously tried to do food panda/ deliveroo but the orders kept getting cancelled as he was unable to understand the platforms.<br><br>Contributor:<br>Joan Alessandra Chen and Eric Chng<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3iS4eKl<br>Twitter: https://j.mp/3gFb8Q5]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xiang Xiang Hainanese Chicken Rice</name>
+        <description><![CDATA[Address:<br>Amoy Street Food Centre, 7 Maxwell Rd, #01-02 069111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hi everyone! I’m just a customer and a Hainanese too! While searching for lunch at Amoy Street Food Ctr, i went ahead to buy my colleague’s lunch: Chicken Rice. When i stepped into the food ctr on lvl 1 and laid eyes on the 1st row of food stalls, i spied Xiang Xiang Hainanese Chicken Rice! The auntie offers authentic ginger sauce!! It’s a must to have with Hainanese Chicken Rice! Besides the usually fare of white or roasted chicken, organs and braised egg, she’ve got chap chye & hainanese styled fried egg!! And besides the usual cucumber, she adds bits of fresh tomatos and lettuces! Do support her (she’s in her 80’s) as her husband(90’s) slipped and fell 3 months ago and is in a bad condition. From the brief conversation and my understanding, her husband’s insurance have been fully claimed and now every month $5k is being deducted from her. She’s does everything on her own and struggles. If u r in the area, pls do go down to her stall and support her! Thank u!<br><br>Contributor:<br>Sophriane Goh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3cKk0mq<br>Twitter: https://j.mp/3xiUKf0]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.846701,1.279401,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
-      <name>Drinks Stalls (19).kml</name>
+      <name>Drinks Stalls (21).kml</name>
       <Placemark>
         <name>Everyday Tea Stall 天天茶室</name>
         <description><![CDATA[Address:<br>AMK Ave 10, Cheng San Food Centre, Everyday Tea Stall, 天天茶室 #01-128 560527<br><br>Opening Hours:<br>Open 5.30am - 1030am Tues - Thu, Sat & Sun until 11.30am. Rest days Mon & Fri.<br><br>Shop Recommendations:<br>Coffee & Tea<br><br>Other Details:<br>Stall has been operating since the 1979s. 50 years of fragrant hand-brewed traditional coffee and tea from $0.80/cup – The owner insists on keeping prices low (they were planning to +$0.10/cup in June but Covid hit and he decided not to) due to the owner’s belief that “[they] have seen 3 generation of customers from grandfathers to their grandchildren, and keeping prices low is a way of repaying the favour to our loyal customers. As long as they like the coffee, [he will] continue to brew it”. True to his words, the price of their drinks have only risen by $0.20 over the past 12 years.<br><br>Contributor:<br>Gayle Lim<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3whbP8W<br>Twitter: https://j.mp/2Trkw1U]]></description>
@@ -2872,6 +2992,159 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[The 1950's Coffee “五十年代”]]></name>
+        <description><![CDATA[Address:<br>335 Smith St, #02-048 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Ever wondered what is it like for a famous Hawker Centre in town area? I checked out the MAXWELL Food Centre on a Sunday and many hardworking stall owners were there diligently opened their stalls and waiting for business during this difficult period of Phase 2 (Heightened Alert) where dine-in is not allowed. Please show your support to them! A small gesture of visit to buy anything from them, helps! Thank you. <br><br>Contributor:<br>Starry Night<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TwzWSz<br>Twitter: https://j.mp/3iI1W04]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843092,1.282586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sin Seng Juices Corner</name>
+        <description><![CDATA[Address:<br>590 Upper Thomson Rd, Sembawang Hills Food Centre 574419<br><br>Opening Hours:<br>Opens daily at night between 9.30pm to 12 midnight. <br><br>Shop Recommendations:<br><br><br>Other Details:<br>Please support the fruit juice stall uncle as his business as taken a severe hit due to the curbs on dine-in.  Fruit juice are made on the spot and are never dilluted. He will suggest different fruit juice combinations if you ask. He has all kinds of fruits available to choose from. Also popular are his cut fruit platters and jelly slices.<br><br>Contributor:<br>MA Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gyZUg4<br>Twitter: https://j.mp/3xmeLRQ]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.829008,1.372288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Others Stalls (13).kml</name>
+      <Placemark>
+        <name>Northern Thai Tom Yum</name>
+        <description><![CDATA[Address:<br>166 Jln Besar #01-25 208877<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35hNpjW<br>Twitter: https://j.mp/3vkvtj8]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.856749,1.307354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Korean Cuisine</name>
+        <description><![CDATA[Address:<br>10 Lor Bakar Batu, Singapore 348744 348744<br><br>Opening Hours:<br>Mon to Fri 11am to 6:30pm Sat 11am to 4pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pMXyhZ<br>Twitter: https://j.mp/3wn5bxU]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.871378,1.327034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Signs A Taste Of Vietnam Pho</name>
+        <description><![CDATA[Address:<br>Orchard Gateway B2-15, 277 Orchard Rd 238858<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Sliced Beef Ribeye Pho<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35kZtRa<br>Twitter: https://j.mp/3ggzZei]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.839515,1.300419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prince Coffee House</name>
+        <description><![CDATA[Address:<br>249 Beach Rd, #01-249 189757<br><br>Opening Hours:<br>11am–9:30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35hNDri<br>Twitter: https://j.mp/3pLJ0PC]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.859752,1.30025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Noshkata</name>
+        <description><![CDATA[Address:<br>590 upper Thomas road 01-22 574419<br><br>Opening Hours:<br>11-7pm<br><br>Shop Recommendations:<br>Army stew<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35cRrKm<br>Twitter: https://j.mp/3vkWbs3]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.829008,1.372362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Nice</name>
+        <description><![CDATA[Address:<br>777 Eating House, 630 Yishun Street 61 760630<br><br>Opening Hours:<br>daily 5pm-12am. Closed on Tues unless public holiday<br><br>Shop Recommendations:<br>Satay<br><br>Other Details:<br><br><br>Contributor:<br>Rachel Salvatore<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wxMwiU<br>Twitter: https://j.mp/3glVASF]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.837505,1.419052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meng Fruits</name>
+        <description><![CDATA[Address:<br>Block 4A Jalan Batu Market & Hawker Centre #01-32 432004<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>I decided to venture into Jln Batu Hawker Centre. As I was walking around, I noticed this lone figure sitting quietly staring at his mobile phone inside his stall. In my 5 minutes of observation, I noticed maybe 15 folks walked past his stall. Not a single one of them approach his stall. I decided to walk up to his stall.  When Uncle saw me approaching him, he eagerly stand up and asked what I would like to have. I can sense his urgency but when he said, I am his 1st customer of the day. My heart sank deeply at that moment.  The time then was 1145am, politely I asked if his sales takings were affected by the recent prohibition of dining in. He gave out a loud sigh.. I can sense his helplessness then and there. Jokingly he said "人算不如天算" (unpredictable situation). "Its a very tough situation". He relies on regulars and walk in customers. Now that it is the by default mode to WFH, his regulars don't come that frequently anymore. And walk in customers who can't dine in, are not buying drinks from him that much. Also, Jln Batu Hawker Centre can be a bit ulu to some.  Regardless of the situation, Uncle still maintain his positive outlook. With a sense of pride, he strongly recommended to me his 100% handmade agar agar jelly dessert. He said his agar agar is probably the cheapest or if not, one of the cheapest that one can ever locate in Singapore. At 0.50cents a piece of the agar agar jelly, they come in various flavours. Coffee, Yam, Rainbow, plain and few others - really Can Eat for me. This is the best part - Uncle refused to increase his price over the years. He said his customers included mostly senior citizens and those who are staying around the area are in 1, 2 and 3 rooms flat. Affordability is an issue to some of the folks there. Uncle said he could not bear to increase his pricing and would rather earn lesser or none at times. Even when he is struggling to stay afloat, he still has a compassion heart for others. For this, he has my utmost respect. What surprises me was that Uncle is also selling his agar agar jelly in a big square plastic container box at only $4 - see picture. I got 3 boxes of Yam agar agar jelly without hesitation. Uncle was very appreciative and hope that I will come back soon to try his yakult fruit juices. He is also selling slice cut fruits too.  Folks, this is one genuine Hawker whose business is greatly affected by the present situation. He has a big heart and filled with compassion. He deserve all your support, so please go down to support him and share this post for greater awareness. Whether its a slice of cut fruit or a piece of agar agar jelly at 0.50 cents or a cup of fruit juice, it matters alot to him.<br><br>Contributor:<br>Louis Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gfOQFH<br>Twitter: https://j.mp/35cS8Ds]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.883883,1.302171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alimama Nasi Panggang Stall Maxwell</name>
+        <description><![CDATA[Address:<br>Maxwell Food Centre 1 Kadayanallur Street, #01-09 Singapore 69184<br><br>Opening Hours:<br>10am - 10pm<br><br>Shop Recommendations:<br>Nasi Panggang, Ayam Bakar, Ikan Bakar (grilled fish)<br><br>Other Details:<br>Auntie is not tech savvy so she is just passively waiting for business, but it has been very quiet because of WFH. I am not affiliated to this stall. I just randomly chose to tabao from her and realised it's SOOOO out-of-the-world delicious!!! Best nasi panggang in the whole of Singapore. And I am a nasi panggang fan. So just wanted to help give her a shoutout. My friend also set up an IG account for her to let more people know about such a good indonesian food stall is available. Be transported to Bali instantly.<br><br>Contributor:<br>Alimama<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wn65dM<br>Twitter: https://j.mp/35hcXOc]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Seafood BBQ</name>
+        <description><![CDATA[Address:<br>2 Adam Rd, Singapore 289876 289876<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Seafood BBQ<br><br>Other Details:<br>Stall is run by illiterate owners who serve super good BBQ<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2RQxE05<br>Twitter: https://j.mp/3pMKHfA]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.814086,1.324088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Healthy Foods Salads</name>
+        <description><![CDATA[Address:<br>28 Jalan Bukit Merah <br><br>Opening Hours:<br>8am - 8pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Elderly hawker persevering the idea of eating clean and having a salad at least once a week. Owner believes in the quality and freshness of salad, fruits and juices. For juices, he believes in the pureness of the fruit and insists in serving with no additional sugar, salt or water - simply the simplest and best for his customers. <br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35ep2DJ<br>Twitter: https://j.mp/2RPeFmz]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.809866,1.286411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nui Kitchen</name>
+        <description><![CDATA[Address:<br>117 Aljunied Ave 2 #01-09 380095<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Green Curry <br><br>Other Details:<br>thai stall helmed by elders and son and they served rather authentic thai as cook is thai<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pQTaP6<br>Twitter: https://j.mp/3pSghc2]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.886992,1.320614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Grill</name>
+        <description><![CDATA[Address:<br>50 Serangoon North Ave 4 555856<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Chicken Katsu Don and their curry dishes<br><br>Other Details:<br>Stall is in a semi-industrial area, which not many people visit during the lockdown<br><br>Contributor:<br>Wesley<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pSgrAa<br>Twitter: https://j.mp/35hCAhK]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.876249,1.375636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grandma's Mee Siam]]></name>
+        <description><![CDATA[Address:<br>#01-33, Tekka Market, 655 Buffalo Road 210665<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>The stall owner operates the stall alone and is not on an delivery platform.  She offers a pretty good selection of items, please support her.<br><br>Contributor:<br>Joanna Ash<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3iLzHxz<br>Twitter: https://j.mp/2SCpVDa]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.850752,1.306461,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Malay Stalls (12).kml</name>
@@ -2997,129 +3270,6 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Others Stalls (12).kml</name>
-      <Placemark>
-        <name>Northern Thai Tom Yum</name>
-        <description><![CDATA[Address:<br>166 Jln Besar #01-25 208877<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35hNpjW<br>Twitter: https://j.mp/3vkvtj8]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.856749,1.307354,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Korean Cuisine</name>
-        <description><![CDATA[Address:<br>10 Lor Bakar Batu, Singapore 348744 348744<br><br>Opening Hours:<br>Mon to Fri 11am to 6:30pm Sat 11am to 4pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pMXyhZ<br>Twitter: https://j.mp/3wn5bxU]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.871378,1.327034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Signs A Taste Of Vietnam Pho</name>
-        <description><![CDATA[Address:<br>Orchard Gateway B2-15, 277 Orchard Rd 238858<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Sliced Beef Ribeye Pho<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35kZtRa<br>Twitter: https://j.mp/3ggzZei]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.839515,1.300419,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Prince Coffee House</name>
-        <description><![CDATA[Address:<br>249 Beach Rd, #01-249 189757<br><br>Opening Hours:<br>11am–9:30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35hNDri<br>Twitter: https://j.mp/3pLJ0PC]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.859752,1.30025,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Noshkata</name>
-        <description><![CDATA[Address:<br>590 upper Thomas road 01-22 574419<br><br>Opening Hours:<br>11-7pm<br><br>Shop Recommendations:<br>Army stew<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35cRrKm<br>Twitter: https://j.mp/3vkWbs3]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.829008,1.372362,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bali Nice</name>
-        <description><![CDATA[Address:<br>777 Eating House, 630 Yishun Street 61 760630<br><br>Opening Hours:<br>daily 5pm-12am. Closed on Tues unless public holiday<br><br>Shop Recommendations:<br>Satay<br><br>Other Details:<br><br><br>Contributor:<br>Rachel Salvatore<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wxMwiU<br>Twitter: https://j.mp/3glVASF]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.837505,1.419052,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Meng Fruits</name>
-        <description><![CDATA[Address:<br>Block 4A Jalan Batu Market & Hawker Centre #01-32 432004<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>I decided to venture into Jln Batu Hawker Centre. As I was walking around, I noticed this lone figure sitting quietly staring at his mobile phone inside his stall. In my 5 minutes of observation, I noticed maybe 15 folks walked past his stall. Not a single one of them approach his stall. I decided to walk up to his stall.  When Uncle saw me approaching him, he eagerly stand up and asked what I would like to have. I can sense his urgency but when he said, I am his 1st customer of the day. My heart sank deeply at that moment.  The time then was 1145am, politely I asked if his sales takings were affected by the recent prohibition of dining in. He gave out a loud sigh.. I can sense his helplessness then and there. Jokingly he said "人算不如天算" (unpredictable situation). "Its a very tough situation". He relies on regulars and walk in customers. Now that it is the by default mode to WFH, his regulars don't come that frequently anymore. And walk in customers who can't dine in, are not buying drinks from him that much. Also, Jln Batu Hawker Centre can be a bit ulu to some.  Regardless of the situation, Uncle still maintain his positive outlook. With a sense of pride, he strongly recommended to me his 100% handmade agar agar jelly dessert. He said his agar agar is probably the cheapest or if not, one of the cheapest that one can ever locate in Singapore. At 0.50cents a piece of the agar agar jelly, they come in various flavours. Coffee, Yam, Rainbow, plain and few others - really Can Eat for me. This is the best part - Uncle refused to increase his price over the years. He said his customers included mostly senior citizens and those who are staying around the area are in 1, 2 and 3 rooms flat. Affordability is an issue to some of the folks there. Uncle said he could not bear to increase his pricing and would rather earn lesser or none at times. Even when he is struggling to stay afloat, he still has a compassion heart for others. For this, he has my utmost respect. What surprises me was that Uncle is also selling his agar agar jelly in a big square plastic container box at only $4 - see picture. I got 3 boxes of Yam agar agar jelly without hesitation. Uncle was very appreciative and hope that I will come back soon to try his yakult fruit juices. He is also selling slice cut fruits too.  Folks, this is one genuine Hawker whose business is greatly affected by the present situation. He has a big heart and filled with compassion. He deserve all your support, so please go down to support him and share this post for greater awareness. Whether its a slice of cut fruit or a piece of agar agar jelly at 0.50 cents or a cup of fruit juice, it matters alot to him.<br><br>Contributor:<br>Louis Tan<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gfOQFH<br>Twitter: https://j.mp/35cS8Ds]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.883883,1.302171,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Alimama Nasi Panggang Stall Maxwell</name>
-        <description><![CDATA[Address:<br>Maxwell Food Centre 1 Kadayanallur Street, #01-09 Singapore 69184<br><br>Opening Hours:<br>10am - 10pm<br><br>Shop Recommendations:<br>Nasi Panggang, Ayam Bakar, Ikan Bakar (grilled fish)<br><br>Other Details:<br>Auntie is not tech savvy so she is just passively waiting for business, but it has been very quiet because of WFH. I am not affiliated to this stall. I just randomly chose to tabao from her and realised it's SOOOO out-of-the-world delicious!!! Best nasi panggang in the whole of Singapore. And I am a nasi panggang fan. So just wanted to help give her a shoutout. My friend also set up an IG account for her to let more people know about such a good indonesian food stall is available. Be transported to Bali instantly.<br><br>Contributor:<br>Alimama<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wn65dM<br>Twitter: https://j.mp/35hcXOc]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.844767,1.280336,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Adam Seafood BBQ</name>
-        <description><![CDATA[Address:<br>2 Adam Rd, Singapore 289876 289876<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Seafood BBQ<br><br>Other Details:<br>Stall is run by illiterate owners who serve super good BBQ<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2RQxE05<br>Twitter: https://j.mp/3pMKHfA]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.814086,1.324088,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Healthy Foods Salads</name>
-        <description><![CDATA[Address:<br>28 Jalan Bukit Merah <br><br>Opening Hours:<br>8am - 8pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Elderly hawker persevering the idea of eating clean and having a salad at least once a week. Owner believes in the quality and freshness of salad, fruits and juices. For juices, he believes in the pureness of the fruit and insists in serving with no additional sugar, salt or water - simply the simplest and best for his customers. <br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35ep2DJ<br>Twitter: https://j.mp/2RPeFmz]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.809866,1.286411,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Nui Kitchen</name>
-        <description><![CDATA[Address:<br>117 Aljunied Ave 2 #01-09 380095<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Green Curry <br><br>Other Details:<br>thai stall helmed by elders and son and they served rather authentic thai as cook is thai<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pQTaP6<br>Twitter: https://j.mp/3pSghc2]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.886992,1.320614,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>London Grill</name>
-        <description><![CDATA[Address:<br>50 Serangoon North Ave 4 555856<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Chicken Katsu Don and their curry dishes<br><br>Other Details:<br>Stall is in a semi-industrial area, which not many people visit during the lockdown<br><br>Contributor:<br>Wesley<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pSgrAa<br>Twitter: https://j.mp/35hCAhK]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.876249,1.375636,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
       <name>Snacks Stalls (10).kml</name>
       <Placemark>
         <name>Kaya Kaya</name>
@@ -3223,99 +3373,6 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Desserts Stalls (9).kml</name>
-      <Placemark>
-        <name>Li Huat Hot and Cold Cheng Tng</name>
-        <description><![CDATA[Address:<br>#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vlstms<br>Twitter: https://j.mp/35jC2b0]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.854192,1.340234,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ghim Moh H.K Pasteries</name>
-        <description><![CDATA[Address:<br>20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020<br><br>Opening Hours:<br>Tue-sun 7am-7pm<br><br>Shop Recommendations:<br>Curry Puff<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wpkVke<br>Twitter: https://j.mp/3wkNqzp]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.788308,1.310971,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hum Jin Pang 中国街咸煎饼</name>
-        <description><![CDATA[Address:<br>#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>11am-8pm<br><br>Shop Recommendations:<br>Ham Jin Pang<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wybgbb<br>Twitter: https://j.mp/3wk4WUk]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.844767,1.280336,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Traditional Delight (古早美味）</name>
-        <description><![CDATA[Address:<br>Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ondeh Ondeh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3viwhVO<br>Twitter: https://j.mp/3gjUWVs]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.844767,1.280336,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Granny Pancake</name>
-        <description><![CDATA[Address:<br>#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Red Bean Ming Jiang Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35fOvMX<br>Twitter: https://j.mp/3ggj0bY]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.863248,1.319079,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Liang Liang Garden (凉凉园饮水室）</name>
-        <description><![CDATA[Address:<br>#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898<br><br>Opening Hours:<br>Daily 11am-9pm<br><br>Shop Recommendations:<br>Chng Teng with Peach Gum<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TrkZ4a<br>Twitter: https://j.mp/2Tl2ApH]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.832319,1.285975,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pastry for Life</name>
-        <description><![CDATA[Address:<br>#01-78, Empress Road Hawker Center, 7 Empress Rd 260007<br><br>Opening Hours:<br>7am - approx 4pm<br><br>Shop Recommendations:<br>Baos<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pLJvsY<br>Twitter: https://j.mp/3wg4RkB]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.805795,1.316456,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Beans Fragrance</name>
-        <description><![CDATA[Address:<br>#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Coffee, tea, almond beancurd, dessert<br><br>Other Details:<br>This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35uBFuB<br>Twitter: https://j.mp/35eoRZ5]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.804518,1.28634,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>An Ji Xiang Hua Wen Tou Xue</name>
-        <description><![CDATA[Address:<br>#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional ice dessert<br><br>Other Details:<br>Uncle looks very old already, operating alone.<br><br>Contributor:<br>Kelyn and Ah Long<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35efSqI<br>Twitter: https://j.mp/3vfdk6p]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.843092,1.282586,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
       <name>Vegetarian Stalls (9).kml</name>
       <Placemark>
         <name>Hup Seng Heng Vegetarian</name>
@@ -3409,6 +3466,99 @@
       </Placemark>
     </Folder>
     <Folder>
+      <name>Desserts Stalls (9).kml</name>
+      <Placemark>
+        <name>Li Huat Hot and Cold Cheng Tng</name>
+        <description><![CDATA[Address:<br>#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vlstms<br>Twitter: https://j.mp/35jC2b0]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.854192,1.340234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghim Moh H.K Pasteries</name>
+        <description><![CDATA[Address:<br>20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020<br><br>Opening Hours:<br>Tue-sun 7am-7pm<br><br>Shop Recommendations:<br>Curry Puff<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wpkVke<br>Twitter: https://j.mp/3wkNqzp]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.788308,1.310971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hum Jin Pang 中国街咸煎饼</name>
+        <description><![CDATA[Address:<br>#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>11am-8pm<br><br>Shop Recommendations:<br>Ham Jin Pang<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wybgbb<br>Twitter: https://j.mp/3wk4WUk]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Traditional Delight (古早美味）</name>
+        <description><![CDATA[Address:<br>Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ondeh Ondeh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3viwhVO<br>Twitter: https://j.mp/3gjUWVs]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granny Pancake</name>
+        <description><![CDATA[Address:<br>#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Red Bean Ming Jiang Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35fOvMX<br>Twitter: https://j.mp/3ggj0bY]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.863248,1.319079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liang Liang Garden (凉凉园饮水室）</name>
+        <description><![CDATA[Address:<br>#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898<br><br>Opening Hours:<br>Daily 11am-9pm<br><br>Shop Recommendations:<br>Chng Teng with Peach Gum<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TrkZ4a<br>Twitter: https://j.mp/2Tl2ApH]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.832319,1.285975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pastry for Life</name>
+        <description><![CDATA[Address:<br>#01-78, Empress Road Hawker Center, 7 Empress Rd 260007<br><br>Opening Hours:<br>7am - approx 4pm<br><br>Shop Recommendations:<br>Baos<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pLJvsY<br>Twitter: https://j.mp/3wg4RkB]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.805795,1.316456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beans Fragrance</name>
+        <description><![CDATA[Address:<br>#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Coffee, tea, almond beancurd, dessert<br><br>Other Details:<br>This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35uBFuB<br>Twitter: https://j.mp/35eoRZ5]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.804518,1.28634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>An Ji Xiang Hua Wen Tou Xue</name>
+        <description><![CDATA[Address:<br>#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional ice dessert<br><br>Other Details:<br>Uncle looks very old already, operating alone.<br><br>Contributor:<br>Kelyn and Ah Long<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35efSqI<br>Twitter: https://j.mp/3vfdk6p]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843092,1.282586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Western Stalls (8).kml</name>
       <Placemark>
         <name>Kampong Western Food</name>
@@ -3492,7 +3642,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Indian Stalls (5).kml</name>
+      <name>Indian Stalls (6).kml</name>
       <Placemark>
         <name>Dhaba 1376 North Indian cuisine</name>
         <description><![CDATA[Address:<br>#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Open everyday except Monday afternoon, 11am to 10pm<br><br>Shop Recommendations:<br>Mixed Kebab Platter<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3glr7nO<br>Twitter: https://j.mp/3wmZ3Wr]]></description>
@@ -3543,1059 +3693,13 @@
           </coordinates>
         </Point>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>Contributors (117).kml</name>
       <Placemark>
-        <name>Thiru</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <name>Siraj Indian Rojak</name>
+        <description><![CDATA[Address:<br>270 Queen St, 270, Albert Centre 180270<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Was in the area today and visited Albert Food Centre this afternoon. Bought indian rojak from the popular Siraj Indian Rojak, whom I used to patronise some 15 years ago every Sunday. Uncle had a brief chat with me, saying that business has really been bad especially on Sundays when it’s usually the most busy for him. Some stalls along his row have closed on Sundays, as they’ve given up. Could sense his frustrations, and he also casually asked how I know about his store. He’s heard about hawkers being shared on social media etc, but doesn’t seem to have a clue on how that works. So just helping him out and posting a shout out here, especially since his Indian Rojak is nice. So do give it a try if you’re in Bugis area!!<br><br>Contributor:<br>Keefe Wong<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gnK4WO<br>Twitter: https://j.mp/3vrSnFe]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>yellowbean9</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>ubtokenceo</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>B Tham</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>8 Days</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mei Leng Choy</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>き リーサン</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>chaiporneng</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Gayle Lim</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>MichelleY</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Cheryl Yap</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Eddie Ng</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>OldieGoodieHawker</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Yee Ching</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>wheretodabao</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rachel Salvatore</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Stanley Tay</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Simon Ng</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Benjamin Ouyang</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>FeiFei Peh</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Aaron Tan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Cil Wong</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Adriane Lee</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Yvonne Lim</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tay Hak Peng</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Casmine Yeo</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Chriz Yek</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Neegie Corrine Ng and Annie Koh</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jasmine Chua</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>EY Elyse</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Selwyn Koh</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Shuu Shuu</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pauline Gan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Louis Tan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Chairmaine Chan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Caryn SF</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Basil Yeo</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Heng Family</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>oneprawn and dibbo</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>JL</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Edmund</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Javier Lim</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>May Goh and Hock Kee Tan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Nic Han</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Marcus Khoo</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>timotheosh</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Alex</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>club87er</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Brandon</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Anntonii Lim</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>EL</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Teddy</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>J.K</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Sabeela B</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Darren</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Clare</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Dupey</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Fazari</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bnzt</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calv</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Alimama</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Emily</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>James</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Annabel</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>CroL</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Kit</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bryan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jeremy</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Stephanie Lee</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Junny</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Andy</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Michelle</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>ckphilip</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Redhood</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>B tham</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tiong 24</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Walter</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>85 claypot</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Gwendolyn Choo-Keffer</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Darren Tan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Joanne Lim</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Denise Eng</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Chloe</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>timmyt_16</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Eric</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jennie</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Alton</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Johnson</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>ES</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>z3ch7</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>YishunMcgriddles</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jae Tan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Kwan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Nyna</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bridgette</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mii PT Lor</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Kevin Ng</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pan Lee</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ang Zhen Wei</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Leko Okei</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tay Hwei Fang</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Melvin Chong Chee Leong</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ad-Ad</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Adi</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>George</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>JonCool</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Wesley</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rachel Tan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Howard Teo Chin Wan</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Vicki Chen</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Min Kong</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Poh Soh Lee</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Stewart kong</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Iris Lim</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Kishore</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Kelyn and Ah Long</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>CN</name>
-        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            103.803757,1.368014,0
+            103.854438,1.300903,0
           </coordinates>
         </Point>
       </Placemark>
