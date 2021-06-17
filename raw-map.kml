@@ -37,8 +37,48 @@
         <styleUrl>#icon-1577-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1596-BDBDBD-nodesc-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1596-BDBDBD-nodesc-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1596-BDBDBD-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1596-BDBDBD-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1596-BDBDBD-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Folder>
-      <name>Chinese Stalls (276).kml</name>
+      <name>Chinese Stalls (279).kml</name>
       <Placemark>
         <name>Ah Tee Ko Ko Mee</name>
         <description><![CDATA[Address:<br>#01-100 Gourmet Street, Blk 27 Kelantan Court, 200027<br><br>Opening Hours:<br>Mon-Sat, 5.30am-1.30pm<br><br>Shop Recommendations:<br>Teochew Fishball Noodle<br><br>Other Details:<br>Sim Ah Tee, 73, is a hawker for over 50 years Being unable to read or write, Ah Tee was at a disadvantage when the Covid-19 Circuit Breaker started last year. While eateries and hawkers scrambled to offer food delivery, Ah Tee could not keep up with the new technology. “At the age of 70 plus, he’s not agile enough to multitask anymore. He’s still using the old Nokia handphone,” his son Calvin Sim, 49, tells 8days.sg. It doesn’t help that Ah Tee (pictured above) also faces competition from the bigger, more well-known Berseh Food Centre nearby. Despite the slow business, he has continued to open his stall as usual. “He’s a committed person. He’s making a loss every day, but insisted on carrying on till now despite using his own savings [to sustain]. As I’m working, I can’t manage his calls for him,” says Calvin, who tried to help his dad drum up business by posting about the stall on Facebook foodie groups like Can Eat! Hawker Food.<br><br>Contributor:<br>8 Days<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vk7TTs<br>Twitter: https://j.mp/2Tn84Aq]]></description>
@@ -1401,7 +1441,7 @@
       </Placemark>
       <Placemark>
         <name>150 Traditional Fishball Noodle</name>
-        <description><![CDATA[Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Authentic traditional noodle. Their meat is marinated which is v unusual because most of the bak Chor noodle stalls don’t marinate their meat. <br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng and Annie Koh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghZ3Bq<br>Twitter: https://j.mp/3vqQFEk]]></description>
+        <description><![CDATA[Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Authentic traditional noodle. Their meat is marinated which is v unusual because most of the bak Chor noodle stalls don’t marinate their meat. <br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run by an elderly couple and it is open from morning till around 8pm. Uncle is handicapped and aunty has been working really hard. She has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng and Annie Koh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghZ3Bq<br>Twitter: https://j.mp/3vqQFEk]]></description>
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
@@ -2635,7 +2675,7 @@
         <styleUrl>#icon-1577-E65100</styleUrl>
         <Point>
           <coordinates>
-            103.724178,1.348364,0
+            103.724536,1.348472,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2796,6 +2836,41 @@
         <Point>
           <coordinates>
             103.846701,1.279401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bedok Centre Grill</name>
+        <description><![CDATA[Address:<br>Blk 216 Bedok North Street 1 #01-174 460216<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>I am just a customer who forgot to ask working hours and resting days. (*shall ask next round) If you just want solid taste of Char Shao and Shao Rou, this is the stall. I have been a regular customer. Really Buay Pai and affordable. He sells assorted variety of cooked meat and I usually buy Char Shao and Shao Rou. There are other kinds so you can go and see see look look.  I just went and bought both type and started to take a picture of his stall.  "Uncle, I help you to broadcast on Facebook, ok?"  I have never seen him and his elderly father  smile so broadly. (in a mask)  Again, they are the people who fell through the cracks who don't know how to use social media.  If you live near by, do patronise his stall. Ps : His customer service is good!!<br><br>Contributor:<br>Zhuang Xuefang<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3q5NaSk<br>Twitter: https://j.mp/3gBaUuN]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.93338,1.327522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chuan Soon Heng Cooked Food</name>
+        <description><![CDATA[Address:<br>216 Bedok North Street 1, #01-21 460216<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Helping stall auntie to spread the words. There is not much human traffic at the other end of the hawker center, so the biz volumn is very low, some days she may only transact less than $10/-.  If you pass by, just take a look, see if there is anything that you  may want to try. Thanks. ���� Together, united and stay strong.<br><br>Contributor:<br>Jacki Chen<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wA1vZL<br>Twitter: https://j.mp/3wAld7D]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.93338,1.327522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heng Heng Fish Soup 興興鱼湯</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUG_XEbL8lcCk-gvo2PbOvCxB2dVuIvowa3ZhQbjuw48pVQhM4d4aoph2NVvoAcuD5UnXA7gu2gURrShtQb-gLtsToJmZUOu_Q1jVIwE39ZUAmYVk5YbEcGjktdFqmiZuKqyWkvDvGJaLgkJziLSqH0NwMZehrOH0D6bqn_ao7HRE9a-OXz5BLpb8ODBg4oi8_Lqm5lkSkqgj-mkkEZYrOBbq22ay0KTQvc1QlbO08wb" height="200" width="auto" /><br><br>Address:<br>21 Bukit Batok Central Bukit Batok CC inside Food Paradise 659959<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fish Soup, Fish Porridge, Vinegar Pig Trotter<br><br>Other Details:<br>Business very badly hit after dine-in bans<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35vru8X<br>Twitter: https://j.mp/2S7NOCw]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUG_XEbL8lcCk-gvo2PbOvCxB2dVuIvowa3ZhQbjuw48pVQhM4d4aoph2NVvoAcuD5UnXA7gu2gURrShtQb-gLtsToJmZUOu_Q1jVIwE39ZUAmYVk5YbEcGjktdFqmiZuKqyWkvDvGJaLgkJziLSqH0NwMZehrOH0D6bqn_ao7HRE9a-OXz5BLpb8ODBg4oi8_Lqm5lkSkqgj-mkkEZYrOBbq22ay0KTQvc1QlbO08wb</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.747604,1.349979,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3270,7 +3345,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Snacks Stalls (10).kml</name>
+      <name>Snacks Stalls (11).kml</name>
       <Placemark>
         <name>Kaya Kaya</name>
         <description><![CDATA[Address:<br>#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St 51531<br><br>Opening Hours:<br>daily 8am-5pm except Sat, 8am-5.30pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>8 Days<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wkYzAj<br>Twitter: https://j.mp/3pMGUyK]]></description>
@@ -3371,6 +3446,124 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tiong bahru fishcake</name>
+        <description><![CDATA[Address:<br>Clementi West St 2, Blk 726. 120726<br><br>Opening Hours:<br>9 am - 7pm (mon-sun) <br><br>Shop Recommendations:<br>Deep Fried wantons (3 pieces for $1.20)<br><br>Other Details:<br>A fishcake stall with a long history of offering fresh, tasty and affordably priced fishcakes. Prices have remained low throughout the years to remain accessible to people from all walks of life. Their business has been greatly impacted by Coiv-19. As a regular, it saddens me and I hope a bit of awareness can help direct more footfall to their stall. <br><br>Contributor:<br>Wl<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3qb9UAz<br>Twitter: https://j.mp/3vzdBRJ]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.764266,1.303785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Desserts Stalls (10).kml</name>
+      <Placemark>
+        <name>Li Huat Hot and Cold Cheng Tng</name>
+        <description><![CDATA[Address:<br>#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vlstms<br>Twitter: https://j.mp/35jC2b0]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.854192,1.340234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghim Moh H.K Pasteries</name>
+        <description><![CDATA[Address:<br>20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020<br><br>Opening Hours:<br>Tue-sun 7am-7pm<br><br>Shop Recommendations:<br>Curry Puff<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wpkVke<br>Twitter: https://j.mp/3wkNqzp]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.788308,1.310971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hum Jin Pang 中国街咸煎饼</name>
+        <description><![CDATA[Address:<br>#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>11am-8pm<br><br>Shop Recommendations:<br>Ham Jin Pang<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wybgbb<br>Twitter: https://j.mp/3wk4WUk]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Traditional Delight (古早美味）</name>
+        <description><![CDATA[Address:<br>Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ondeh Ondeh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3viwhVO<br>Twitter: https://j.mp/3gjUWVs]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.844767,1.280336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granny Pancake</name>
+        <description><![CDATA[Address:<br>#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Red Bean Ming Jiang Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35fOvMX<br>Twitter: https://j.mp/3ggj0bY]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.863248,1.319079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liang Liang Garden (凉凉园饮水室）</name>
+        <description><![CDATA[Address:<br>#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898<br><br>Opening Hours:<br>Daily 11am-9pm<br><br>Shop Recommendations:<br>Chng Teng with Peach Gum<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TrkZ4a<br>Twitter: https://j.mp/2Tl2ApH]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.832319,1.285975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pastry for Life</name>
+        <description><![CDATA[Address:<br>#01-78, Empress Road Hawker Center, 7 Empress Rd 260007<br><br>Opening Hours:<br>7am - approx 4pm<br><br>Shop Recommendations:<br>Baos<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pLJvsY<br>Twitter: https://j.mp/3wg4RkB]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.805795,1.316456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beans Fragrance</name>
+        <description><![CDATA[Address:<br>#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Coffee, tea, almond beancurd, dessert<br><br>Other Details:<br>This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35uBFuB<br>Twitter: https://j.mp/35eoRZ5]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.804518,1.28634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>An Ji Xiang Hua Wen Tou Xue</name>
+        <description><![CDATA[Address:<br>#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional ice dessert<br><br>Other Details:<br>Uncle looks very old already, operating alone.<br><br>Contributor:<br>Kelyn and Ah Long<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35efSqI<br>Twitter: https://j.mp/3vfdk6p]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.843092,1.282586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hai Yan Cold and Hot Dessert</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHxNcFVXn50WE4nOEKi6wDRwOYcMUWfpj_uVAXxf0_DTaJP8EafkCxbEYV4HkfGHfnZuoSg9tt0Z1xTlrEpEM7D43tYEcRy3sGgopXxVQOWYo78CnrNfmLzOQpod1BouPmbBukLc5xgmpTLzkLZV_VNI7ot2b01VPLHXwOc8UUuBuXPazA8YlXD8Qp1iBwfYztM2_kNwne8OlY5U0OLYClDACm2LkkG" height="200" width="auto" /><br><br>Address:<br>#01-43, Market Street Interim Hawker Centre, 5 CROSS STREET 048418<br><br>Opening Hours:<br>1100 - 1500<br><br>Shop Recommendations:<br><br><br>Other Details:<br>The owners are digitally illiterate and are really having a hard time jumping onto the digital space.<br><br>Contributor:<br>Jac<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vAIxAU<br>Twitter: https://j.mp/3qbXQza]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHxNcFVXn50WE4nOEKi6wDRwOYcMUWfpj_uVAXxf0_DTaJP8EafkCxbEYV4HkfGHfnZuoSg9tt0Z1xTlrEpEM7D43tYEcRy3sGgopXxVQOWYo78CnrNfmLzOQpod1BouPmbBukLc5xgmpTLzkLZV_VNI7ot2b01VPLHXwOc8UUuBuXPazA8YlXD8Qp1iBwfYztM2_kNwne8OlY5U0OLYClDACm2LkkG</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.848525,1.282047,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Vegetarian Stalls (9).kml</name>
@@ -3466,100 +3659,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Desserts Stalls (9).kml</name>
-      <Placemark>
-        <name>Li Huat Hot and Cold Cheng Tng</name>
-        <description><![CDATA[Address:<br>#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vlstms<br>Twitter: https://j.mp/35jC2b0]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.854192,1.340234,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ghim Moh H.K Pasteries</name>
-        <description><![CDATA[Address:<br>20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020<br><br>Opening Hours:<br>Tue-sun 7am-7pm<br><br>Shop Recommendations:<br>Curry Puff<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wpkVke<br>Twitter: https://j.mp/3wkNqzp]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.788308,1.310971,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hum Jin Pang 中国街咸煎饼</name>
-        <description><![CDATA[Address:<br>#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>11am-8pm<br><br>Shop Recommendations:<br>Ham Jin Pang<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wybgbb<br>Twitter: https://j.mp/3wk4WUk]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.844767,1.280336,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Traditional Delight (古早美味）</name>
-        <description><![CDATA[Address:<br>Maxwell Food Centre, 1 Kadayanallur St 69184<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Ondeh Ondeh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3viwhVO<br>Twitter: https://j.mp/3gjUWVs]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.844767,1.280336,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Granny Pancake</name>
-        <description><![CDATA[Address:<br>#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029<br><br>Opening Hours:<br>7am - 2pm<br><br>Shop Recommendations:<br>Red Bean Ming Jiang Kueh<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35fOvMX<br>Twitter: https://j.mp/3ggj0bY]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.863248,1.319079,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Liang Liang Garden (凉凉园饮水室）</name>
-        <description><![CDATA[Address:<br>#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898<br><br>Opening Hours:<br>Daily 11am-9pm<br><br>Shop Recommendations:<br>Chng Teng with Peach Gum<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TrkZ4a<br>Twitter: https://j.mp/2Tl2ApH]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.832319,1.285975,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pastry for Life</name>
-        <description><![CDATA[Address:<br>#01-78, Empress Road Hawker Center, 7 Empress Rd 260007<br><br>Opening Hours:<br>7am - approx 4pm<br><br>Shop Recommendations:<br>Baos<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pLJvsY<br>Twitter: https://j.mp/3wg4RkB]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.805795,1.316456,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Beans Fragrance</name>
-        <description><![CDATA[Address:<br>#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Coffee, tea, almond beancurd, dessert<br><br>Other Details:<br>This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35uBFuB<br>Twitter: https://j.mp/35eoRZ5]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.804518,1.28634,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>An Ji Xiang Hua Wen Tou Xue</name>
-        <description><![CDATA[Address:<br>#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Traditional ice dessert<br><br>Other Details:<br>Uncle looks very old already, operating alone.<br><br>Contributor:<br>Kelyn and Ah Long<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35efSqI<br>Twitter: https://j.mp/3vfdk6p]]></description>
-        <styleUrl>#icon-1577-E65100</styleUrl>
-        <Point>
-          <coordinates>
-            103.843092,1.282586,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>Western Stalls (8).kml</name>
+      <name>Western Stalls (9).kml</name>
       <Placemark>
         <name>Kampong Western Food</name>
         <description><![CDATA[Address:<br>coffee shop at Block 121 Hougang Avenue 1. <br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br><br><br>Contributor:<br>Mei Leng Choy<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3pLIPnq<br>Twitter: https://j.mp/35fzuuv]]></description>
@@ -3640,6 +3740,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Nineties Pasta and Grill</name>
+        <description><![CDATA[Address:<br>Blk 108 Ang Mo Kio Avenue 4 560108<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Value for money portion, delicious chicken chop<br><br>Other Details:<br>The stall has been experiencing low footfall as it is located in an area that is hidden from main road<br><br>Contributor:<br>Redhood<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3q3K5SY<br>Twitter: https://j.mp/2TBFWJQ]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            103.838246,1.370915,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Indian Stalls (6).kml</name>
@@ -3700,6 +3810,1242 @@
         <Point>
           <coordinates>
             103.854438,1.300903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Contributors (137).kml</name>
+      <Placemark>
+        <name>Thiru</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>yellowbean9</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ubtokenceo</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B Tham</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 Days</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mei Leng Choy</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>き リーサン</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>chaiporneng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gayle Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MichelleY</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheryl Yap</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eddie Ng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OldieGoodieHawker</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yee Ching</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>wheretodabao</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rachel Salvatore</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stanley Tay</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simon Ng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benjamin Ouyang</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FeiFei Peh</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaron Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cil Wong</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adriane Lee</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yvonne Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tay Hak Peng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casmine Yeo</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chriz Yek</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neegie Corrine Ng and Annie Koh</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jasmine Chua</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EY Elyse</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selwyn Koh</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shuu Shuu</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pauline Gan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louis Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chairmaine Chan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caryn SF</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basil Yeo</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heng Family</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>oneprawn and dibbo</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JL</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edmund</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Javier Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>May Goh and Hock Kee Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nic Han</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcus Khoo</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>timotheosh</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alex</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>club87er</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brandon</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anntonii Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teddy</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J.K</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabeela B</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darren</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clare</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dupey</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazari</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bnzt</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calv</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alimama</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emily</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>James</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Annabel</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CroL</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kit</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bryan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeremy</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stephanie Lee</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junny</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andy</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michelle</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ckphilip</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redhood</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B tham</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiong 24</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walter</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85 claypot</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gwendolyn Choo-Keffer</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darren Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joanne Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denise Eng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chloe</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>timmyt_16</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eric</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jennie</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alton</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Johnson</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ES</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>z3ch7</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>YishunMcgriddles</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jae Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kwan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nyna</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridgette</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mii PT Lor</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kevin Ng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pan Lee</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ang Zhen Wei</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leko Okei</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tay Hwei Fang</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melvin Chong Chee Leong</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ad-Ad</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adi</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>George</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JonCool</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wesley</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rachel Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Howard Teo Chin Wan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicki Chen</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Min Kong</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poh Soh Lee</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stewart kong</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iris Lim</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kishore</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kelyn and Ah Long</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CN</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connie Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miguel Ng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charmaine Chan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zhuang Xuefang</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keefe Wong</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nigel Yap</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Don Leow</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elena Lau</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Shu-Lin Aaron</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starry Night</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pearlyn Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jcch Julie Cheong</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA Tan</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joanna Ash</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Venus Wang Xinyu</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joan Alessandra Chen and Eric Chng</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sophriane Goh</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jacki Chen</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wl</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jac</name>
+        <styleUrl>#icon-1596-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.803757,1.368014,0
           </coordinates>
         </Point>
       </Placemark>

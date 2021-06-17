@@ -2875,7 +2875,7 @@
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Authentic traditional noodle. Their meat is marinated which is v unusual because most of the bak Chor noodle stalls don’t marinate their meat. <br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run singlehandedly by an elderly aunty who opens the stall from morning till around 8pm. Aunty has been working really hard and she has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng and Annie Koh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghZ3Bq<br>Twitter: https://j.mp/3vqQFEk"
+        "description": "Address:<br>Block 150 Bukit Batok Street 11 650150<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Authentic traditional noodle. Their meat is marinated which is v unusual because most of the bak Chor noodle stalls don’t marinate their meat. <br><br>Other Details:<br>The stall is newly opened just before the phase 2 HA restrictions kicked in and business has been affected significantly. The stall is run by an elderly couple and it is open from morning till around 8pm. Uncle is handicapped and aunty has been working really hard. She has a bended kneecap from all the prolonged standing. She is not really educated and not IT savvy either.<br><br>Contributor:<br>Neegie Corrine Ng and Annie Koh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3ghZ3Bq<br>Twitter: https://j.mp/3vqQFEk"
       }
     },
     {
@@ -5445,8 +5445,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.724178,
-          1.348364,
+          103.724536,
+          1.348472,
           0
         ]
       },
@@ -5795,6 +5795,70 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>Amoy Street Food Centre, 7 Maxwell Rd, #01-02 069111<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Hi everyone! I’m just a customer and a Hainanese too! While searching for lunch at Amoy Street Food Ctr, i went ahead to buy my colleague’s lunch: Chicken Rice. When i stepped into the food ctr on lvl 1 and laid eyes on the 1st row of food stalls, i spied Xiang Xiang Hainanese Chicken Rice! The auntie offers authentic ginger sauce!! It’s a must to have with Hainanese Chicken Rice! Besides the usually fare of white or roasted chicken, organs and braised egg, she’ve got chap chye & hainanese styled fried egg!! And besides the usual cucumber, she adds bits of fresh tomatos and lettuces! Do support her (she’s in her 80’s) as her husband(90’s) slipped and fell 3 months ago and is in a bad condition. From the brief conversation and my understanding, her husband’s insurance have been fully claimed and now every month $5k is being deducted from her. She’s does everything on her own and struggles. If u r in the area, pls do go down to her stall and support her! Thank u!<br><br>Contributor:<br>Sophriane Goh<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3cKk0mq<br>Twitter: https://j.mp/3xiUKf0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93338,
+          1.327522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bedok Centre Grill",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 216 Bedok North Street 1 #01-174 460216<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>I am just a customer who forgot to ask working hours and resting days. (*shall ask next round) If you just want solid taste of Char Shao and Shao Rou, this is the stall. I have been a regular customer. Really Buay Pai and affordable. He sells assorted variety of cooked meat and I usually buy Char Shao and Shao Rou. There are other kinds so you can go and see see look look.  I just went and bought both type and started to take a picture of his stall.  \"Uncle, I help you to broadcast on Facebook, ok?\"  I have never seen him and his elderly father  smile so broadly. (in a mask)  Again, they are the people who fell through the cracks who don't know how to use social media.  If you live near by, do patronise his stall. Ps : His customer service is good!!<br><br>Contributor:<br>Zhuang Xuefang<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3q5NaSk<br>Twitter: https://j.mp/3gBaUuN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93338,
+          1.327522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chuan Soon Heng Cooked Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>216 Bedok North Street 1, #01-21 460216<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br><br><br>Other Details:<br>Helping stall auntie to spread the words. There is not much human traffic at the other end of the hawker center, so the biz volumn is very low, some days she may only transact less than $10/-.  If you pass by, just take a look, see if there is anything that you  may want to try. Thanks. ���� Together, united and stay strong.<br><br>Contributor:<br>Jacki Chen<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wA1vZL<br>Twitter: https://j.mp/3wAld7D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.747604,
+          1.349979,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Heng Heng Fish Soup 興興鱼湯",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AFiHsUG_XEbL8lcCk-gvo2PbOvCxB2dVuIvowa3ZhQbjuw48pVQhM4d4aoph2NVvoAcuD5UnXA7gu2gURrShtQb-gLtsToJmZUOu_Q1jVIwE39ZUAmYVk5YbEcGjktdFqmiZuKqyWkvDvGJaLgkJziLSqH0NwMZehrOH0D6bqn_ao7HRE9a-OXz5BLpb8ODBg4oi8_Lqm5lkSkqgj-mkkEZYrOBbq22ay0KTQvc1QlbO08wb\" height=\"200\" width=\"auto\" /><br><br>Address:<br>21 Bukit Batok Central Bukit Batok CC inside Food Paradise 659959<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Fish Soup, Fish Porridge, Vinegar Pig Trotter<br><br>Other Details:<br>Business very badly hit after dine-in bans<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35vru8X<br>Twitter: https://j.mp/2S7NOCw",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AFiHsUG_XEbL8lcCk-gvo2PbOvCxB2dVuIvowa3ZhQbjuw48pVQhM4d4aoph2NVvoAcuD5UnXA7gu2gURrShtQb-gLtsToJmZUOu_Q1jVIwE39ZUAmYVk5YbEcGjktdFqmiZuKqyWkvDvGJaLgkJziLSqH0NwMZehrOH0D6bqn_ao7HRE9a-OXz5BLpb8ODBg4oi8_Lqm5lkSkqgj-mkkEZYrOBbq22ay0KTQvc1QlbO08wb"
       }
     },
     {
@@ -6984,182 +7048,14 @@
         ]
       },
       "properties": {
-        "name": "Hup Seng Heng Vegetarian",
+        "name": "Tiong bahru fishcake",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
           "normal": "#icon-1577-E65100-normal",
           "highlight": "#icon-1577-E65100-highlight"
         },
-        "description": "Address:<br>726 Clementi West Street 2, #01-195 120726<br><br>Opening Hours:<br>Tuesday to Sunday: 11am to 10pm, Closed on Monday<br><br>Shop Recommendations:<br>Sliced \"Fish\" Bee Hoon Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gkny16<br>Twitter: https://j.mp/35ejER5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.776135,
-          1.342435,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Guan Yin Vegetarian",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Everyday except Sunday, 11pm to 2pm<br><br>Shop Recommendations:<br>Mixed Vegetable Gravy Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2ROdJ1M<br>Twitter: https://j.mp/2RQwNwp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.846701,
-          1.279401,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Healthy Vegetarian (健康素食）",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Tom Yum fried rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35nDkSh<br>Twitter: https://j.mp/35fAj6z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.88534,
-          1.323888,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Meng Heng Vegetarian Food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#01-81 Circuit Road Food Centre 370089<br><br>Opening Hours:<br>Tues & Sat 11am-10pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple and is not listed on any delivery platform<br><br>Contributor:<br>Benjamin Ouyang<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vnOKjA<br>Twitter: https://j.mp/3vjwlVf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.884137,
-          1.307432,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Xiang Ji Miao Chu",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>17 Old Airport Rd, Kallang Estate Market Singapore 397972 397972<br><br>Opening Hours:<br>5 30am - 11am<br><br>Shop Recommendations:<br>Vegetarian Food<br><br>Other Details:<br>Elderly hawker<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vm5MyL<br>Twitter: https://j.mp/3vix6hm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.848525,
-          1.282047,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Shu Vegetarian",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Unit 01-16, Market Street, 5 Cross St, Interim Food Centre 048418<br><br>Opening Hours:<br>0730-1430 M-F<br><br>Shop Recommendations:<br>Vegetarian food<br><br>Other Details:<br>Stall owner is not techie. Doesnt know how to promote stalls and cannot delivery fee on online platform<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wm0TqI<br>Twitter: https://j.mp/3vhAFnP"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.840737,
-          1.380976,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Foy Yin Vegetarian Food",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>Blk 628 Ang Mo Kio Avenue 4 Unit 01-70, Singapore 560628 560628<br><br>Opening Hours:<br>Tues - Sun, 6:30 am - 9:00 pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Have been in business for 30+ years. Stall was quiet on a weekday evening, and uncle + auntie are not very tech savvy (tried to hop on foodpanda but they are still struggling with it). If you're around this area and craving for a vegetarian meal, please visit this stall (highly reco their bee hoon and hor fun!). <br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vl95WW<br>Twitter: https://j.mp/3vfd6w5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.885537,
-          1.374079,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Xing Hua Vegetarian",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>682 Hougang Ave 4, Singapore  530682<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Interesting variety of vegetarian dishes. Reasonable price.<br><br>Other Details:<br>Stall affected by mandatory testing at Hougang blocks<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gkoToE<br>Twitter: https://j.mp/3vmUvOB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.749245,
-          1.327291,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Swagat Indian Vegetarian",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        },
-        "description": "Address:<br>#01-09, ICON@IBP, 3A international Business Park, Singapore 608935 609935<br><br>Opening Hours:<br>8:00 AM to 6:00 PM<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Supported the office staff with Breakfast, Lunch and snacks. Due to WFH options, no customers at all.<br><br>Contributor:<br>Kishore<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TurlQb<br>Twitter: https://j.mp/3pMZ2J5"
+        "description": "Address:<br>Clementi West St 2, Blk 726. 120726<br><br>Opening Hours:<br>9 am - 7pm (mon-sun) <br><br>Shop Recommendations:<br>Deep Fried wantons (3 pieces for $1.20)<br><br>Other Details:<br>A fishcake stall with a long history of offering fresh, tasty and affordably priced fishcakes. Prices have remained low throughout the years to remain accessible to people from all walks of life. Their business has been greatly impacted by Coiv-19. As a regular, it saddens me and I hope a bit of awareness can help direct more footfall to their stall. <br><br>Contributor:<br>Wl<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3qb9UAz<br>Twitter: https://j.mp/3vzdBRJ"
       }
     },
     {
@@ -7356,6 +7252,217 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.848525,
+          1.282047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hai Yan Cold and Hot Dessert",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AFiHsUHxNcFVXn50WE4nOEKi6wDRwOYcMUWfpj_uVAXxf0_DTaJP8EafkCxbEYV4HkfGHfnZuoSg9tt0Z1xTlrEpEM7D43tYEcRy3sGgopXxVQOWYo78CnrNfmLzOQpod1BouPmbBukLc5xgmpTLzkLZV_VNI7ot2b01VPLHXwOc8UUuBuXPazA8YlXD8Qp1iBwfYztM2_kNwne8OlY5U0OLYClDACm2LkkG\" height=\"200\" width=\"auto\" /><br><br>Address:<br>#01-43, Market Street Interim Hawker Centre, 5 CROSS STREET 048418<br><br>Opening Hours:<br>1100 - 1500<br><br>Shop Recommendations:<br><br><br>Other Details:<br>The owners are digitally illiterate and are really having a hard time jumping onto the digital space.<br><br>Contributor:<br>Jac<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vAIxAU<br>Twitter: https://j.mp/3qbXQza",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AFiHsUHxNcFVXn50WE4nOEKi6wDRwOYcMUWfpj_uVAXxf0_DTaJP8EafkCxbEYV4HkfGHfnZuoSg9tt0Z1xTlrEpEM7D43tYEcRy3sGgopXxVQOWYo78CnrNfmLzOQpod1BouPmbBukLc5xgmpTLzkLZV_VNI7ot2b01VPLHXwOc8UUuBuXPazA8YlXD8Qp1iBwfYztM2_kNwne8OlY5U0OLYClDACm2LkkG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764266,
+          1.303785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hup Seng Heng Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>726 Clementi West Street 2, #01-195 120726<br><br>Opening Hours:<br>Tuesday to Sunday: 11am to 10pm, Closed on Monday<br><br>Shop Recommendations:<br>Sliced \"Fish\" Bee Hoon Soup<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gkny16<br>Twitter: https://j.mp/35ejER5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guan Yin Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177<br><br>Opening Hours:<br>Everyday except Sunday, 11pm to 2pm<br><br>Shop Recommendations:<br>Mixed Vegetable Gravy Fried Kway Teow<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2ROdJ1M<br>Twitter: https://j.mp/2RQwNwp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Healthy Vegetarian (健康素食）",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111<br><br>Opening Hours:<br>-<br><br>Shop Recommendations:<br>Tom Yum fried rice<br><br>Other Details:<br><br><br>Contributor:<br>OldieGoodieHawker<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/35nDkSh<br>Twitter: https://j.mp/35fAj6z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88534,
+          1.323888,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meng Heng Vegetarian Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-81 Circuit Road Food Centre 370089<br><br>Opening Hours:<br>Tues & Sat 11am-10pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Stall is run by an elderly couple and is not listed on any delivery platform<br><br>Contributor:<br>Benjamin Ouyang<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vnOKjA<br>Twitter: https://j.mp/3vjwlVf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884137,
+          1.307432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xiang Ji Miao Chu",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>17 Old Airport Rd, Kallang Estate Market Singapore 397972 397972<br><br>Opening Hours:<br>5 30am - 11am<br><br>Shop Recommendations:<br>Vegetarian Food<br><br>Other Details:<br>Elderly hawker<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vm5MyL<br>Twitter: https://j.mp/3vix6hm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848525,
+          1.282047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shu Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Unit 01-16, Market Street, 5 Cross St, Interim Food Centre 048418<br><br>Opening Hours:<br>0730-1430 M-F<br><br>Shop Recommendations:<br>Vegetarian food<br><br>Other Details:<br>Stall owner is not techie. Doesnt know how to promote stalls and cannot delivery fee on online platform<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wm0TqI<br>Twitter: https://j.mp/3vhAFnP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840737,
+          1.380976,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Foy Yin Vegetarian Food",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 628 Ang Mo Kio Avenue 4 Unit 01-70, Singapore 560628 560628<br><br>Opening Hours:<br>Tues - Sun, 6:30 am - 9:00 pm<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Have been in business for 30+ years. Stall was quiet on a weekday evening, and uncle + auntie are not very tech savvy (tried to hop on foodpanda but they are still struggling with it). If you're around this area and craving for a vegetarian meal, please visit this stall (highly reco their bee hoon and hor fun!). <br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3vl95WW<br>Twitter: https://j.mp/3vfd6w5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885537,
+          1.374079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xing Hua Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>682 Hougang Ave 4, Singapore  530682<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Interesting variety of vegetarian dishes. Reasonable price.<br><br>Other Details:<br>Stall affected by mandatory testing at Hougang blocks<br><br>Contributor:<br><br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3gkoToE<br>Twitter: https://j.mp/3vmUvOB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749245,
+          1.327291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Swagat Indian Vegetarian",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>#01-09, ICON@IBP, 3A international Business Park, Singapore 608935 609935<br><br>Opening Hours:<br>8:00 AM to 6:00 PM<br><br>Shop Recommendations:<br><br><br>Other Details:<br>Supported the office staff with Breakfast, Lunch and snacks. Due to WFH options, no customers at all.<br><br>Contributor:<br>Kishore<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/2TurlQb<br>Twitter: https://j.mp/3pMZ2J5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.887025,
           1.353842,
           0
@@ -7517,6 +7624,27 @@
           "highlight": "#icon-1577-E65100-highlight"
         },
         "description": "Address:<br>Blk 17 Upper Boon Keng Road (Hawker Centre) #01-40  380017<br><br>Opening Hours:<br>12.00pm to 7.30pm (closed on Wed & Thur, alternate Tue off preparing stocks)<br><br>Shop Recommendations:<br>Most of his dishes are unique, eg. Cajun Paprika  Chicken w Pasta/Rice or Fries comes w 2 types of sauce (ie. Black Pepper or Mushroom Cream - self invented) / Chicken Culets /Baked Fish etc<br><br>Other Details:<br>Stall owner is young but not highly educated, and know not much of IT savvy, Grab/Panda platform not in his list as the charges is too high, the food profit is not high as he uses the herbs which is not cheap too, he's good at cooking, the menu of the Western Foods came up by himself & he is very particular on freshness of the food. Customers do comment on the goodness of food and have shared that it can be compared to Hotel standard. His customers are mostly the residents nearby & Factories staff and some through recommendation from their friends who had tasted his food. Due to last year Covid19 and recently Heightened Alert, business being affected. I chanced upon this site which helps Hawkers being affected by the Covid19 & Heightened Alert, thinking this might help him People can get some nice foods from this Hawker Centre too. Therefore, do give them some support too. Thank you & Stay Safe & Stay Healthy!<br><br>Contributor:<br>Iris Lim<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3wg5Lxv<br>Twitter: https://j.mp/3pNdPn3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838246,
+          1.370915,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nineties Pasta and Grill",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        },
+        "description": "Address:<br>Blk 108 Ang Mo Kio Avenue 4 560108<br><br>Opening Hours:<br><br><br>Shop Recommendations:<br>Value for money portion, delicious chicken chop<br><br>Other Details:<br>The stall has been experiencing low footfall as it is located in an area that is hidden from main road<br><br>Contributor:<br>Redhood<br><br>Take a photo when you visit this stall and share your support!:<br>Facebook: https://j.mp/3q3K5SY<br>Twitter: https://j.mp/2TBFWJQ"
       }
     },
     {
