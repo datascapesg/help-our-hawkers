@@ -47,13 +47,18 @@ const cleanedData = {
   features: data.features.filter(({ properties }) => properties.description)
 }
 
+cleanedData.features.forEach((d) => {
+  delete d.gx_media_links
+})
+
 const annotatedData = annotate(cleanedData)
 
-// Write a new JSON file with our filtered data
-const jsonString = JSON.stringify(cleanedData, null, 2)
-Deno.writeTextFileSync(Deno.env.get('POSTPROCESS_FILENAME'), jsonString)
+annotatedData.features.forEach((d) => {
+  delete d.description
+})
 
-const annotatedJsonString = JSON.stringify(annotatedData, null, 2)
-Deno.writeTextFileSync(`annotated-${Deno.env.get('POSTPROCESS_FILENAME')}`, annotatedJsonString)
+// Write a new JSON file with our filtered data
+const jsonString = JSON.stringify(annotatedData, null, 2)
+Deno.writeTextFileSync(Deno.env.get('POSTPROCESS_FILENAME'), jsonString)
 
 console.log('Done.')
