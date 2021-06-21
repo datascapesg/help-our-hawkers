@@ -1,4 +1,4 @@
-import { readJSON, removeFile } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readJSON } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
 
 const toName = ({ name }) => name
 
@@ -61,5 +61,5 @@ annotatedData.features.forEach((d) => {
 const jsonString = JSON.stringify(annotatedData, null, 2)
 Deno.writeTextFileSync(Deno.env.get('POSTPROCESS_FILENAME'), jsonString)
 
-await removeFile(Deno.args[0])
+await Demo.remove(Deno.args[0])
 console.log('Done.')
