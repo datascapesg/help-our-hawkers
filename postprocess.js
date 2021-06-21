@@ -61,5 +61,5 @@ annotatedData.features.forEach((d) => {
 const jsonString = JSON.stringify(annotatedData, null, 2)
 Deno.writeTextFileSync(Deno.env.get('POSTPROCESS_FILENAME'), jsonString)
 
-await Demo.remove(Deno.args[0])
+await Deno.remove(Deno.args[0])
 console.log('Done.')
