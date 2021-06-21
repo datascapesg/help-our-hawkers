@@ -48,13 +48,13 @@ const cleanedData = {
 }
 
 cleanedData.features.forEach((d) => {
-  delete d.gx_media_links
+  delete d.properties.gx_media_links
 })
 
 const annotatedData = annotate(cleanedData)
 
 annotatedData.features.forEach((d) => {
-  delete d.description
+  delete d.properties.description
 })
 
 // Write a new JSON file with our filtered data
