@@ -1,4 +1,4 @@
-import { readJSON } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readJSON, removeFile } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
 
 const toName = ({ name }) => name
 
@@ -39,7 +39,7 @@ const annotate = (data) => {
 }
 
 // Read the downloaded_filename JSON
-const data = await readJSON(Deno.args[0].replace('kml', 'json'))
+const data = await readJSON(Deno.args[0])
 
 // Rework data, filtering only points with description
 const cleanedData = {
@@ -61,4 +61,5 @@ annotatedData.features.forEach((d) => {
 const jsonString = JSON.stringify(annotatedData, null, 2)
 Deno.writeTextFileSync(Deno.env.get('POSTPROCESS_FILENAME'), jsonString)
 
+await removeFile(Deno.args[0])
 console.log('Done.')
