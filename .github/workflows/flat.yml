@@ -20,11 +20,6 @@ jobs:
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: Fetch stalls as KML
-        uses: githubocto/flat@v2
-        with:
-          http_url: https://www.google.com/maps/d/kml?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&forcekml=1
-          downloaded_filename: raw-map.kml
       - name: Fetch entire map as GeoJSON
         uses: githubocto/flat@v2
         with:
