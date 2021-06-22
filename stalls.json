@@ -7031,6 +7031,106 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.713082,
+          1.345686,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yao Heng Cooked Food",
+        "address": "221B Boon Lay Pl 642221",
+        "hours": null,
+        "recommendations": "Satay Bee Hoon",
+        "details": "Yesterday I went all to the west to Boon Lay Hawker Center and immediately this satay bee hoon stall caught my attention. An aging uncle self prepared at the stall, without any platform being used as uncle is none tech savvy.  Our 1st gen hawkers like uncle showing us the real attitude of a pioneer hawker. Doesn't matter if business is poor, doesn't matter if it's pandemic but as long as they able to open their stall for business they will only do their best and served the best food for us. Hope friends  can support this stall, support thus uncle. ",
+        "contributor": "Melvin Chew",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843092,
+          1.282586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tian Tian Porridge",
+        "address": "Chinatown Complex Market & Food Centre Blk 335 Smith Street #02-185 050335",
+        "hours": "Daily except Monday, from 7 am till sold out ",
+        "recommendations": null,
+        "details": "This stall is a family owned business with a history of more than 60 years. Before Chinatown Complex was built in 1975, the stall was near an alley. While everyone was sleeping, the chef would arrive as early as 1am to prepare ingredients for the day. Generous amount of meat or fish at affordable price. The porridge is rather creamy. Due to Covid-19, their business have been affected greatly as they have not been using any delivery apps as they are not tech savvy. ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.939642,
+          1.346302,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seremban Beef Noodles",
+        "address": "<img src=\"https://lh3.googleusercontent.com/umsh/AFiHsUFgmOLpWznkuuM09op5wPEuuX406S5Odm3phBnpjK55oAJItr0Wd3pECaQ2Vx6339Bp3IP5MObKKe_9QpB0LLrz4hrPf-0XD4hUSsYJSG-7yCgpOA0D6fBaT76bvO0kIEBkKuVIfIYuyR1RFusa4vVpFT6L6nJC-NG3V6Nos4edXW_N4O3ygoI9pBIPMi-nq1EBtGJ2WBFVOKwXw9o0Q71V3uJs0RoMJbjfsHNDsG-w1al1QtmI-JnO4OujFlfbDdPkR7XI1Jiws4TXK1xf2uOaqTL18ldN4YPWGnNBoGwGyG67XHkVJ-0oC9jigaRxQlMKzY084OBF397vw4MUSHDwc_m3vuT3B5H-DfZLj_SaFV_YxgE8uPTA3-XPGTlfu8VCoVbaSS7o2F1JO0cZAYG44iPJoY4-2U5epQj3OZBDFN4H5BIKnAgynpVIVX85CbtfSPDy6NlXO-Z5zr3zZ7s5k1a9kYsST8QYNxvtH5t3160LagRUrbRtM_qcZHgfhz9O-0CJTFMg3O2Z9RepF_JshSPu_t0uHhSVsV8Iy2a9-uCxekcQRYMFQlB36kOCL160paIKZBiG_AgbnHNVRePRy-w\" height=\"200\" width=\"auto\" />",
+        "hours": null,
+        "recommendations": null,
+        "details": "Came to this relatively new looking coffee shop to dabao at Blk 929, Tampines Street 91.  No queue. Order took a while as I can see that the aunties and uncle there are trying to familiarise themselves with the workflow, orientation of the stall and the new machine for payment/orders.  No photos of the dabao-ed food as my old folks immediately attacked once I reach home. Tasty and flavoursome.  Definitely can eat!",
+        "contributor": "Andrea Wang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890264,
+          1.354051,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blue Star Fried Hokkien Mee",
+        "address": "Hougang Hainanese Village Centre, 104 Hougang Ave 1 530104",
+        "hours": "Until 4pm",
+        "recommendations": null,
+        "details": "I like Blue Star. This stall is run by a nice elderly couple and they are not on any delivery platforms. ",
+        "contributor": "S K Original Lee",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.854575,
           1.372773,
           0
@@ -8943,6 +9043,231 @@
         "recommendations": "Value for money portion, delicious chicken chop",
         "details": "The stall has been experiencing low footfall as it is located in an area that is hidden from main road",
         "contributor": "Redhood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764266,
+          1.303785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hup Seng Heng Vegetarian",
+        "address": "726 Clementi West Street 2, #01-195 120726",
+        "hours": "Tuesday to Sunday: 11am to 10pm, Closed on Monday",
+        "recommendations": "Sliced \"Fish\" Bee Hoon Soup",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guan Yin Vegetarian",
+        "address": "#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
+        "hours": "Everyday except Sunday, 11pm to 2pm",
+        "recommendations": "Mixed Vegetable Gravy Fried Kway Teow",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Healthy Vegetarian (健康素食）",
+        "address": "#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111",
+        "hours": "-",
+        "recommendations": "Tom Yum fried rice",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88534,
+          1.323888,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meng Heng Vegetarian Food",
+        "address": "#01-81 Circuit Road Food Centre 370089",
+        "hours": "Tues & Sat 11am-10pm",
+        "recommendations": null,
+        "details": "Stall is run by an elderly couple and is not listed on any delivery platform",
+        "contributor": "Benjamin Ouyang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884137,
+          1.307432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xiang Ji Miao Chu",
+        "address": "17 Old Airport Rd, Kallang Estate Market Singapore 397972 397972",
+        "hours": "5 30am - 11am",
+        "recommendations": "Vegetarian Food",
+        "details": "Elderly hawker",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848525,
+          1.282047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shu Vegetarian",
+        "address": "Unit 01-16, Market Street, 5 Cross St, Interim Food Centre 048418",
+        "hours": "0730-1430 M-F",
+        "recommendations": "Vegetarian food",
+        "details": "Stall owner is not techie. Doesnt know how to promote stalls and cannot delivery fee on online platform",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840737,
+          1.380976,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Foy Yin Vegetarian Food",
+        "address": "Blk 628 Ang Mo Kio Avenue 4 Unit 01-70, Singapore 560628 560628",
+        "hours": "Tues - Sun, 6:30 am - 9:00 pm",
+        "recommendations": null,
+        "details": "Have been in business for 30+ years. Stall was quiet on a weekday evening, and uncle + auntie are not very tech savvy (tried to hop on foodpanda but they are still struggling with it). If you're around this area and craving for a vegetarian meal, please visit this stall (highly reco their bee hoon and hor fun!). ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885537,
+          1.374079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xing Hua Vegetarian",
+        "address": "682 Hougang Ave 4, Singapore  530682",
+        "hours": null,
+        "recommendations": "Interesting variety of vegetarian dishes. Reasonable price.",
+        "details": "Stall affected by mandatory testing at Hougang blocks",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749245,
+          1.327291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Swagat Indian Vegetarian",
+        "address": "#01-09, ICON@IBP, 3A international Business Park, Singapore 608935 609935",
+        "hours": "8:00 AM to 6:00 PM",
+        "recommendations": null,
+        "details": "Supported the office staff with Breakfast, Lunch and snacks. Due to WFH options, no customers at all.",
+        "contributor": "Kishore",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
