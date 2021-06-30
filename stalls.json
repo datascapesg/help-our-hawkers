@@ -8913,7 +8913,7 @@
       },
       "properties": {
         "name": "Vegetarian Fried Carrot Cake",
-        "address": "<img src=\"https://lh3.googleusercontent.com/umsh/AFiHsUEV7tONfcUfnvKr7JH6E7Oc1QQuwMDgHFKuh_Ub-910YO9M6nmLMYjW9xbI6gtTurJ5AJwS8X-d-I2HboarEmnGXGdwcvo8P3vAsj8R49-9WpC-iCxUKq8ftxIIwrflpo25VJpOYuXI2VjdxhHzJUWJWKRLmo-F8jx0ut9gJepDigiFx7l-Am-b9k_NTvWNqYUQx6Ld6Jd7DXuoqZEqPeS3XFjJ_DP-tXB2nTrQZ8syR1W7c_P3rzzea2xrsEftEMyWY1isYBs6ot5iuzrN8ip0qVnMBgoHbYM5iiklvI_rydPYK-MGiJzuKYon9-NHc4pjBtUIlKSrPQzewyq5YWgzQWJD30fLnVW5udY2D6ULOar2vQK6U8Jo1MBe_bY9-7waUS0S1lw47SwGl39nIcqeqlyKQQRqgDGwc10SvZcXwN5mW9ljEGYDA_6T_91q6dwxGe4zOeLxpvNSpP2Uot8VABzPcYr3CTYJp5EFrI1naRD1EkF73h9KlhpqKo0-tn3Elyzx4GziaSckprmEHBh0rN-T6-bcupEy2IU1A5dI_CaBjdbedyqj-Digk2lNhDIleaapquYJISLhA_pH5812DyQ\" height=\"200\" width=\"auto\" />",
+        "address": "<img src=\"https://lh3.googleusercontent.com/umsh/AFiHsUH580UnyY5OQ7n0LMGMv8raK6XsGyRuFvH_b7dVHCPOpKKfFsSUMWE23D07-o6jhVSM1O6RQdHNqm7B4n0-pExWkYKLfCJnzgT_Vftm4Jv5maRoMkPkAsSM8ViKYF_OLN3fuIKOiuwnItVuTl9b76ZKWK_Qz8onXZ0-Kut7Xgn7H0sym--I8eiggJFGKt8ORg93i74XsSYwAt7Z1mVyWntPPSvk1rXsU7K2Mt_U0fAegSzMqd2D5-QsgHb4pV1sD1Ue2ZgjaUAZVWufzXfTsff6h2hvsyP28r-S8K_HvJ_2wd23oj7MOhRtW6bGaYtH0bmOVzZjGAus7hwiJIa0E_Rn9k3rzH7ZotnLODdyMNpvDJekoRm-ij139PlBMhSzqbvR0x0wmmFZuYejd_agk09a_vWK_H4zjNET8ud8TGyEkfe9MCmG1s_OufrSGWqsuEJYNP1QuPHQM7yE1prbFaBMN1_35nTXhK4GvN49oZ2eXWLnDfoq_eJEpKZQ4p3KSFJJTncdREfPxoeXMgVionHj5cmktW2j03T2SgTcgzhXHE3p8BbeLGvIqrnOI9A1eiAvdsoRsH3iXAudldgnJU7Sc8Q\" height=\"200\" width=\"auto\" />",
         "hours": null,
         "recommendations": "Fried Carrot Cake",
         "details": "Pls support if u r into fried carrot cake sticks. Old couple runs this stall at a rather ulu corner of Chinatown hawker centre. Both v friendly, price of items is reasonable as well. 3rd pic shows how to enter aft u take the escalator up on the left hand side, Same stretch as 胡记。",
@@ -9418,6 +9418,156 @@
         "recommendations": null,
         "details": "The owners are digitally illiterate and are really having a hard time jumping onto the digital space.",
         "contributor": "Jac",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dhaba 1376 North Indian cuisine",
+        "address": "#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
+        "hours": "Open everyday except Monday afternoon, 11am to 10pm",
+        "recommendations": "Mixed Kebab Platter",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Y.R.A Rasool Fatimah",
+        "address": "#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006",
+        "hours": "Daily (except Thursdays) 10am-7pm",
+        "recommendations": "Prata",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935557,
+          1.320547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Moli Food Stall",
+        "address": "16 Bedok South Road, #01-18 Singapore 460016",
+        "hours": null,
+        "recommendations": "Vadai",
+        "details": "Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.",
+        "contributor": "Louis Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856853,
+          1.307238,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jalan Besar Mutton Soup",
+        "address": "166 Jalan berseh #02-57 Singapore 208877",
+        "hours": "11-7.30pm",
+        "recommendations": "Mutton soup",
+        "details": "Owned by a elderly couple who are not tech savvy.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.941135,
+          1.324168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Welcome Muslim Food Stall",
+        "address": "Blk 58 New Upper Changi Road. The Marketplace @ 58 461058",
+        "hours": "Closed on Fridays",
+        "recommendations": "Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng",
+        "details": "Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment",
+        "contributor": "Adi",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854438,
+          1.300903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Siraj Indian Rojak",
+        "address": "270 Queen St, 270, Albert Centre 180270",
+        "hours": null,
+        "recommendations": null,
+        "details": "Was in the area today and visited Albert Food Centre this afternoon. Bought indian rojak from the popular Siraj Indian Rojak, whom I used to patronise some 15 years ago every Sunday. Uncle had a brief chat with me, saying that business has really been bad especially on Sundays when it’s usually the most busy for him. Some stalls along his row have closed on Sundays, as they’ve given up. Could sense his frustrations, and he also casually asked how I know about his store. He’s heard about hawkers being shared on social media etc, but doesn’t seem to have a clue on how that works. So just helping him out and posting a shout out here, especially since his Indian Rojak is nice. So do give it a try if you’re in Bugis area!!",
+        "contributor": "Keefe Wong",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
