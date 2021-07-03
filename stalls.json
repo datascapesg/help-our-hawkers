@@ -7117,7 +7117,7 @@
         "hours": "Until 4pm",
         "recommendations": null,
         "details": "I like Blue Star. This stall is run by a nice elderly couple and they are not on any delivery platforms. ",
-        "contributor": "S K Original Lee",
+        "contributor": "S K Original Lee and Wallance Goh",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
@@ -7141,7 +7141,7 @@
         "address": "500 Clemenceau Ave (Newton Food Centre) 229495",
         "hours": null,
         "recommendations": null,
-        "details": "Henry from Newton Food Centre is finding it hard to survive. He has 2 school-going kids and no other sources of income.",
+        "details": "Hi. The stall holders at Newton Food Centre need support - they have been reliant mostly on tourists who no longer are able to travel here… and with alcohol sales stopping at about 10.30 pm, the place empties out quite a bit. Please try to support. My friend Henry runs the carrot cake stall, and also makes char kway teow and the drink stall owner Mary - runs a drink stall! All kind, hard working and genuine folks trying to make a living- please support!",
         "contributor": "Anjna Vij Nihalani",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
@@ -7768,6 +7768,31 @@
         "recommendations": null,
         "details": "Please support the fruit juice stall uncle as his business as taken a severe hit due to the curbs on dine-in.  Fruit juice are made on the spot and are never dilluted. He will suggest different fruit juice combinations if you ask. He has all kinds of fruits available to choose from. Also popular are his cut fruit platters and jelly slices.",
         "contributor": "MA Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83931,
+          1.312056,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lau Yang Drink Stall",
+        "address": "500 Clemenceau Ave (Newton Food Centre) 229495",
+        "hours": null,
+        "recommendations": null,
+        "details": "Hi. The stall holders at Newton Food Centre need support - they have been reliant mostly on tourists who no longer are able to travel here… and with alcohol sales stopping at about 10.30 pm, the place empties out quite a bit. Please try to support. My friend Henry runs the carrot cake stall, and also makes char kway teow and the drink stall owner Mary - runs a drink stall! All kind, hard working and genuine folks trying to make a living- please support!",
+        "contributor": "Anjna Vij Nihalani",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
@@ -8731,256 +8756,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.887025,
-          1.353842,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Kampong Western Food",
-        "address": "coffee shop at Block 121 Hougang Avenue 1. ",
-        "hours": null,
-        "recommendations": null,
-        "details": null,
-        "contributor": "Mei Leng Choy",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.846128,
-          1.340449,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Asia Western Food",
-        "address": "116 Toa Payoh Lorong 2 #01-04 310116",
-        "hours": null,
-        "recommendations": "Chicken Wing",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.895889,
-          1.368094,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hock Kee Western Food",
-        "address": "Block 327, Hougang Ave 5 530327",
-        "hours": "12 - 930pm",
-        "recommendations": "Spring Chicken",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.923502,
-          1.323935,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Lynn’s place western food",
-        "address": "26A Chai Chee Road Singapore 461026 461026",
-        "hours": "10am to 10pm (close on Saturday)",
-        "recommendations": "Western food",
-        "details": "Not tech savvy.",
-        "contributor": "Brandon",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.855758,
-          1.345271,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Western Food Stall",
-        "address": "New Century Food House, 151 Bishan St 11, 570151 570151",
-        "hours": null,
-        "recommendations": "Western food, fried rice",
-        "details": "Elderly couple not on delivery platform",
-        "contributor": null,
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.93874,
-          1.331994,
-          0
-        ]
-      },
-      "properties": {
-        "name": "NFC Western",
-        "address": "85 Fengshan Centre, Blk 85 Bedok North Street 4, #01-37 460085",
-        "hours": null,
-        "recommendations": null,
-        "details": "Hi... Need help here... This stall is not on any delivery platforms as it is run by an old couple who are in their 70s. They were sitting outside their stall as they did not have any customers. ",
-        "contributor": "FeiFei Peh",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.85514,
-          1.373783,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Halim Western Food Delights",
-        "address": "Blk 532 Ang Mo Kio Ave 10 560532",
-        "hours": "11am - 10pn",
-        "recommendations": "Coffeeshop western",
-        "details": "Elderly couple have been selling quality western food for at least 8 years or more over here.  Coffeeshop is relatively empty when I visited twice to buy from them and they are not on any delivery platforms.  Lady boss mentioned this time the impact on their business is harder as compared to last year CB.  Their food portion are value for money and quality are average standards. Don't compare it with modern western stalls.",
-        "contributor": "Redhood",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.871846,
-          1.314918,
-          0
-        ]
-      },
-      "properties": {
-        "name": "JiLin Western Foods",
-        "address": "Blk 17 Upper Boon Keng Road (Hawker Centre) #01-40  380017",
-        "hours": "12.00pm to 7.30pm (closed on Wed & Thur, alternate Tue off preparing stocks)",
-        "recommendations": "Most of his dishes are unique, eg. Cajun Paprika  Chicken w Pasta/Rice or Fries comes w 2 types of sauce (ie. Black Pepper or Mushroom Cream - self invented) / Chicken Culets /Baked Fish etc",
-        "details": "Stall owner is young but not highly educated, and know not much of IT savvy, Grab/Panda platform not in his list as the charges is too high, the food profit is not high as he uses the herbs which is not cheap too, he's good at cooking, the menu of the Western Foods came up by himself & he is very particular on freshness of the food. Customers do comment on the goodness of food and have shared that it can be compared to Hotel standard. His customers are mostly the residents nearby & Factories staff and some through recommendation from their friends who had tasted his food. Due to last year Covid19 and recently Heightened Alert, business being affected. I chanced upon this site which helps Hawkers being affected by the Covid19 & Heightened Alert, thinking this might help him People can get some nice foods from this Hawker Centre too. Therefore, do give them some support too. Thank you & Stay Safe & Stay Healthy!",
-        "contributor": "Iris Lim",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.838246,
-          1.370915,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nineties Pasta and Grill",
-        "address": "Blk 108 Ang Mo Kio Avenue 4 560108",
-        "hours": null,
-        "recommendations": "Value for money portion, delicious chicken chop",
-        "details": "The stall has been experiencing low footfall as it is located in an area that is hidden from main road",
-        "contributor": "Redhood",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.84854,
-          1.367652,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Western Place",
-        "address": "Ang Mo Kio Ave 3 Blk 347 Coffee Shop 560347",
-        "hours": null,
-        "recommendations": null,
-        "details": "My childhood western food and it's run singlehandedly by a nice aunty with no food delivery. Support if you can!",
-        "contributor": "Joyce Lim",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.854192,
           1.340234,
           0
@@ -9463,7 +9238,7 @@
       },
       "properties": {
         "name": "Vegetarian Fried Carrot Cake",
-        "address": "<img src=\"https://lh3.googleusercontent.com/umsh/AFiHsUFKqaOPruPWnEe6hQQSYvdT_KrvIvX_KyCmjEQera_2YAQQZFYIQ-CGsQ1Gp6Jo2SoPE72aAY8Y0dQdFsZifWXzwCcjjer5lWmmAGPMKsMAXl9a7VuF9I0vmAhl7KoBgWg2QbRLiEy9HQIcPFgGkqkzeq3kBqGWQ68ni11P0vDl_PoOt0wCSa_zXz8MVIC7oc6oZPWwVrr21hktRNQ4zxZhKlev349j8E77pnDQYHck6uxUMKZfnIw8wkVUeEVjTJODK0tCk4fLFURkDHQXbs5j6gbDNLK-Xg0n4t79ltq4_nsPPmJjq3B0GeCuIeeLect-83ehPwb3W6RDpVE0aU_1ic4h19iITD-4NR2MNEVUt5Bm01mviECuMXoYnWyzjrv6wD8pZZ3bOKYS7Z-fD6rj2ykX9ip9UCZAYanaYgpkZF1OccrDaJBKoDiboSFIJ01merJQQOunj-O_IdcvpiZ9_cPMH22CpI2fgXsyN1bjqhtj0BZnOPQIJHkQfVDRWi8BLNsMyLSma9qwQIpA3jYOG82yq6mhh5_TCGmb5nrDJauF1nAupjkDdClARikCQm0rG3s0CdJELUY_FktupIocZVA\" height=\"200\" width=\"auto\" />",
+        "address": "335 Smith St, #02-149 Chinatown Complex 050335",
         "hours": null,
         "recommendations": "Fried Carrot Cake",
         "details": "Pls support if u r into fried carrot cake sticks. Old couple runs this stall at a rather ulu corner of Chinatown hawker centre. Both v friendly, price of items is reasonable as well. 3rd pic shows how to enter aft u take the escalator up on the left hand side, Same stretch as 胡记。",
@@ -9481,68 +9256,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.776135,
-          1.342435,
+          103.887025,
+          1.353842,
           0
         ]
       },
       "properties": {
-        "name": "Dhaba 1376 North Indian cuisine",
-        "address": "#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
-        "hours": "Open everyday except Monday afternoon, 11am to 10pm",
-        "recommendations": "Mixed Kebab Platter",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.808155,
-          1.286905,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Y.R.A Rasool Fatimah",
-        "address": "#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006",
-        "hours": "Daily (except Thursdays) 10am-7pm",
-        "recommendations": "Prata",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.935557,
-          1.320547,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Moli Food Stall",
-        "address": "16 Bedok South Road, #01-18 Singapore 460016",
+        "name": "Kampong Western Food",
+        "address": "coffee shop at Block 121 Hougang Avenue 1. ",
         "hours": null,
-        "recommendations": "Vadai",
-        "details": "Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.",
-        "contributor": "Louis Tan",
+        "recommendations": null,
+        "details": null,
+        "contributor": "Mei Leng Choy",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
@@ -9556,17 +9281,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.856853,
-          1.307238,
+          103.846128,
+          1.340449,
           0
         ]
       },
       "properties": {
-        "name": "Jalan Besar Mutton Soup",
-        "address": "166 Jalan berseh #02-57 Singapore 208877",
-        "hours": "11-7.30pm",
-        "recommendations": "Mutton soup",
-        "details": "Owned by a elderly couple who are not tech savvy.",
+        "name": "Asia Western Food",
+        "address": "116 Toa Payoh Lorong 2 #01-04 310116",
+        "hours": null,
+        "recommendations": "Chicken Wing",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895889,
+          1.368094,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hock Kee Western Food",
+        "address": "Block 327, Hougang Ave 5 530327",
+        "hours": "12 - 930pm",
+        "recommendations": "Spring Chicken",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.923502,
+          1.323935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lynn’s place western food",
+        "address": "26A Chai Chee Road Singapore 461026 461026",
+        "hours": "10am to 10pm (close on Saturday)",
+        "recommendations": "Western food",
+        "details": "Not tech savvy.",
+        "contributor": "Brandon",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855758,
+          1.345271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Western Food Stall",
+        "address": "New Century Food House, 151 Bishan St 11, 570151 570151",
+        "hours": null,
+        "recommendations": "Western food, fried rice",
+        "details": "Elderly couple not on delivery platform",
         "contributor": null,
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
@@ -9581,18 +9381,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.941135,
-          1.324168,
+          103.93874,
+          1.331994,
           0
         ]
       },
       "properties": {
-        "name": "Welcome Muslim Food Stall",
-        "address": "Blk 58 New Upper Changi Road. The Marketplace @ 58 461058",
-        "hours": "Closed on Fridays",
-        "recommendations": "Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng",
-        "details": "Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment",
-        "contributor": "Adi",
+        "name": "NFC Western",
+        "address": "85 Fengshan Centre, Blk 85 Bedok North Street 4, #01-37 460085",
+        "hours": null,
+        "recommendations": null,
+        "details": "Hi... Need help here... This stall is not on any delivery platforms as it is run by an old couple who are in their 70s. They were sitting outside their stall as they did not have any customers. ",
+        "contributor": "FeiFei Peh",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
@@ -9606,18 +9406,93 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.854438,
-          1.300903,
+          103.85514,
+          1.373783,
           0
         ]
       },
       "properties": {
-        "name": "Siraj Indian Rojak",
-        "address": "270 Queen St, 270, Albert Centre 180270",
+        "name": "Halim Western Food Delights",
+        "address": "Blk 532 Ang Mo Kio Ave 10 560532",
+        "hours": "11am - 10pn",
+        "recommendations": "Coffeeshop western",
+        "details": "Elderly couple have been selling quality western food for at least 8 years or more over here.  Coffeeshop is relatively empty when I visited twice to buy from them and they are not on any delivery platforms.  Lady boss mentioned this time the impact on their business is harder as compared to last year CB.  Their food portion are value for money and quality are average standards. Don't compare it with modern western stalls.",
+        "contributor": "Redhood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871846,
+          1.314918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JiLin Western Foods",
+        "address": "Blk 17 Upper Boon Keng Road (Hawker Centre) #01-40  380017",
+        "hours": "12.00pm to 7.30pm (closed on Wed & Thur, alternate Tue off preparing stocks)",
+        "recommendations": "Most of his dishes are unique, eg. Cajun Paprika  Chicken w Pasta/Rice or Fries comes w 2 types of sauce (ie. Black Pepper or Mushroom Cream - self invented) / Chicken Culets /Baked Fish etc",
+        "details": "Stall owner is young but not highly educated, and know not much of IT savvy, Grab/Panda platform not in his list as the charges is too high, the food profit is not high as he uses the herbs which is not cheap too, he's good at cooking, the menu of the Western Foods came up by himself & he is very particular on freshness of the food. Customers do comment on the goodness of food and have shared that it can be compared to Hotel standard. His customers are mostly the residents nearby & Factories staff and some through recommendation from their friends who had tasted his food. Due to last year Covid19 and recently Heightened Alert, business being affected. I chanced upon this site which helps Hawkers being affected by the Covid19 & Heightened Alert, thinking this might help him People can get some nice foods from this Hawker Centre too. Therefore, do give them some support too. Thank you & Stay Safe & Stay Healthy!",
+        "contributor": "Iris Lim",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838246,
+          1.370915,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nineties Pasta and Grill",
+        "address": "Blk 108 Ang Mo Kio Avenue 4 560108",
+        "hours": null,
+        "recommendations": "Value for money portion, delicious chicken chop",
+        "details": "The stall has been experiencing low footfall as it is located in an area that is hidden from main road",
+        "contributor": "Redhood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84854,
+          1.367652,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Western Place",
+        "address": "Ang Mo Kio Ave 3 Blk 347 Coffee Shop 560347",
         "hours": null,
         "recommendations": null,
-        "details": "Was in the area today and visited Albert Food Centre this afternoon. Bought indian rojak from the popular Siraj Indian Rojak, whom I used to patronise some 15 years ago every Sunday. Uncle had a brief chat with me, saying that business has really been bad especially on Sundays when it’s usually the most busy for him. Some stalls along his row have closed on Sundays, as they’ve given up. Could sense his frustrations, and he also casually asked how I know about his store. He’s heard about hawkers being shared on social media etc, but doesn’t seem to have a clue on how that works. So just helping him out and posting a shout out here, especially since his Indian Rojak is nice. So do give it a try if you’re in Bugis area!!",
-        "contributor": "Keefe Wong",
+        "details": "My childhood western food and it's run singlehandedly by a nice aunty with no food delivery. Support if you can!",
+        "contributor": "Joyce Lim",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
