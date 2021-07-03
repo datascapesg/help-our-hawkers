@@ -8156,306 +8156,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.899965,
-          1.314496,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nasi Padang",
-        "address": "60, Lorong 101 Changi Singapore 419712",
-        "hours": null,
-        "recommendations": null,
-        "details": null,
-        "contributor": "chaiporneng",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.863248,
-          1.319079,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Fatina's Family Food Corner",
-        "address": "01- 23 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029",
-        "hours": "-",
-        "recommendations": "Nasi Lemak Ayam",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.863248,
-          1.319079,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Warong Mak Limah and Family",
-        "address": "01-84 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029",
-        "hours": "-",
-        "recommendations": "Nasi Lemak",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.814086,
-          1.324088,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Selamat Datang Warong Pak Sapari",
-        "address": "2 Adam Road 289876",
-        "hours": "7:45am-9pm(Hours vary based on availability)",
-        "recommendations": "Mee Soto",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.764445,
-          1.314002,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nasi Padang Selera Kampong",
-        "address": "442 clementi ave 3 120442",
-        "hours": "10am - 8pm",
-        "recommendations": "Nasi padang",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.772473,
-          1.377683,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Rojak (shares signboard with Tian Tian Nasi Lemak)",
-        "address": "2 Bukit Panjang Ring Rd, #01-19 679947",
-        "hours": "daily 6am-2pm",
-        "recommendations": "Rojak",
-        "details": "Uncle from this store sells the best rojak I have eaten from around SG and around the Bukit Panjang Area with super big portion that can easily cover 1 meal for me. Ever since Phase 2 Heighten Alert (HA) started, uncle and aunty have been telling me that their business is bad with much leftover daily. They even told me so many left over， 心痛 （heart pain).",
-        "contributor": "Aaron Tan",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.88383,
-          1.335368,
-          0
-        ]
-      },
-      "properties": {
-        "name": "KA Muslim Food",
-        "address": "KA Centre, 150 Kampong Ampat #02-01 368324",
-        "hours": "6.30am-3.30pm (subject to changes in line with the current situation)",
-        "recommendations": null,
-        "details": "Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.",
-        "contributor": "EY Elyse",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.905966,
-          1.33753,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Zita Malay Muslim Food",
-        "address": "Kaki Bukit Recreation Centre, 7 Kaki Bukit Ave 3, 415814 415814",
-        "hours": "7am to 7pm",
-        "recommendations": "Malay Dishes- Mee Rebus, Mee Soto, Mee Siam, Lontong, Nasi Lemak, Nasi Padang, etc.",
-        "details": "My parents has been in the wedding industry for 15 years to raise me and my sisters up and for survival as they have little to no academic qualification. Covid striked and their business went down till we are currently selling our house to payback huge loans on deferment. Hence, they decided to open a stall, as their forte is cooking. With the help of the owner of the eating house at Kaki Bukit Recreation Centre, they managed to. But they cant afford to hire another help, and are not IT savvy. My parents also do not believe in giving other monopolized platform a huge commission as they want to cater to below average/foreigners as well as others who enjoy good and affordable food during this Pandemic.",
-        "contributor": "Sabeela B",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.895208,
-          1.315277,
-          0
-        ]
-      },
-      "properties": {
-        "name": "hajjah jamillah raj mohamed indian muslim food",
-        "address": "haig road block 14 #01-09 Singapore 430014 430014",
-        "hours": "11am - 9pm daily",
-        "recommendations": "Mee goreng, maggi goreng, soup tulang",
-        "details": "Uncle rahman has been running the stall for 40 over years. He has little to no knowledge on digitalization and has relied on customers to help him grow his digital presence.",
-        "contributor": null,
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.866604,
-          1.334072,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Malay stall",
-        "address": "Blk 136 Potong Pasir Ave 1 ",
-        "hours": "6am to 2pm",
-        "recommendations": null,
-        "details": "Copied from FB post:  Hi all, I'm a taxi driver.  Everyday morning 4.15am, I will pick up a Malay aunty  from teck whye to blk 136 potong pasir ave 1.  This Malay aunty selling Malay foods at blk 136 potong pasir. She in her late 60s with walking difficulty . Walking with a walking stick.  Due to this covid-19, her business is badly affected. She is old traditional style .Don trust food delivery like grabfood or foodpanda.  I pick her up daily since 2018 till now. Due to covid19, her business hit badly. Sometime she have to owe my taxi fare accumulated near $100+.  Knowing government giving subsidy for rental but the coffeeshop owner does not give them the rebate. Despite going to MP several time but still no action taken.  She have a soft and kind heart. Always help those who she can help like, In potong pasir neighborhood, there a guy in his mid 40s with some mental issue, without failed, she will try to give him $2 and food few time almost everyday.  Everyday during the journey, I will try to ask how her business the day before. Sometime she will say , business is quite bad till she can't pay her daily rental $50 etc.  Her leftover food, she will try not to throw away. Sometime her balance kuey / curry puff she will ask someone to pass to the mosque.  Sometime , she owe my taxi fare near $100+ , she will need to wait for her monthly CPF retirement fund to come in to pay me.  Hope, people who nearby or staying at potong pasir will support her food.  She sell Malay food like nasi lemak, mee Siam , Mee goreng , Mee rebus , Mee Soto and many more.  Her location is at blk 136 potong pasir coffeeshop ( Just infront of carpark gantry)  Her opening timing : 6am to 2pm  Her stall is beside toilet and she have walking difficulty with walking stick. Normally she will be working alone.  Just imagine , with her leg issue, she need to prepare food, cook food , serve customer all by herself.  Hope everyone will support her.  I never let her know that I will be posting this too. Just hoping I could help her Abit in her business too  Please help to share this post too.  Stay safe and fight against Covid-19.",
-        "contributor": null,
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.98795,
-          1.389756,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Changi Village Satay",
-        "address": "Changi Village Hawker Centre, Blk 2 Changi Village Road, #01-20 500002",
-        "hours": "Friday, Saturday, Monday, Tuesday from 12noon to 10pm",
-        "recommendations": "Chicken satay with ketupat which comes with their tasty satay sauce",
-        "details": "Elderly hawker selling the best satay who has worked in Changi for more than 30 years. COVID has driven a lot of people away from Changi Village Hawker Centre which has affected many of the hawkers significantly. Hope we can help to revive the place again to preserve the authentic Malay food sold here.",
-        "contributor": null,
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.898277,
-          1.316728,
-          0
-        ]
-      },
-      "properties": {
-        "name": "NASI AYAM SAMBAL",
-        "address": "1 Geylang Serai Sri #02-129, Geylang Serai Market and Food Centre, Singapore 402001 402001",
-        "hours": "8am-2pm",
-        "recommendations": "Set A",
-        "details": "Keeping the concept real with selling big portion at a low hawker price and with this pandemic it's hard to hit a certain target to keep operating",
-        "contributor": "Nyna",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.84579,
           1.28515,
           0
@@ -8743,6 +8443,306 @@
         "recommendations": null,
         "details": "The Balestier 24-hour hawker centre at 411 Balestier Road seems to be in trouble. At 6pm, no queues at all. Lots of empty tables, no problem to get a seat despite so many seats crossed off. Most of the stallholders were sitting at tables outside their stall, waiting for customers. I went for the popiah at stall #6, Miao Sin Popiah, after reading a post by the stallholders child that they’re not on any online platform. For $2 a piece, it was a pretty huge popiah! Taste was Can Eat, to me. My favourite for taste is still the one at Chinatown, although quantity wise Miao Sin’s popiah is way more value for money. The lady boss was very kind, too. I had finished eating and was just sitting there browsing on my handphone, when suddenly she came up and took my empty plate, saying she’s returning it for me to the nearby tray return section. Wow, what a kind heart!",
         "contributor": "Bernadette Tie",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899965,
+          1.314496,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasi Padang",
+        "address": "60, Lorong 101 Changi Singapore 419712",
+        "hours": null,
+        "recommendations": null,
+        "details": null,
+        "contributor": "chaiporneng",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fatina's Family Food Corner",
+        "address": "01- 23 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029",
+        "hours": "-",
+        "recommendations": "Nasi Lemak Ayam",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Warong Mak Limah and Family",
+        "address": "01-84 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029",
+        "hours": "-",
+        "recommendations": "Nasi Lemak",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814086,
+          1.324088,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Selamat Datang Warong Pak Sapari",
+        "address": "2 Adam Road 289876",
+        "hours": "7:45am-9pm(Hours vary based on availability)",
+        "recommendations": "Mee Soto",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764445,
+          1.314002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasi Padang Selera Kampong",
+        "address": "442 clementi ave 3 120442",
+        "hours": "10am - 8pm",
+        "recommendations": "Nasi padang",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772473,
+          1.377683,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rojak (shares signboard with Tian Tian Nasi Lemak)",
+        "address": "2 Bukit Panjang Ring Rd, #01-19 679947",
+        "hours": "daily 6am-2pm",
+        "recommendations": "Rojak",
+        "details": "Uncle from this store sells the best rojak I have eaten from around SG and around the Bukit Panjang Area with super big portion that can easily cover 1 meal for me. Ever since Phase 2 Heighten Alert (HA) started, uncle and aunty have been telling me that their business is bad with much leftover daily. They even told me so many left over， 心痛 （heart pain).",
+        "contributor": "Aaron Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88383,
+          1.335368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KA Muslim Food",
+        "address": "KA Centre, 150 Kampong Ampat #02-01 368324",
+        "hours": "6.30am-3.30pm (subject to changes in line with the current situation)",
+        "recommendations": null,
+        "details": "Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.",
+        "contributor": "EY Elyse",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905966,
+          1.33753,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zita Malay Muslim Food",
+        "address": "Kaki Bukit Recreation Centre, 7 Kaki Bukit Ave 3, 415814 415814",
+        "hours": "7am to 7pm",
+        "recommendations": "Malay Dishes- Mee Rebus, Mee Soto, Mee Siam, Lontong, Nasi Lemak, Nasi Padang, etc.",
+        "details": "My parents has been in the wedding industry for 15 years to raise me and my sisters up and for survival as they have little to no academic qualification. Covid striked and their business went down till we are currently selling our house to payback huge loans on deferment. Hence, they decided to open a stall, as their forte is cooking. With the help of the owner of the eating house at Kaki Bukit Recreation Centre, they managed to. But they cant afford to hire another help, and are not IT savvy. My parents also do not believe in giving other monopolized platform a huge commission as they want to cater to below average/foreigners as well as others who enjoy good and affordable food during this Pandemic.",
+        "contributor": "Sabeela B",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895208,
+          1.315277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "hajjah jamillah raj mohamed indian muslim food",
+        "address": "haig road block 14 #01-09 Singapore 430014 430014",
+        "hours": "11am - 9pm daily",
+        "recommendations": "Mee goreng, maggi goreng, soup tulang",
+        "details": "Uncle rahman has been running the stall for 40 over years. He has little to no knowledge on digitalization and has relied on customers to help him grow his digital presence.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.866604,
+          1.334072,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Malay stall",
+        "address": "Blk 136 Potong Pasir Ave 1 ",
+        "hours": "6am to 2pm",
+        "recommendations": null,
+        "details": "Copied from FB post:  Hi all, I'm a taxi driver.  Everyday morning 4.15am, I will pick up a Malay aunty  from teck whye to blk 136 potong pasir ave 1.  This Malay aunty selling Malay foods at blk 136 potong pasir. She in her late 60s with walking difficulty . Walking with a walking stick.  Due to this covid-19, her business is badly affected. She is old traditional style .Don trust food delivery like grabfood or foodpanda.  I pick her up daily since 2018 till now. Due to covid19, her business hit badly. Sometime she have to owe my taxi fare accumulated near $100+.  Knowing government giving subsidy for rental but the coffeeshop owner does not give them the rebate. Despite going to MP several time but still no action taken.  She have a soft and kind heart. Always help those who she can help like, In potong pasir neighborhood, there a guy in his mid 40s with some mental issue, without failed, she will try to give him $2 and food few time almost everyday.  Everyday during the journey, I will try to ask how her business the day before. Sometime she will say , business is quite bad till she can't pay her daily rental $50 etc.  Her leftover food, she will try not to throw away. Sometime her balance kuey / curry puff she will ask someone to pass to the mosque.  Sometime , she owe my taxi fare near $100+ , she will need to wait for her monthly CPF retirement fund to come in to pay me.  Hope, people who nearby or staying at potong pasir will support her food.  She sell Malay food like nasi lemak, mee Siam , Mee goreng , Mee rebus , Mee Soto and many more.  Her location is at blk 136 potong pasir coffeeshop ( Just infront of carpark gantry)  Her opening timing : 6am to 2pm  Her stall is beside toilet and she have walking difficulty with walking stick. Normally she will be working alone.  Just imagine , with her leg issue, she need to prepare food, cook food , serve customer all by herself.  Hope everyone will support her.  I never let her know that I will be posting this too. Just hoping I could help her Abit in her business too  Please help to share this post too.  Stay safe and fight against Covid-19.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98795,
+          1.389756,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Changi Village Satay",
+        "address": "Changi Village Hawker Centre, Blk 2 Changi Village Road, #01-20 500002",
+        "hours": "Friday, Saturday, Monday, Tuesday from 12noon to 10pm",
+        "recommendations": "Chicken satay with ketupat which comes with their tasty satay sauce",
+        "details": "Elderly hawker selling the best satay who has worked in Changi for more than 30 years. COVID has driven a lot of people away from Changi Village Hawker Centre which has affected many of the hawkers significantly. Hope we can help to revive the place again to preserve the authentic Malay food sold here.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898277,
+          1.316728,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NASI AYAM SAMBAL",
+        "address": "1 Geylang Serai Sri #02-129, Geylang Serai Market and Food Centre, Singapore 402001 402001",
+        "hours": "8am-2pm",
+        "recommendations": "Set A",
+        "details": "Keeping the concept real with selling big portion at a low hawker price and with this pandemic it's hard to hit a certain target to keep operating",
+        "contributor": "Nyna",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
