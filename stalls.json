@@ -2831,31 +2831,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.808155,
-          1.286905,
-          0
-        ]
-      },
-      "properties": {
-        "name": "ABC Satay Chicken Wing",
-        "address": "#01-107, ABC Market, 6 Jalan Bukit Merah 150006",
-        "hours": "Thursday-Sunday 4pm-9pm",
-        "recommendations": "Chicken Wing",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.860123,
           1.336771,
           0
@@ -7381,6 +7356,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.953043,
+          1.360691,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old Airport Road Zheng Zong Lor Mee",
+        "address": "477 Tampines St 43 #01-192 (Everyday Come Coffeeshop) 520477",
+        "hours": "06:00-12:00",
+        "recommendations": "Lor Mee",
+        "details": "The stall is not on any delivery platform and is located in a neighbourhood kopitiam.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.854575,
           1.372773,
           0
@@ -8306,6 +8306,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.808228,
+          1.286894,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The stall is run by my elderly grandmother who has been selling satay and chicken wing for over 40 years at ABC Brickwork Market. Due to COVID-19, we have seen a decline in the number of customers and especially so when dine-in was not allowed. Please support if you are in the area!",
+        "address": "#01-107, 6 Jalan Bukit Merah 150006",
+        "hours": "Thu - Sun 430pm to 930pm ",
+        "recommendations": "Satay & BBQ Chicken Wings",
+        "details": "Ran by my elderly grandmother who has been selling satay and chicken wing for over 40 years at ABC Brickwork Market. Due to COVID-19, we have seen a decline in the number of customers and especially so when dine-in were not allowed. Please support if you are in the area! ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Basil and Mint - Thai Street Eats",
+        "address": "#01-47 Amoy Street Food Centre 069111",
+        "hours": "1130-1400",
+        "recommendations": "Thai Cai Fan",
+        "details": "The stall is run by an elderly hawker",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.84579,
           1.28515,
           0
@@ -9181,256 +9231,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.854192,
-          1.340234,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Li Huat Hot and Cold Cheng Tng",
-        "address": "#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210",
-        "hours": "-",
-        "recommendations": null,
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.788308,
-          1.310971,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Ghim Moh H.K Pasteries",
-        "address": "20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020",
-        "hours": "Tue-sun 7am-7pm",
-        "recommendations": "Curry Puff",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.844767,
-          1.280336,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hum Jin Pang 中国街咸煎饼",
-        "address": "#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184",
-        "hours": "11am-8pm",
-        "recommendations": "Ham Jin Pang",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.844767,
-          1.280336,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Traditional Delight (古早美味）",
-        "address": "Maxwell Food Centre, 1 Kadayanallur St 69184",
-        "hours": "-",
-        "recommendations": "Ondeh Ondeh",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.863248,
-          1.319079,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Granny Pancake",
-        "address": "#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029",
-        "hours": "7am - 2pm",
-        "recommendations": "Red Bean Ming Jiang Kueh",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.832319,
-          1.285975,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Liang Liang Garden (凉凉园饮水室）",
-        "address": "#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898",
-        "hours": "Daily 11am-9pm",
-        "recommendations": "Chng Teng with Peach Gum",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.805795,
-          1.316456,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Pastry for Life",
-        "address": "#01-78, Empress Road Hawker Center, 7 Empress Rd 260007",
-        "hours": "7am - approx 4pm",
-        "recommendations": "Baos",
-        "details": null,
-        "contributor": "OldieGoodieHawker",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.804518,
-          1.28634,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Beans Fragrance",
-        "address": "#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 ",
-        "hours": null,
-        "recommendations": "Coffee, tea, almond beancurd, dessert",
-        "details": "This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.",
-        "contributor": null,
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.843092,
-          1.282586,
-          0
-        ]
-      },
-      "properties": {
-        "name": "An Ji Xiang Hua Wen Tou Xue",
-        "address": "#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335",
-        "hours": null,
-        "recommendations": "Traditional ice dessert",
-        "details": "Uncle looks very old already, operating alone.",
-        "contributor": "Kelyn and Ah Long",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.848525,
-          1.282047,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hai Yan Cold and Hot Dessert",
-        "address": "#01-43, Market Street Interim Hawker Centre, 5 CROSS STREET 048418",
-        "hours": "1100 - 1500",
-        "recommendations": null,
-        "details": "The owners are digitally illiterate and are really having a hard time jumping onto the digital space.",
-        "contributor": "Jac",
-        "styleUrl": "#icon-1577-E65100",
-        "styleHash": "-1f69d8c4",
-        "styleMapHash": {
-          "normal": "#icon-1577-E65100-normal",
-          "highlight": "#icon-1577-E65100-highlight"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.887025,
           1.353842,
           0
@@ -9668,6 +9468,256 @@
         "recommendations": null,
         "details": "My childhood western food and it's run singlehandedly by a nice aunty with no food delivery. Support if you can!",
         "contributor": "Joyce Lim",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854192,
+          1.340234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Li Huat Hot and Cold Cheng Tng",
+        "address": "#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210",
+        "hours": "-",
+        "recommendations": null,
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788308,
+          1.310971,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ghim Moh H.K Pasteries",
+        "address": "20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020",
+        "hours": "Tue-sun 7am-7pm",
+        "recommendations": "Curry Puff",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hum Jin Pang 中国街咸煎饼",
+        "address": "#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184",
+        "hours": "11am-8pm",
+        "recommendations": "Ham Jin Pang",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Traditional Delight (古早美味）",
+        "address": "Maxwell Food Centre, 1 Kadayanallur St 69184",
+        "hours": "-",
+        "recommendations": "Ondeh Ondeh",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Granny Pancake",
+        "address": "#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029",
+        "hours": "7am - 2pm",
+        "recommendations": "Red Bean Ming Jiang Kueh",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832319,
+          1.285975,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liang Liang Garden (凉凉园饮水室）",
+        "address": "#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898",
+        "hours": "Daily 11am-9pm",
+        "recommendations": "Chng Teng with Peach Gum",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805795,
+          1.316456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pastry for Life",
+        "address": "#01-78, Empress Road Hawker Center, 7 Empress Rd 260007",
+        "hours": "7am - approx 4pm",
+        "recommendations": "Baos",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.804518,
+          1.28634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beans Fragrance",
+        "address": "#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 ",
+        "hours": null,
+        "recommendations": "Coffee, tea, almond beancurd, dessert",
+        "details": "This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843092,
+          1.282586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "An Ji Xiang Hua Wen Tou Xue",
+        "address": "#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335",
+        "hours": null,
+        "recommendations": "Traditional ice dessert",
+        "details": "Uncle looks very old already, operating alone.",
+        "contributor": "Kelyn and Ah Long",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848525,
+          1.282047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hai Yan Cold and Hot Dessert",
+        "address": "#01-43, Market Street Interim Hawker Centre, 5 CROSS STREET 048418",
+        "hours": "1100 - 1500",
+        "recommendations": null,
+        "details": "The owners are digitally illiterate and are really having a hard time jumping onto the digital space.",
+        "contributor": "Jac",
         "styleUrl": "#icon-1577-E65100",
         "styleHash": "-1f69d8c4",
         "styleMapHash": {
