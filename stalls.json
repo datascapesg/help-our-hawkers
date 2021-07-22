@@ -7950,6 +7950,1881 @@
           "highlight": "#icon-1577-E65100-highlight"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856749,
+          1.307354,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Northern Thai Tom Yum",
+        "address": "166 Jln Besar #01-25 208877",
+        "hours": null,
+        "recommendations": null,
+        "details": null,
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871378,
+          1.327034,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Korean Cuisine",
+        "address": "10 Lor Bakar Batu, Singapore 348744 348744",
+        "hours": "Mon to Fri 11am to 6:30pm Sat 11am to 4pm",
+        "recommendations": null,
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839515,
+          1.300419,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Signs A Taste Of Vietnam Pho",
+        "address": "Orchard Gateway B2-15, 277 Orchard Rd 238858",
+        "hours": "-",
+        "recommendations": "Sliced Beef Ribeye Pho",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859752,
+          1.30025,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Prince Coffee House",
+        "address": "249 Beach Rd, #01-249 189757",
+        "hours": "11am–9:30pm",
+        "recommendations": null,
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829008,
+          1.372362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Noshkata",
+        "address": "590 upper Thomas road 01-22 574419",
+        "hours": "11-7pm",
+        "recommendations": "Army stew",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837505,
+          1.419052,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bali Nice",
+        "address": "777 Eating House, 630 Yishun Street 61 760630",
+        "hours": "daily 5pm-12am. Closed on Tues unless public holiday",
+        "recommendations": "Satay",
+        "details": null,
+        "contributor": "Rachel Salvatore",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883883,
+          1.302171,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meng Fruits",
+        "address": "Block 4A Jalan Batu Market & Hawker Centre #01-32 432004",
+        "hours": null,
+        "recommendations": null,
+        "details": "I decided to venture into Jln Batu Hawker Centre. As I was walking around, I noticed this lone figure sitting quietly staring at his mobile phone inside his stall. In my 5 minutes of observation, I noticed maybe 15 folks walked past his stall. Not a single one of them approach his stall. I decided to walk up to his stall.  When Uncle saw me approaching him, he eagerly stand up and asked what I would like to have. I can sense his urgency but when he said, I am his 1st customer of the day. My heart sank deeply at that moment.  The time then was 1145am, politely I asked if his sales takings were affected by the recent prohibition of dining in. He gave out a loud sigh.. I can sense his helplessness then and there. Jokingly he said \"人算不如天算\" (unpredictable situation). \"Its a very tough situation\". He relies on regulars and walk in customers. Now that it is the by default mode to WFH, his regulars don't come that frequently anymore. And walk in customers who can't dine in, are not buying drinks from him that much. Also, Jln Batu Hawker Centre can be a bit ulu to some.  Regardless of the situation, Uncle still maintain his positive outlook. With a sense of pride, he strongly recommended to me his 100% handmade agar agar jelly dessert. He said his agar agar is probably the cheapest or if not, one of the cheapest that one can ever locate in Singapore. At 0.50cents a piece of the agar agar jelly, they come in various flavours. Coffee, Yam, Rainbow, plain and few others - really Can Eat for me. This is the best part - Uncle refused to increase his price over the years. He said his customers included mostly senior citizens and those who are staying around the area are in 1, 2 and 3 rooms flat. Affordability is an issue to some of the folks there. Uncle said he could not bear to increase his pricing and would rather earn lesser or none at times. Even when he is struggling to stay afloat, he still has a compassion heart for others. For this, he has my utmost respect. What surprises me was that Uncle is also selling his agar agar jelly in a big square plastic container box at only $4 - see picture. I got 3 boxes of Yam agar agar jelly without hesitation. Uncle was very appreciative and hope that I will come back soon to try his yakult fruit juices. He is also selling slice cut fruits too.  Folks, this is one genuine Hawker whose business is greatly affected by the present situation. He has a big heart and filled with compassion. He deserve all your support, so please go down to support him and share this post for greater awareness. Whether its a slice of cut fruit or a piece of agar agar jelly at 0.50 cents or a cup of fruit juice, it matters alot to him.",
+        "contributor": "Louis Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854438,
+          1.300903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "9Flowers",
+        "address": "270 Queen Street #01-27 180270",
+        "hours": "8am-12noon they might open longer if more people visit the area",
+        "recommendations": null,
+        "details": "The whole lane is actually filled with elderly hawkers. I talk to this nice old lady with cheap hair dye as she was the only store open on that day.She have lost her shop due to the lockdown and decided to tender for a hawker stall to sell her flowers instead.She ashame to share her past as i tried to pry and she refused to answer.She seem to very knowlagable with flowers and well spoken in dialect. This might be a hidden gem at albert center.The whole backlane is filled with shops without a name to a shop and only unit number.They closed around 12noon as i visited around 11 plus am on 6/6/2021 sunday. Their business has been affected as the waterloo temple has been closed for long period of time and less tourist have been visiting the area ever since covid.",
+        "contributor": "Dupey",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimama Nasi Panggang Stall Maxwell",
+        "address": "Maxwell Food Centre 1 Kadayanallur Street, #01-09 Singapore 69184",
+        "hours": "10am - 10pm",
+        "recommendations": "Nasi Panggang, Ayam Bakar, Ikan Bakar (grilled fish)",
+        "details": "Auntie is not tech savvy so she is just passively waiting for business, but it has been very quiet because of WFH. I am not affiliated to this stall. I just randomly chose to tabao from her and realised it's SOOOO out-of-the-world delicious!!! Best nasi panggang in the whole of Singapore. And I am a nasi panggang fan. So just wanted to help give her a shoutout. My friend also set up an IG account for her to let more people know about such a good indonesian food stall is available. Be transported to Bali instantly.",
+        "contributor": "Alimama",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814086,
+          1.324088,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adam Seafood BBQ",
+        "address": "2 Adam Rd, Singapore 289876 289876",
+        "hours": null,
+        "recommendations": "Seafood BBQ",
+        "details": "Stall is run by illiterate owners who serve super good BBQ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.809866,
+          1.286411,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Healthy Foods Salads",
+        "address": "28 Jalan Bukit Merah ",
+        "hours": "8am - 8pm",
+        "recommendations": null,
+        "details": "Elderly hawker persevering the idea of eating clean and having a salad at least once a week. Owner believes in the quality and freshness of salad, fruits and juices. For juices, he believes in the pureness of the fruit and insists in serving with no additional sugar, salt or water - simply the simplest and best for his customers. ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886992,
+          1.320614,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nui Kitchen",
+        "address": "117 Aljunied Ave 2 #01-09 380095",
+        "hours": null,
+        "recommendations": "Green Curry ",
+        "details": "thai stall helmed by elders and son and they served rather authentic thai as cook is thai",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876249,
+          1.375636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "London Grill",
+        "address": "50 Serangoon North Ave 4 555856",
+        "hours": null,
+        "recommendations": "Chicken Katsu Don and their curry dishes",
+        "details": "Stall is in a semi-industrial area, which not many people visit during the lockdown",
+        "contributor": "Wesley",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850752,
+          1.306461,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grandma's Mee Siam",
+        "address": "#01-33, Tekka Market, 655 Buffalo Road 210665",
+        "hours": null,
+        "recommendations": null,
+        "details": "The stall owner operates the stall alone and is not on an delivery platform.  She offers a pretty good selection of items, please support her.",
+        "contributor": "Joanna Ash",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84579,
+          1.28515,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kaya Kaya",
+        "address": "#01-71 Hong Lim Market & Food Centre, 531A Upper Cross St 51531",
+        "hours": "daily 8am-5pm except Sat, 8am-5.30pm",
+        "recommendations": null,
+        "details": null,
+        "contributor": "8 Days",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818672,
+          1.277431,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Uncle Lim Traditional Pancakes",
+        "address": "11 Telok Blangah Crescent, #01-120 90011",
+        "hours": "Open about 6am - 1pm",
+        "recommendations": "Traditional Pancakes",
+        "details": null,
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883668,
+          1.302192,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tanjong Rhu Pau",
+        "address": "7 Jalan Batu, #01-113 431007",
+        "hours": "12pm - 6pm",
+        "recommendations": "Char Siu Pau",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844856,
+          1.281942,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pan Ji Cooked Food",
+        "address": "Blk 333 Smith Street #02-078 50333",
+        "hours": null,
+        "recommendations": "Honeycomb Snack",
+        "details": "Uncle does really good old school honeycomb snacks. Business has been poor also due to the stall being tucked away at an inconspicuous part of Chinatown food complex green zone!",
+        "contributor": "Cil Wong",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843092,
+          1.282586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yom Yom Popiah and Rojak",
+        "address": "335 Smith St, #02-98, Singapore 650335 650335",
+        "hours": "10am-6pm",
+        "recommendations": "Rojak, Popiah",
+        "details": "Elderly Hawker",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944678,
+          1.345857,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Golden Snacks",
+        "address": "Tampines Round Market and Food Centre Blk 137 Tampines St 11 #01-01 Singapore 522137",
+        "hours": "Closed on Mondays. 5.30am to 1.30pm",
+        "recommendations": "Youtiao, Butterfly",
+        "details": "The stall sells awesome fried goreng pisang and they do not know how to utilize delivery services.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ri Xin Snack Delights",
+        "address": "1 Kadayanallur Street, Maxwell Food Centre #01-55 (S069184) 69184",
+        "hours": "Late afternoon?",
+        "recommendations": "Ang Ku Kueh, Huat Kueh",
+        "details": "Old school Ang Ku Kueh and snacks lovingly made by cute elderly uncle! Business fell drastically after Covid hit as most office workers started to WFH. Uncle is always there till late because his kuehs are always left unsold even till late evening.",
+        "contributor": "B tham",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833264,
+          1.425126,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MEE CHIANG KUEH",
+        "address": "761 YISHUN STREET 72 760761",
+        "hours": "7am - 230pm",
+        "recommendations": "peanut mee chiang kueh",
+        "details": "Old auntie uncle couple selling $1.10 cheap and delicious mee chiang kueh, not tech savvy",
+        "contributor": "YishunMcgriddles",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844179,
+          1.416,
+          0
+        ]
+      },
+      "properties": {
+        "name": "513 经济熟食Economic cooked food",
+        "address": "513 yishun st 51 760513 760513",
+        "hours": "7am till evening",
+        "recommendations": null,
+        "details": "Is located in an area where the is not much crowd (new estate) ",
+        "contributor": "Stewart kong ",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.953466,
+          1.343696,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jiaxiang Pancake",
+        "address": "248 Simei Street 5 520248",
+        "hours": "7am to 8pm",
+        "recommendations": "Tuna pancake ",
+        "details": "My mom is not tech savvy to enlist the help of delivery services. Despite many years of using a smart phone, up till today she’s still struggling with it. Furthermore she doesn’t have a very good grasp on english. Everyday she has to stand for more than 12 hours to minimally earn a day’s rental. ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764266,
+          1.303785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tiong bahru fishcake",
+        "address": "Clementi West St 2, Blk 726. 120726",
+        "hours": "9 am - 7pm (mon-sun) ",
+        "recommendations": "Deep Fried wantons (3 pieces for $1.20)",
+        "details": "A fishcake stall with a long history of offering fresh, tasty and affordably priced fishcakes. Prices have remained low throughout the years to remain accessible to people from all walks of life. Their business has been greatly impacted by Coiv-19. As a regular, it saddens me and I hope a bit of awareness can help direct more footfall to their stall. ",
+        "contributor": "Wl",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849018,
+          1.325693,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Miao Sin Popiah",
+        "address": "Balestier Food Centre, 411 Balestier Rd 329930",
+        "hours": null,
+        "recommendations": null,
+        "details": "The Balestier 24-hour hawker centre at 411 Balestier Road seems to be in trouble. At 6pm, no queues at all. Lots of empty tables, no problem to get a seat despite so many seats crossed off. Most of the stallholders were sitting at tables outside their stall, waiting for customers. I went for the popiah at stall #6, Miao Sin Popiah, after reading a post by the stallholders child that they’re not on any online platform. For $2 a piece, it was a pretty huge popiah! Taste was Can Eat, to me. My favourite for taste is still the one at Chinatown, although quantity wise Miao Sin’s popiah is way more value for money. The lady boss was very kind, too. I had finished eating and was just sitting there browsing on my handphone, when suddenly she came up and took my empty plate, saying she’s returning it for me to the nearby tray return section. Wow, what a kind heart!",
+        "contributor": "Bernadette Tie",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899965,
+          1.314496,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasi Padang",
+        "address": "60, Lorong 101 Changi Singapore 419712",
+        "hours": null,
+        "recommendations": null,
+        "details": null,
+        "contributor": "chaiporneng",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fatina's Family Food Corner",
+        "address": "01- 23 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029",
+        "hours": "-",
+        "recommendations": "Nasi Lemak Ayam",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Warong Mak Limah and Family",
+        "address": "01-84 Bendemeer Market & Food Centre, 29 Bendemeer Rd 330029",
+        "hours": "-",
+        "recommendations": "Nasi Lemak",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814086,
+          1.324088,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Selamat Datang Warong Pak Sapari",
+        "address": "2 Adam Road 289876",
+        "hours": "7:45am-9pm(Hours vary based on availability)",
+        "recommendations": "Mee Soto",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764445,
+          1.314002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasi Padang Selera Kampong",
+        "address": "442 clementi ave 3 120442",
+        "hours": "10am - 8pm",
+        "recommendations": "Nasi padang",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772473,
+          1.377683,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rojak (shares signboard with Tian Tian Nasi Lemak)",
+        "address": "2 Bukit Panjang Ring Rd, #01-19 679947",
+        "hours": "daily 6am-2pm",
+        "recommendations": "Rojak",
+        "details": "Uncle from this store sells the best rojak I have eaten from around SG and around the Bukit Panjang Area with super big portion that can easily cover 1 meal for me. Ever since Phase 2 Heighten Alert (HA) started, uncle and aunty have been telling me that their business is bad with much leftover daily. They even told me so many left over， 心痛 （heart pain).",
+        "contributor": "Aaron Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88383,
+          1.335368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KA Muslim Food",
+        "address": "KA Centre, 150 Kampong Ampat #02-01 368324",
+        "hours": "6.30am-3.30pm (subject to changes in line with the current situation)",
+        "recommendations": null,
+        "details": "Located in the Tai Seng Industrial area, footfall has been low since the start of Phase 2 HA as everyone is working from home and not going to the office. Despite this, the hawkers continue to take pride and prepare for people to takeaway lunch. These stalls are not on any food delivery platform as the hawkers would like to keep their food reasonably priced for their customers.",
+        "contributor": "EY Elyse",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905966,
+          1.33753,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zita Malay Muslim Food",
+        "address": "Kaki Bukit Recreation Centre, 7 Kaki Bukit Ave 3, 415814 415814",
+        "hours": "7am to 7pm",
+        "recommendations": "Malay Dishes- Mee Rebus, Mee Soto, Mee Siam, Lontong, Nasi Lemak, Nasi Padang, etc.",
+        "details": "My parents has been in the wedding industry for 15 years to raise me and my sisters up and for survival as they have little to no academic qualification. Covid striked and their business went down till we are currently selling our house to payback huge loans on deferment. Hence, they decided to open a stall, as their forte is cooking. With the help of the owner of the eating house at Kaki Bukit Recreation Centre, they managed to. But they cant afford to hire another help, and are not IT savvy. My parents also do not believe in giving other monopolized platform a huge commission as they want to cater to below average/foreigners as well as others who enjoy good and affordable food during this Pandemic.",
+        "contributor": "Sabeela B",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895208,
+          1.315277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "hajjah jamillah raj mohamed indian muslim food",
+        "address": "haig road block 14 #01-09 Singapore 430014 430014",
+        "hours": "11am - 9pm daily",
+        "recommendations": "Mee goreng, maggi goreng, soup tulang",
+        "details": "Uncle rahman has been running the stall for 40 over years. He has little to no knowledge on digitalization and has relied on customers to help him grow his digital presence.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.866604,
+          1.334072,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Malay stall",
+        "address": "Blk 136 Potong Pasir Ave 1 ",
+        "hours": "6am to 2pm",
+        "recommendations": null,
+        "details": "Copied from FB post:  Hi all, I'm a taxi driver.  Everyday morning 4.15am, I will pick up a Malay aunty  from teck whye to blk 136 potong pasir ave 1.  This Malay aunty selling Malay foods at blk 136 potong pasir. She in her late 60s with walking difficulty . Walking with a walking stick.  Due to this covid-19, her business is badly affected. She is old traditional style .Don trust food delivery like grabfood or foodpanda.  I pick her up daily since 2018 till now. Due to covid19, her business hit badly. Sometime she have to owe my taxi fare accumulated near $100+.  Knowing government giving subsidy for rental but the coffeeshop owner does not give them the rebate. Despite going to MP several time but still no action taken.  She have a soft and kind heart. Always help those who she can help like, In potong pasir neighborhood, there a guy in his mid 40s with some mental issue, without failed, she will try to give him $2 and food few time almost everyday.  Everyday during the journey, I will try to ask how her business the day before. Sometime she will say , business is quite bad till she can't pay her daily rental $50 etc.  Her leftover food, she will try not to throw away. Sometime her balance kuey / curry puff she will ask someone to pass to the mosque.  Sometime , she owe my taxi fare near $100+ , she will need to wait for her monthly CPF retirement fund to come in to pay me.  Hope, people who nearby or staying at potong pasir will support her food.  She sell Malay food like nasi lemak, mee Siam , Mee goreng , Mee rebus , Mee Soto and many more.  Her location is at blk 136 potong pasir coffeeshop ( Just infront of carpark gantry)  Her opening timing : 6am to 2pm  Her stall is beside toilet and she have walking difficulty with walking stick. Normally she will be working alone.  Just imagine , with her leg issue, she need to prepare food, cook food , serve customer all by herself.  Hope everyone will support her.  I never let her know that I will be posting this too. Just hoping I could help her Abit in her business too  Please help to share this post too.  Stay safe and fight against Covid-19.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98795,
+          1.389756,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Changi Village Satay",
+        "address": "Changi Village Hawker Centre, Blk 2 Changi Village Road, #01-20 500002",
+        "hours": "Friday, Saturday, Monday, Tuesday from 12noon to 10pm",
+        "recommendations": "Chicken satay with ketupat which comes with their tasty satay sauce",
+        "details": "Elderly hawker selling the best satay who has worked in Changi for more than 30 years. COVID has driven a lot of people away from Changi Village Hawker Centre which has affected many of the hawkers significantly. Hope we can help to revive the place again to preserve the authentic Malay food sold here.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898277,
+          1.316728,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NASI AYAM SAMBAL",
+        "address": "1 Geylang Serai Sri #02-129, Geylang Serai Market and Food Centre, Singapore 402001 402001",
+        "hours": "8am-2pm",
+        "recommendations": "Set A",
+        "details": "Keeping the concept real with selling big portion at a low hawker price and with this pandemic it's hard to hit a certain target to keep operating",
+        "contributor": "Nyna",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764266,
+          1.303785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hup Seng Heng Vegetarian",
+        "address": "726 Clementi West Street 2, #01-195 120726",
+        "hours": "Tuesday to Sunday: 11am to 10pm, Closed on Monday",
+        "recommendations": "Sliced \"Fish\" Bee Hoon Soup",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guan Yin Vegetarian",
+        "address": "#04-41 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
+        "hours": "Everyday except Sunday, 11pm to 2pm",
+        "recommendations": "Mixed Vegetable Gravy Fried Kway Teow",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846701,
+          1.279401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Healthy Vegetarian (健康素食）",
+        "address": "#01-44, Amoy Street Food Centre, 7 Maxwell Rd 69111",
+        "hours": "-",
+        "recommendations": "Tom Yum fried rice",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88534,
+          1.323888,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meng Heng Vegetarian Food",
+        "address": "#01-81 Circuit Road Food Centre 370089",
+        "hours": "Tues & Sat 11am-10pm",
+        "recommendations": null,
+        "details": "Stall is run by an elderly couple and is not listed on any delivery platform",
+        "contributor": "Benjamin Ouyang",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884137,
+          1.307432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xiang Ji Miao Chu",
+        "address": "17 Old Airport Rd, Kallang Estate Market Singapore 397972 397972",
+        "hours": "5 30am - 11am",
+        "recommendations": "Vegetarian Food",
+        "details": "Elderly hawker",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848525,
+          1.282047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shu Vegetarian",
+        "address": "Unit 01-16, Market Street, 5 Cross St, Interim Food Centre 048418",
+        "hours": "0730-1430 M-F",
+        "recommendations": "Vegetarian food",
+        "details": "Stall owner is not techie. Doesnt know how to promote stalls and cannot delivery fee on online platform",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840737,
+          1.380976,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Foy Yin Vegetarian Food",
+        "address": "Blk 628 Ang Mo Kio Avenue 4 Unit 01-70, Singapore 560628 560628",
+        "hours": "Tues - Sun, 6:30 am - 9:00 pm",
+        "recommendations": null,
+        "details": "Have been in business for 30+ years. Stall was quiet on a weekday evening, and uncle + auntie are not very tech savvy (tried to hop on foodpanda but they are still struggling with it). If you're around this area and craving for a vegetarian meal, please visit this stall (highly reco their bee hoon and hor fun!). ",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885537,
+          1.374079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xing Hua Vegetarian",
+        "address": "682 Hougang Ave 4, Singapore  530682",
+        "hours": null,
+        "recommendations": "Interesting variety of vegetarian dishes. Reasonable price.",
+        "details": "Stall affected by mandatory testing at Hougang blocks",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749245,
+          1.327291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Swagat Indian Vegetarian",
+        "address": "#01-09, ICON@IBP, 3A international Business Park, Singapore 608935 609935",
+        "hours": "8:00 AM to 6:00 PM",
+        "recommendations": null,
+        "details": "Supported the office staff with Breakfast, Lunch and snacks. Due to WFH options, no customers at all.",
+        "contributor": "Kishore",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843092,
+          1.282586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vegetarian Fried Carrot Cake",
+        "address": "335 Smith St, #02-149 Chinatown Complex 050335",
+        "hours": null,
+        "recommendations": "Fried Carrot Cake",
+        "details": "Pls support if u r into fried carrot cake sticks. Old couple runs this stall at a rather ulu corner of Chinatown hawker centre. Both v friendly, price of items is reasonable as well. 3rd pic shows how to enter aft u take the escalator up on the left hand side, Same stretch as 胡记。",
+        "contributor": "Joey Chan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933191,
+          1.327214,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lei Yin Vegetarian",
+        "address": "Blk 216 Bedok North St 1  460216",
+        "hours": "6 am till 1pm (or sold out)",
+        "recommendations": "beehoon, fried noodles, curry vegetables, braised potatoes, braised soybean curd ",
+        "details": "Boss and helper were seen waiting for customers. Only during vegetarian days (初一 , 十五) will there be customers queuing for for their food ",
+        "contributor": "Alvin",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854192,
+          1.340234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Li Huat Hot and Cold Cheng Tng",
+        "address": "#01-80 Toa Payoh Lor 8 Market, 210 lorong 8 Toa Payoh 310210",
+        "hours": "-",
+        "recommendations": null,
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788308,
+          1.310971,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ghim Moh H.K Pasteries",
+        "address": "20 Ghim Moh Rd, #01-06 Market & Hawker Centre 270020",
+        "hours": "Tue-sun 7am-7pm",
+        "recommendations": "Curry Puff",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hum Jin Pang 中国街咸煎饼",
+        "address": "#01-28, Maxwell Food Centre, 1 Kadayanallur St 69184",
+        "hours": "11am-8pm",
+        "recommendations": "Ham Jin Pang",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844767,
+          1.280336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Traditional Delight (古早美味）",
+        "address": "Maxwell Food Centre, 1 Kadayanallur St 69184",
+        "hours": "-",
+        "recommendations": "Ondeh Ondeh",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863248,
+          1.319079,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Granny Pancake",
+        "address": "#01-77, 29 Bendemeer Road, Bendemeer Market And Food Centre 330029",
+        "hours": "7am - 2pm",
+        "recommendations": "Red Bean Ming Jiang Kueh",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832319,
+          1.285975,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liang Liang Garden (凉凉园饮水室）",
+        "address": "#02-75, Tiong Bahru Road, 30 Seng Poh Rd 168898",
+        "hours": "Daily 11am-9pm",
+        "recommendations": "Chng Teng with Peach Gum",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805795,
+          1.316456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pastry for Life",
+        "address": "#01-78, Empress Road Hawker Center, 7 Empress Rd 260007",
+        "hours": "7am - approx 4pm",
+        "recommendations": "Baos",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.804518,
+          1.28634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beans Fragrance",
+        "address": "#01-34, Alexandra Village Food Centre, 120 Bukit Merah Lane 1 ",
+        "hours": null,
+        "recommendations": "Coffee, tea, almond beancurd, dessert",
+        "details": "This stall is run by an elderly couple. The uncle is very passionate about his coffee, tea and beancurds. His almond beancurd js really delicious and does not taste artificial. He has other flavours as well and they are all handmade. He takes great pride in his drinks and desserts, and its very apparent when you watch him at work.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843092,
+          1.282586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "An Ji Xiang Hua Wen Tou Xue",
+        "address": "#02-183 Chinatown Complex Food Centre Blk 335 Smith Street 050335 050335",
+        "hours": null,
+        "recommendations": "Traditional ice dessert",
+        "details": "Uncle looks very old already, operating alone.",
+        "contributor": "Kelyn and Ah Long",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848525,
+          1.282047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hai Yan Cold and Hot Dessert",
+        "address": "#01-43, Market Street Interim Hawker Centre, 5 CROSS STREET 048418",
+        "hours": "1100 - 1500",
+        "recommendations": null,
+        "details": "The owners are digitally illiterate and are really having a hard time jumping onto the digital space.",
+        "contributor": "Jac",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887025,
+          1.353842,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kampong Western Food",
+        "address": "coffee shop at Block 121 Hougang Avenue 1. ",
+        "hours": null,
+        "recommendations": null,
+        "details": null,
+        "contributor": "Mei Leng Choy",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846128,
+          1.340449,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Asia Western Food",
+        "address": "116 Toa Payoh Lorong 2 #01-04 310116",
+        "hours": null,
+        "recommendations": "Chicken Wing",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895889,
+          1.368094,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hock Kee Western Food",
+        "address": "Block 327, Hougang Ave 5 530327",
+        "hours": "12 - 930pm",
+        "recommendations": "Spring Chicken",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.923502,
+          1.323935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lynn’s place western food",
+        "address": "26A Chai Chee Road Singapore 461026 461026",
+        "hours": "10am to 10pm (close on Saturday)",
+        "recommendations": "Western food",
+        "details": "Not tech savvy.",
+        "contributor": "Brandon",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855758,
+          1.345271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Western Food Stall",
+        "address": "New Century Food House, 151 Bishan St 11, 570151 570151",
+        "hours": null,
+        "recommendations": "Western food, fried rice",
+        "details": "Elderly couple not on delivery platform",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93874,
+          1.331994,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NFC Western",
+        "address": "85 Fengshan Centre, Blk 85 Bedok North Street 4, #01-37 460085",
+        "hours": null,
+        "recommendations": null,
+        "details": "Hi... Need help here... This stall is not on any delivery platforms as it is run by an old couple who are in their 70s. They were sitting outside their stall as they did not have any customers. ",
+        "contributor": "FeiFei Peh",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85514,
+          1.373783,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halim Western Food Delights",
+        "address": "Blk 532 Ang Mo Kio Ave 10 560532",
+        "hours": "11am - 10pn",
+        "recommendations": "Coffeeshop western",
+        "details": "Elderly couple have been selling quality western food for at least 8 years or more over here.  Coffeeshop is relatively empty when I visited twice to buy from them and they are not on any delivery platforms.  Lady boss mentioned this time the impact on their business is harder as compared to last year CB.  Their food portion are value for money and quality are average standards. Don't compare it with modern western stalls.",
+        "contributor": "Redhood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871846,
+          1.314918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JiLin Western Foods",
+        "address": "Blk 17 Upper Boon Keng Road (Hawker Centre) #01-40  380017",
+        "hours": "12.00pm to 7.30pm (closed on Wed & Thur, alternate Tue off preparing stocks)",
+        "recommendations": "Most of his dishes are unique, eg. Cajun Paprika  Chicken w Pasta/Rice or Fries comes w 2 types of sauce (ie. Black Pepper or Mushroom Cream - self invented) / Chicken Culets /Baked Fish etc",
+        "details": "Stall owner is young but not highly educated, and know not much of IT savvy, Grab/Panda platform not in his list as the charges is too high, the food profit is not high as he uses the herbs which is not cheap too, he's good at cooking, the menu of the Western Foods came up by himself & he is very particular on freshness of the food. Customers do comment on the goodness of food and have shared that it can be compared to Hotel standard. His customers are mostly the residents nearby & Factories staff and some through recommendation from their friends who had tasted his food. Due to last year Covid19 and recently Heightened Alert, business being affected. I chanced upon this site which helps Hawkers being affected by the Covid19 & Heightened Alert, thinking this might help him People can get some nice foods from this Hawker Centre too. Therefore, do give them some support too. Thank you & Stay Safe & Stay Healthy!",
+        "contributor": "Iris Lim",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838246,
+          1.370915,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nineties Pasta and Grill",
+        "address": "Blk 108 Ang Mo Kio Avenue 4 560108",
+        "hours": null,
+        "recommendations": "Value for money portion, delicious chicken chop",
+        "details": "The stall has been experiencing low footfall as it is located in an area that is hidden from main road",
+        "contributor": "Redhood",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84854,
+          1.367652,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Western Place",
+        "address": "Ang Mo Kio Ave 3 Blk 347 Coffee Shop 560347",
+        "hours": null,
+        "recommendations": null,
+        "details": "My childhood western food and it's run singlehandedly by a nice aunty with no food delivery. Support if you can!",
+        "contributor": "Joyce Lim",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776135,
+          1.342435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dhaba 1376 North Indian cuisine",
+        "address": "#04-64 Blk144 Upper Bukit Timah Rd, Beauty World Hawker Centre 588177",
+        "hours": "Open everyday except Monday afternoon, 11am to 10pm",
+        "recommendations": "Mixed Kebab Platter",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808155,
+          1.286905,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Y.R.A Rasool Fatimah",
+        "address": "#01-10, ABC Market, 6 Jalan Bukit Merah, Singapore 150006 150006",
+        "hours": "Daily (except Thursdays) 10am-7pm",
+        "recommendations": "Prata",
+        "details": null,
+        "contributor": "OldieGoodieHawker",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935557,
+          1.320547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Moli Food Stall",
+        "address": "16 Bedok South Road, #01-18 Singapore 460016",
+        "hours": null,
+        "recommendations": "Vadai",
+        "details": "Bedok Snack Stall Barely Gets Customers, Auntie Still Wakes Up Early To Make & Sell Vadais. I was walking around and observing that many stalks are doing brisk business (probably due to a wet and rainy Saturday) until I spotted this lone stall - there was no one in queue. I observed that maybe one or 2 folks would walk up to the stall, take a look and walk off. I do not know why.  I decided to go up to the Aunty and strike up a conversation with her. Aunty is very soft spoken. She manage this stall on her own most times and sometimes with ad hoc help. She gets up early to prepare the ingredients. She / her stall is not on any delivery platform / FB.  She told me her business is so bad that she hardly makes any money. If not for the one month rental rebate from G, she hardly makes any money after deducting all the ingredients and supplies etc.  Her fear is understandable. So much so that she does not even dare to make more than 10 Vadai at a time for fear of them becoming too cold and hard which she is worried that it will make her lose her usual and maybe potential customers.  I bought a few Vadai back to try and I must say at $0.60cents a piece, they are good. Soft and flavourful. I choose to support her which I really think she genuinely needed more support in letting people know her existence.  As you are reading this, this is one such stall that you can seriously consider showing your support to her and by sharing this post. Not very expensive / difficult to begin with.  What is genuinely needed here is more support, more sharing and awareness for her. Life is already very tough for her at the current situation and its getting more harder each day as she wonders how long she can keep going and sustain it.",
+        "contributor": "Louis Tan",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856853,
+          1.307238,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jalan Besar Mutton Soup",
+        "address": "166 Jalan berseh #02-57 Singapore 208877",
+        "hours": "11-7.30pm",
+        "recommendations": "Mutton soup",
+        "details": "Owned by a elderly couple who are not tech savvy.",
+        "contributor": null,
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.941135,
+          1.324168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Welcome Muslim Food Stall",
+        "address": "Blk 58 New Upper Changi Road. The Marketplace @ 58 461058",
+        "hours": "Closed on Fridays",
+        "recommendations": "Kambing soup, nasi/beehoon goreng ikan bilis, mee kuah, mee goreng",
+        "details": "Elderly man running the stall with his middle-aged son who has several medical conditions; son was away briefly for medical treatment",
+        "contributor": "Adi",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854438,
+          1.300903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Siraj Indian Rojak",
+        "address": "270 Queen St, 270, Albert Centre 180270",
+        "hours": null,
+        "recommendations": null,
+        "details": "Was in the area today and visited Albert Food Centre this afternoon. Bought indian rojak from the popular Siraj Indian Rojak, whom I used to patronise some 15 years ago every Sunday. Uncle had a brief chat with me, saying that business has really been bad especially on Sundays when it’s usually the most busy for him. Some stalls along his row have closed on Sundays, as they’ve given up. Could sense his frustrations, and he also casually asked how I know about his store. He’s heard about hawkers being shared on social media etc, but doesn’t seem to have a clue on how that works. So just helping him out and posting a shout out here, especially since his Indian Rojak is nice. So do give it a try if you’re in Bugis area!!",
+        "contributor": "Keefe Wong",
+        "styleUrl": "#icon-1577-E65100",
+        "styleHash": "-1f69d8c4",
+        "styleMapHash": {
+          "normal": "#icon-1577-E65100-normal",
+          "highlight": "#icon-1577-E65100-highlight"
+        }
+      }
     }
   ]
 }
