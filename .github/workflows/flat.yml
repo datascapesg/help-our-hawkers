@@ -24,7 +24,7 @@ jobs:
         uses: githubocto/flat@v2
         with:
           http_url: https://datascapesg-scrapers.netlify.app/.netlify/functions/togeojson?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fkml%3Fmid%3D1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF%26forcekml%3D1
-          downloaded_filename: raw-map.json
+          downloaded_filename: raw-map.geojson
           postprocess: postprocess.js
         env:
-          POSTPROCESS_FILENAME: stalls.json
+          POSTPROCESS_FILENAME: stalls.geojson
